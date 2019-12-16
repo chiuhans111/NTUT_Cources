@@ -1,0 +1,1585 @@
+
+
+
+
+
+
+<HTML>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<TITLE>108學年度 第 1 學期 開課資料查詢結果</TITLE>
+<Script src="https://font.ntut.edu.tw/wfs/js/lib/wfs.js" type="text/javascript" ></script>
+</head>
+
+<body  bgcolor=#ffffdf background="../image/grey918y.gif" text=#003398>
+<H3>108 學年度 第 1 學期 開課資料查詢結果</H3>
+<TABLE border=1>
+  <TR>
+      <TH align=Center>課號</TH>
+      <TH align=Center>課程名稱</TH>
+      <TH align=Center>階段</TH>
+      <TH align=Center>學分</TH>
+      <TH align=Center>時數</TH>
+      <TH align=Center>修</TH>
+      <TH align=Center>班級</TH>
+      <TH align=Center>教師</TH>
+      <TH align=Center>日</TH>
+      <TH align=Center>一</TH>
+      <TH align=Center>二</TH>
+      <TH align=Center>三</TH>
+      <TH align=Center>四</TH>
+      <TH align=Center>五</TH>
+      <TH align=Center>六</TH>
+      <TH align=Center>教室</TH>
+      <TH align=Center>人</TH>
+      <TH align=Center>撤</TH>
+      <TH align=Center>教學<BR>助理</TH>
+      <TH align=Center>授課<BR>語言</TH>
+      <TH align=Center>教學大綱<BR>與進度表</TH>
+      <TH align=Center>備註</TH>
+      <TH align=Center>隨班<BR>附讀</TH>
+      <TH align=Center>實驗<BR>實習</TH>
+  </TR>
+<TR>
+<td>261279
+<td><A href="Curr.jsp?format=-2&code=1004001">體育</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2075">光電四</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>261280
+<td><A href="Curr.jsp?format=-2&code=6504002">實務專題(二)</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2075">光電四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11066">王耀德</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=11291">林家弘</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=11013">徐巍峰</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=12147">陳美杏</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=11069">陳隆建</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=11179">楊恆隆</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=11897">鄭鈺潔</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>49</TD>
+  <TD align=Center>1</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR><BR><A href="ShowSyllabus.jsp?snum=261280&code=12147">查詢</A><BR><BR><BR><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>是</TD>
+</TR>
+<TR>
+<td>261287
+<td><A href="Curr.jsp?format=-2&code=6504110">平面顯示器概論</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=1005">產業接軌課程(大)</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2075">光電四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11179">楊恆隆</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=41">三教207</A><BR>
+
+  <TD align=Center>9</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=261287&code=11179">查詢</A><BR>
+  <TD>系所合開,擬抵研究所不列大學畢業學分請選研究所課號</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>261293
+<td><A href="Curr.jsp?format=-2&code=6504543">太陽能電池技術</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2075">光電四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11234">何文章</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=530">億光1035</A><BR>
+
+  <TD align=Center>23</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=261293&code=11234">查詢</A><BR>
+  <TD>系所合開,擬抵研究所不列大學畢業學分請選研究所課號</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>261295
+<td><A href="Curr.jsp?format=-2&code=6504552">積體光學</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2075">光電四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10939">王子建</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=529">億光0935</A><BR>
+
+  <TD align=Center>15</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=261295&code=10939">查詢</A><BR>
+  <TD>系所合開,擬抵研究所不列大學畢業學分請選研究所課號</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>261890
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2196">光電三</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>261891
+<td><A href="Curr.jsp?format=-2&code=1419992">博雅選修課程</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2196">光電三</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>261893
+<td><A href="Curr.jsp?format=-2&code=6503002">近代物理</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2196">光電三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10366">蔡淑雲</A><BR>
+
+  <TD>　<TD>5 6 <TD>　<TD>　<TD>8 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=530">億光1035</A><BR>
+
+  <TD align=Center>43</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=261893&code=10366">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>261894
+<td><A href="Curr.jsp?format=-2&code=6503003">電子學(二)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2196">光電三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10939">王子建</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 <TD>5 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=530">億光1035</A><BR>
+
+  <TD align=Center>40</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=261894&code=10939">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>261895
+<td><A href="Curr.jsp?format=-2&code=6503005">電子實驗(二)</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2196">光電三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10939">王子建</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>7 8 9 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=283">綜科105</A><BR>
+
+  <TD align=Center>41</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=261895&code=10939">查詢</A><BR>
+  <TD>電子系綜科105室；億光713室</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>是</TD>
+</TR>
+<TR>
+<td>261896
+<td><A href="Curr.jsp?format=-2&code=6503301">光電實驗(一)</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2196">光電三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11013">徐巍峰</A><BR>
+
+  <TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=545">億光0728</A><BR>
+
+  <TD align=Center>42</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=261896&code=11013">查詢</A><BR>
+  <TD>億光728光電實驗室</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>是</TD>
+</TR>
+<TR>
+<td>261899
+<td><A href="Curr.jsp?format=-2&code=6503102">生醫光電導論</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2196">光電三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11105">陳建銘</A><BR>
+
+  <TD>　<TD>8 <TD>　<TD>　<TD>6 7 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=530">億光1035</A><BR>
+
+  <TD align=Center>35</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=261899&code=11105">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>262324
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2315">光電二</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>6 7 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>262325
+<td><A href="Curr.jsp?format=-2&code=1419990">博雅核心課程-文史</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2315">光電二</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：通識中心/博雅核心-文史(三)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>262326
+<td><A href="Curr.jsp?format=-2&code=1419991">博雅選修課程</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2315">光電二</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>262327
+<td><A href="Curr.jsp?format=-2&code=14E0001">多元英文</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2315">光電二</A><BR>
+
+<td>　
+  <TD>　<TD>3 4 <TD>5 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：校院級課程/大二多元英文(一)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>262328
+<td><A href="Curr.jsp?format=-2&code=6502003">電磁學</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2315">光電二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11066">王耀德</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>5 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=72">四教201</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=1&code=74">四教203</A><BR>
+
+  <TD align=Center>58</TD>
+  <TD align=Center>2</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=262328&code=11066">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>262329
+<td><A href="Curr.jsp?format=-2&code=6502006">幾何光學</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2315">光電二</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2317">電資二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11015">吳俊傑</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>2 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=56">三教408</A><BR>
+
+  <TD align=Center>51</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=262329&code=11015">查詢</A><BR>
+  <TD>光電二與電資二合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>262330
+<td><A href="Curr.jsp?format=-2&code=6502012">光電工程概論 (一)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2315">光電二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10410">陳堯輝</A><BR>
+
+  <TD>　<TD>1 2 <TD>8 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=56">三教408</A><BR>
+
+  <TD align=Center>50</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=262330&code=10410">查詢</A><BR>
+  <TD>光電2與電資2合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>262331
+<td><A href="Curr.jsp?format=-2&code=6502013">微分方程</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2315">光電二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10402">林世聰</A><BR>
+
+  <TD>　<TD>　<TD>6 7 <TD>8 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=56">三教408</A><BR>
+
+  <TD align=Center>54</TD>
+  <TD align=Center>13</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=262331&code=10402">查詢</A><BR>
+  <TD>星期三第9節為微分方程輔導課，請排三教408</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>262332
+<td><A href="Curr.jsp?format=-2&code=6502109">電路學(一)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2315">光電二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11015">吳俊傑</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>3 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=56">三教408</A><BR>
+
+  <TD align=Center>51</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=262332&code=11015">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>263020
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>1
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2434">光電一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=23943">張曉亭</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>45</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=263020&code=23943">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>263021
+<td><A href="Curr.jsp?format=-2&code=1101006">全民國防教育</A>
+<td align=CENTER>1
+<td align=CENTER>0.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2434">光電一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11837">劉礎豪</A><BR>
+
+  <TD>　<TD>4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=333">三教201</A><BR>
+
+  <TD align=Center>45</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=263021&code=11837">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>263022
+<td><A href="Curr.jsp?format=-2&code=1400027">英文閱讀與聽講練習</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2434">光電一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=23249">劉國明</A><BR>
+
+  <TD>　<TD>　<TD>7 <TD>　<TD>1 2 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=336">三教501</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=1&code=493">一教1F</A><BR>
+
+  <TD align=Center>52</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=263022&code=23249">查詢</A><BR>
+  <TD>高級2</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>263023
+<td><A href="Curr.jsp?format=-2&code=1400099">服務學習</A>
+<td align=CENTER>1
+<td align=CENTER>0.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2434">光電一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=24153">秦志賢</A><BR>
+
+  <TD>　<TD>9 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>45</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>263024
+<td><A href="Curr.jsp?format=-2&code=1400102">大學入門與工程倫理</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2434">光電一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=24194">李金連</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=12147">陳美杏</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>7 8 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=41">三教207</A><BR>
+
+  <TD align=Center>48</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=263024&code=24194">查詢</A><BR><A href="ShowSyllabus.jsp?snum=263024&code=12147">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>263025
+<td><A href="Curr.jsp?format=-2&code=1404003">國文</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2434">光電一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=23980">黃慧禎</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=41">三教207</A><BR>
+
+  <TD align=Center>50</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=263025&code=23980">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>263026
+<td><A href="Curr.jsp?format=-2&code=1401036">微積分及演習</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2434">光電一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10454">林清炎</A><BR>
+
+  <TD>　<TD>　<TD>5 6 <TD>5 6 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=35">三教109</A><BR>
+
+  <TD align=Center>49</TD>
+  <TD align=Center>1</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=263026&code=10454">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>263027
+<td><A href="Curr.jsp?format=-2&code=1401043">物理實驗</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2434">光電一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=12147">陳美杏</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=523">億光0628</A><BR>
+
+  <TD align=Center>45</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=263027&code=12147">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>是</TD>
+</TR>
+<TR>
+<td>263028
+<td><A href="Curr.jsp?format=-2&code=1401045">物理</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2434">光電一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=12147">陳美杏</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>1 2 <TD>5 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=530">億光1035</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=1&code=43">三教209</A><BR>
+
+  <TD align=Center>48</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=263028&code=12147">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>263029
+<td><A href="Curr.jsp?format=-2&code=6501002">計算機概論</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2434">光電一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=23590">李後燦</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=154">共同312</A><BR>
+
+  <TD align=Center>50</TD>
+  <TD align=Center>1</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=263029&code=23590">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>263030
+<td><A href="Curr.jsp?format=-2&code=6501006">化學（一）</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2434">光電一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=23048">張俊賢</A><BR>
+
+  <TD>　<TD>6 7 8 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=41">三教207</A><BR>
+
+  <TD align=Center>47</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=263030&code=23048">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>263034
+<td><A href="Curr.jsp?format=-2&code=C501001">電機資訊科技</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2434">光電一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11069">陳隆建</A><BR>
+
+  <TD>　<TD>　<TD>2 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=41">三教207</A><BR>
+
+  <TD align=Center>50</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=263034&code=11069">查詢</A><BR>
+  <TD>電資學院大一必選課程，未及格者無法畢業</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>264022
+<td><A href="Curr.jsp?format=-2&code=6505091">光電科技概論(一)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11610">李穎玟</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>1 <TD>1 2 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=25">二教207</A><BR>
+
+  <TD align=Center>75</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=264022&code=11610">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>264023
+<td><A href="Curr.jsp?format=-2&code=6506003">專題討論</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11069">陳隆建</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=343">綜三演講廳</A><BR>
+
+  <TD align=Center>136</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=264023&code=11069">查詢</A><BR>
+  <TD>綜科第三演講廳</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>264026
+<td><A href="Curr.jsp?format=-2&code=6505004">光電實驗(一)</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11012">呂海涵</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=545">億光0728</A><BR>
+
+  <TD align=Center>60</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=264026&code=11012">查詢</A><BR>
+  <TD>億光728光電實驗室</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>是</TD>
+</TR>
+<TR>
+<td>264029
+<td><A href="Curr.jsp?format=-2&code=6505010">光電精密量測</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10402">林世聰</A><BR>
+
+  <TD>　<TD>6 7 8 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=528">億光0835</A><BR>
+
+  <TD align=Center>3</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=264029&code=10402">查詢</A><BR>
+  <TD>光電所和製科所合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>264033
+<td><A href="Curr.jsp?format=-2&code=6505016">傅氏光學</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11013">徐巍峰</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=528">億光0835</A><BR>
+
+  <TD align=Center>35</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=264033&code=11013">查詢</A><BR>
+  <TD>專業4選2B</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>264035
+<td><A href="Curr.jsp?format=-2&code=6505025">光電子學（一)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2466">電資外生所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=12147">陳美杏</A><BR>
+
+  <TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=433">六教426</A><BR>
+
+  <TD align=Center>10</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><A href="ShowSyllabus.jsp?snum=264035&code=12147">查詢</A><BR>
+  <TD>光電所和電資外生合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>264036
+<td><A href="Curr.jsp?format=-2&code=6505031">積體光學</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10939">王子建</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=529">億光0935</A><BR>
+
+  <TD align=Center>2</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=264036&code=10939">查詢</A><BR>
+  <TD>光電四和光電所合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>264038
+<td><A href="Curr.jsp?format=-2&code=6505034">光纖通訊</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11012">呂海涵</A><BR>
+
+  <TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=528">億光0835</A><BR>
+
+  <TD align=Center>16</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=264038&code=11012">查詢</A><BR>
+  <TD>專業4選2A</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>264043
+<td><A href="Curr.jsp?format=-2&code=6505050">光學薄膜設計與應用</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11050">任貽均</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=535">億光1115</A><BR>
+
+  <TD align=Center>6</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=264043&code=11050">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>264046
+<td><A href="Curr.jsp?format=-2&code=6505054">磊晶技術與量測</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11069">陳隆建</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=530">億光1035</A><BR>
+
+  <TD align=Center>16</TD>
+  <TD align=Center>1</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=264046&code=11069">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>264059
+<td><A href="Curr.jsp?format=-2&code=6505095">太陽能電池技術</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11234">何文章</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=530">億光1035</A><BR>
+
+  <TD align=Center>11</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=264059&code=11234">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>264060
+<td><A href="Curr.jsp?format=-2&code=6505097">半導體光學</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11067">洪魏寬</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=528">億光0835</A><BR>
+
+  <TD align=Center>56</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=264060&code=11067">查詢</A><BR>
+  <TD>專業4選2D</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>264063
+<td><A href="Curr.jsp?format=-2&code=6505114">平面顯示器導論</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=1569">產業接軌課程(研)</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2466">電資外生所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11179">楊恆隆</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=41">三教207</A><BR>
+
+  <TD align=Center>2</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><A href="ShowSyllabus.jsp?snum=264063&code=11179">查詢</A><BR>
+  <TD>光電四、光電所和電資外生班合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>264080
+<td><A href="Curr.jsp?format=-2&code=6505143">近代光子元件與應用</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2466">電資外生所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11897">鄭鈺潔</A><BR>
+
+  <TD>　<TD>8 9 A <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=383">共同411</A><BR>
+
+  <TD align=Center>5</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><A href="ShowSyllabus.jsp?snum=264080&code=11897">查詢</A><BR>
+  <TD>光電三、四、所和電資外生合開，Comsol, Rsoft</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>264422
+<td><A href="Curr.jsp?format=-2&code=6506001">論文</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>68</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>碩士論文</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>266143
+<td><A href="Curr.jsp?format=-2&code=6504579">近代光子元件與應用</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2075">光電四</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2196">光電三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11897">鄭鈺潔</A><BR>
+
+  <TD>　<TD>8 9 A <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=383">共同411</A><BR>
+
+  <TD align=Center>12</TD>
+  <TD align=Center>2</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><A href="ShowSyllabus.jsp?snum=266143&code=11897">查詢</A><BR>
+  <TD>光電三、四、所和電資外生合開，Comsol, Rsoft</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>266146
+<td><A href="Curr.jsp?format=-2&code=6504109">光電系統設計</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2075">光電四</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2196">光電三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=23699">林世穆</A><BR>
+
+  <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=529">億光0935</A><BR>
+
+  <TD align=Center>3</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><A href="ShowSyllabus.jsp?snum=266146&code=23699">查詢</A><BR>
+  <TD>系所合開,擬抵研究所不列大學畢業學分請選研究所課號</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>266148
+<td><A href="Curr.jsp?format=-2&code=6504525">光電系統設計</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2466">電資外生所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=23699">林世穆</A><BR>
+
+  <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=529">億光0935</A><BR>
+
+  <TD align=Center>9</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><A href="ShowSyllabus.jsp?snum=266148&code=23699">查詢</A><BR>
+  <TD>Zemax軟體,光電所和電資外生合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>266326
+<td><A href="Curr.jsp?format=-2&code=6504577">顯示面板含實習</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2196">光電三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11291">林家弘</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=535">億光1115</A><BR>
+
+  <TD align=Center>15</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=266326&code=11291">查詢</A><BR>
+  <TD>限20人，本課程與友達工廠合作，實習時為整天課程</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>是</TD>
+</TR>
+<TR>
+<td>266371
+<td><A href="Curr.jsp?format=-2&code=6504573">半導體元件物理含實習</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2075">光電四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11069">陳隆建</A><BR>
+
+  <TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=528">億光0835</A><BR>
+
+  <TD align=Center>19</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=266371&code=11069">查詢</A><BR>
+  <TD>系所合開,擬抵研究所不列大學畢業學分請選研究所課號</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>266372
+<td><A href="Curr.jsp?format=-2&code=6504559">半導體薄膜特性與製程</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2075">光電四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11066">王耀德</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=56">三教408</A><BR>
+
+  <TD align=Center>1</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=266372&code=11066">查詢</A><BR>
+  <TD>系所合開,擬抵研究所不列大學畢業學分請選研究所課號</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>266376
+<td><A href="Curr.jsp?format=-2&code=6505049">半導體薄膜特性與製程</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2466">電資外生所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11066">王耀德</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=56">三教408</A><BR>
+
+  <TD align=Center>15</TD>
+  <TD align=Center>1</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><A href="ShowSyllabus.jsp?snum=266376&code=11066">查詢</A><BR>
+  <TD>專業4選2D,光電所和電資外生合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>266378
+<td><A href="Curr.jsp?format=-2&code=6507001">博士論文</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>5</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>博士論文</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>266379
+<td><A href="Curr.jsp?format=-2&code=6507002">英文科技論文寫作</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=22573">劉立雯</A><BR>
+
+  <TD>　<TD>B C D <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=58">三教411</A><BR>
+
+  <TD align=Center>40</TD>
+  <TD align=Center>1</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=266379&code=22573">查詢</A><BR>
+  <TD>9/9停課，9/5異動</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>266531
+<td><A href="Curr.jsp?format=-2&code=6505128">就業達人講座-職場自我行銷</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11069">陳隆建</A><BR>
+
+  <TD>　<TD>　<TD>N <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=56">三教408</A><BR>
+
+  <TD align=Center>13</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=266531&code=11069">查詢</A><BR>
+  <TD>本課程集中上課(10:00-13:00)，如無法配合勿選</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>266532
+<td><A href="Curr.jsp?format=-2&code=6504562">就業達人講座-職場自我行銷</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2075">光電四</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2196">光電三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11069">陳隆建</A><BR>
+
+  <TD>　<TD>　<TD>N <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=56">三教408</A><BR>
+
+  <TD align=Center>12</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=266532&code=11069">查詢</A><BR>
+  <TD>本課程集中上課(10:00-13:00)，如無法配合勿選</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>266788
+<td><A href="Curr.jsp?format=-2&code=6505146">材料科學、光電技術及關鍵專利</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11928">陳志遠</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 5 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=59">三教502</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=1&code=40">三教206</A><BR>
+
+  <TD align=Center>3</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>中英雙語
+<td align=center><A href="ShowSyllabus.jsp?snum=266788&code=11928">查詢</A><BR>
+  <TD>光電所與智財所合開,限7人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>266789
+<td><A href="Curr.jsp?format=-2&code=6505147">光纖寬頻網路應用</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2460">光電所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=23506">陳國龍</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=528">億光0835</A><BR>
+
+  <TD align=Center>21</TD>
+  <TD align=Center>1</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=266789&code=23506">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>266790
+<td><A href="Curr.jsp?format=-2&code=6504581">光纖感測</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2075">光電四</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2196">光電三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11369">彭朋群</A><BR>
+
+  <TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=530">億光1035</A><BR>
+
+  <TD align=Center>28</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=266790&code=11369">查詢</A><BR>
+  <TD>光電三、四合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>267228
+<td><A href="Curr.jsp?format=-2&code=C500001">感測技術基礎科學</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2293">電機二甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2294">電機二乙</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2295">電機二丙</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2304">電子二甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2305">電子二乙</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2314">資工二</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2315">光電二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11009">宋國明</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=11610">李穎玟</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=12147">陳美杏</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=11678">陳晏笙</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=11069">陳隆建</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=11369">彭朋群</A><BR>
+
+  <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=467">科研大樓234</A><BR>
+
+  <TD align=Center>82</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=267228&code=11009">查詢</A><BR><A href="ShowSyllabus.jsp?snum=267228&code=11610">查詢</A><BR><A href="ShowSyllabus.jsp?snum=267228&code=12147">查詢</A><BR><A href="ShowSyllabus.jsp?snum=267228&code=11678">查詢</A><BR><A href="ShowSyllabus.jsp?snum=267228&code=11069">查詢</A><BR><A href="ShowSyllabus.jsp?snum=267228&code=11369">查詢</A><BR>
+  <TD>電資學院各系二年級與智慧感測學程合開,學程必修</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>267689
+<td><A href="Curr.jsp?format=-2&code=6504118">學期校外實習</A>
+<td align=CENTER>1
+<td align=CENTER>12.0
+<td align=CENTER>40
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2075">光電四</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>3</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>267691
+<td><A href="Curr.jsp?format=-2&code=6504566">部份工時學期校外實習</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>20
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2075">光電四</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>3</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271625
+<td><A href="Curr.jsp?format=-2&code=1400029">校外實習</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>40
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2075">光電四</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>1</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>須先經過系所審核，由系所彙整名單加選</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+
+</TABLE>
+<BR>
+<P><img src="../image/or_ball.gif"></img>各節次上課時間如下：
+<table border = 1>
+<tr align=center><td width="15%">1: 08:10 - 09:00<td width="15%">2: 09:10 - 10:00<td width="15%">3: 10:10 - 11:00<td width="15%">4: 11:10 - 12:00<td width="15%">N: 12:10 - 13:00
+<tr align=center><td>5: 13:10 - 14:00<td>6: 14:10 - 15:00<td>7: 15:10 - 16:00<td>8: 16:10 - 17:00<td>9: 17:10 - 18:00
+<tr align=center><td>A: 18:30 - 19:20<td>B: 19:20 - 20:10<td>C: 20:20 - 21:10<td>D: 21:10 - 22:00<td>　
+</table>
+
+<P>說明：</P>
+<OL>
+<LI>為避免欲查詢之資料量過大而影響速度，請適當地設定查詢條件。</LI>
+<LI>本資料係由本校各教學單位、教務處課務組、進修部教務組、進修學院教務組及計網中心所共同提供！</LI>
+<LI>本資料僅供參考，正式資料仍以教務處、進修部、進修學院所公佈之書面資料為準。</LI>
+</OL>
+</body>
+</HTML>
