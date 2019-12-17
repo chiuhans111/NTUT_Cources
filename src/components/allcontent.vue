@@ -157,6 +157,7 @@
                   >
                     <v-card
                       :color="selectId==course.content.id?'success':hoverId==course.content.id?'grey lighten-3':''"
+                      :dark="selectId==course.content.id"
                       @mouseover="hoverId=course.content.id"
                       @click="selectId=course.content.id==selectId?null:course.content.id"
                     >
