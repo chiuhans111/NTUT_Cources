@@ -12,6 +12,14 @@
     <v-content>
       <allcontent></allcontent>
     </v-content>
+    <v-card>
+      <v-card-text>
+        <p>
+          本系統純屬休閒開發，不保證資訊正確性，若有發現問題歡迎到
+          <v-btn href="https://github.com/chiuhans111/NTUT_Cources">GitHub 專案頁</v-btn>
+        </p>
+      </v-card-text>
+    </v-card>
   </v-app>
 </template>
 
