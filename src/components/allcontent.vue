@@ -157,11 +157,14 @@
                   >
                     <v-card
                       :color="selectId==course.content.id?'success':hoverId==course.content.id?'grey lighten-3':''"
-                      :dark="selectId==course.content.id"
                       @mouseover="hoverId=course.content.id"
                       @click="selectId=course.content.id==selectId?null:course.content.id"
                     >
-                      <v-card-text>
+                      <v-card-text
+                        :class="{
+                        'white--text': selectId==course.content.id
+                      }"
+                      >
                         <h3>{{course.content.id}}-{{course.name}}-{{course.content.need.split(' ')[0]}}</h3>
                         <p>{{course.content.classname}} - {{course.content.teacher}} - {{course.content.classroom}}</p>
                         <p>{{course.content.other}} - {{course.content.need.split(' ')[1]}}</p>
