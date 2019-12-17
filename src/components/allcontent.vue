@@ -21,7 +21,8 @@
       <v-tab-item :value="'tab-1'">
         <v-card flat tile>
           <v-card-text>
-            <p>過濾字尾</p>
+            <h3>過濾字尾</h3>
+            <p>點選切換要顯示的字尾，不影響課表篩選。</p>
             <div>
               <v-chip
                 @click="p.check=!p.check"
@@ -34,23 +35,30 @@
             <br />
             <v-divider></v-divider>
             <br />
-            <p>過濾系統</p>
-            <div v-for="(cat, ci) in content.cats_list" :key="ci">
-              <h1>{{cat.name}}</h1>
-              <br />
-              <div>
-                <v-chip
-                  @click="u.check=!u.check"
-                  :color="u.check?'success':''"
-                  class="ma-1"
-                  v-for="(u, i) in cat.units.filter(x=>x.postfix.check)"
-                  :key="i"
-                >{{u.name}}</v-chip>
-              </div>
-              <br />
-              <v-divider></v-divider>
-              <br />
-            </div>
+            <h3>過濾系統</h3>
+            <p>選取想要出現在課表內的課程系統。</p>
+            <v-layout wrap>
+              <v-flex
+                class="col-xs-12 col-sm-6 col-md-4 col-lg-3"
+                v-for="(cat, ci) in content.cats_list"
+                :key="ci"
+              >
+                <h1>{{cat.name}}</h1>
+                <br />
+                <div>
+                  <v-chip
+                    @click="u.check=!u.check"
+                    :color="u.check?'success':''"
+                    class="ma-1"
+                    v-for="(u, i) in cat.units.filter(x=>x.postfix.check)"
+                    :key="i"
+                  >{{u.name}}</v-chip>
+                </div>
+                <br />
+                <v-divider></v-divider>
+                <br />
+              </v-flex>
+            </v-layout>
           </v-card-text>
         </v-card>
       </v-tab-item>
@@ -63,19 +71,49 @@
       <v-tab-item :value="'tab-2'">
         <v-card>
           <v-card-text>
+            <h3>過濾班級</h3>
             <p>依據班級過濾課表</p>
             <v-btn text small @click="content.classes.map(x=>x.check=true)">全選</v-btn>
             <v-btn text small @click="content.classes.map(x=>x.check=false)">全不選</v-btn>
-            <br />
-            <div>
-              <v-chip
-                @click="c.check=!c.check"
-                :color="c.check?'success':''"
-                class="ma-1"
-                v-for="(c, i) in content.classes.filter(x=>x.show)"
-                :key="i"
-              >{{c.name}}</v-chip>
-            </div>
+
+            <v-layout wrap>
+              <template v-for="(classlabel, cci) in content.classlabels ">
+                <v-flex
+                  class="col-xs-12 col-sm-6 col-md-4 col-lg-3"
+                  v-if="content.classes.some(x=>x.show&&x.class==classlabel)"
+                  :key="cci"
+                >
+                  <div>
+                    <h3>
+                      {{classlabel}}
+                      <v-btn
+                        text
+                        small
+                        @click="content.classes.filter(x=>x.class==classlabel).map(x=>x.check=true)"
+                      >全選{{classlabel}}</v-btn>
+                      <v-btn
+                        text
+                        small
+                        @click="content.classes.filter(x=>x.class==classlabel).map(x=>x.check=false)"
+                      >不選{{classlabel}}</v-btn>
+                    </h3>
+                    <div>
+                      <template v-for="(c, i) in content.classes.filter(x=>x.show)">
+                        <v-chip
+                          v-if="c.class==classlabel"
+                          @click="c.check=!c.check"
+                          :color="c.check?'success':''"
+                          class="ma-1"
+                          :key="i"
+                        >{{c.name}}</v-chip>
+                      </template>
+                    </div>
+                    <br />
+                    <v-divider></v-divider>
+                  </div>
+                </v-flex>
+              </template>
+            </v-layout>
           </v-card-text>
         </v-card>
       </v-tab-item>
@@ -97,7 +135,7 @@
           fixed-tabs
         >
           <v-tab
-            v-for="i in [0,1,2,3,4,5,6].filter(x=>filteredCourses.courses.some(y=>y.time.day==x))"
+            v-for="i in [0,1,2,3,4,5,6].filter(x=>filteredCourses.courses.some(y=>y.time.day==x&&y.class.some(x=>x.check)))"
             :href="'#tab2-'+i"
             :key="i"
           >
@@ -109,28 +147,28 @@
 
           <v-tab-item v-for="i in [0,1,2,3,4,5,6]" :value="'tab2-'+i" :key="i">
             <div v-for="(time,ti) in filteredCourses[i]" :key="ti">
-              <v-card>
-                <v-card-title>第 {{time.time}} 節</v-card-title>
-                <v-card-text>
-                  <v-layout wrap>
-                    <template v-for="(course, ci) in time.courses">
-                      <v-flex v-if="course.class.check" xs-2 class="ma-1" :key="ci">
-                        <v-card
-                          :color="selectId==course.content.id?'success':hoverId==course.content.id?'grey lighten-3':''"
-                          @mouseover="hoverId=course.content.id"
-                          @click="selectId=course.content.id"
-                        >
-                          <v-card-text>
-                            <h3>{{course.content.id}}-{{course.name}}-{{course.content.need.split(' ')[0]}}</h3>
-                            <p>{{course.content.classname}} - {{course.content.teacher}} - {{course.content.classroom}}</p>
-                            <p>{{course.content.other}} - {{course.content.need.split(' ')[1]}}</p>
-                          </v-card-text>
-                        </v-card>
-                      </v-flex>
-                    </template>
-                  </v-layout>
-                </v-card-text>
-              </v-card>
+              <v-card-title>第 {{time.time}} 節</v-card-title>
+              <v-layout wrap>
+                <template v-for="(course, ci) in time.courses">
+                  <v-flex
+                    v-if="course.class.some(x=>x.check)"
+                    class="col-xs-12 col-sm-6 col-lg-3 col-xl-2"
+                    :key="ci"
+                  >
+                    <v-card
+                      :color="selectId==course.content.id?'success':hoverId==course.content.id?'grey lighten-3':''"
+                      @mouseover="hoverId=course.content.id"
+                      @click="selectId=course.content.id==selectId?null:course.content.id"
+                    >
+                      <v-card-text>
+                        <h3>{{course.content.id}}-{{course.name}}-{{course.content.need.split(' ')[0]}}</h3>
+                        <p>{{course.content.classname}} - {{course.content.teacher}} - {{course.content.classroom}}</p>
+                        <p>{{course.content.other}} - {{course.content.need.split(' ')[1]}}</p>
+                      </v-card-text>
+                    </v-card>
+                  </v-flex>
+                </template>
+              </v-layout>
             </div>
           </v-tab-item>
         </v-tabs>

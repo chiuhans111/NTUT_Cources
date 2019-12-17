@@ -13,6 +13,18 @@ let cat_order = {
     "公務": 10,
     "其他": 20
 }
+
+let classlabels = [
+    "機械", "機電", "車輛", "製科", "自動", "化工",
+    "材資", "土木", "分子", "防災", "高分", "環境",
+    "生化", "化工", "材料", "資源", "工管", "經管",
+    "資財", "工設", "建築", "創新", "設計", "互動",
+    "技職", "英文", "智財", "文發", "電機", "電子",
+    "資工", "光電"
+]
+
+let classMatcher = new RegExp('(' + classlabels.join('|') + ')')
+
 let cats = {}
 
 let postfixes = {}
@@ -84,26 +96,44 @@ function filteredCourses() {
                 if (all[z.day][z.time] == null)
                     all[z.day][z.time] = []
 
+                let relatedClass = []
+                y.classname.split('\n').map(w => {
+                    let classname = w.trim()
+                    if (classes_obj[classname] == null) {
 
-                if (classes_obj[y.classname] == null){
-
-                    classes_obj[y.classname] = {
-                        name: y.classname,
-                        check: true,
-                        show:true
+                        let gradematch = classname.match(/[一二三四].?$/)
+                        let classMatch = classMatcher.exec(classname)
+                        classes_obj[classname] = {
+                            name: classname,
+                            check: true,
+                            show: true,
+                            grade: gradematch != null ? { "一": 1, "二": 2, "三": 3, "四": 4 }[gradematch] : 5,
+                            class: classMatch ? classMatch[0] : ""
+                        }
+                        classes.push(classes_obj[classname])
                     }
-                    classes.push(classes_obj[y.classname])
-                    classes.sort()
-                }
-                    
-                classes_obj[y.classname].show = true
+
+                    classes_obj[classname].show = true
+                    relatedClass.push(classes_obj[classname])
+                })
+
+                classes.sort((a, b) => {
+                    if (a.class != b.class) return a.class.localeCompare(b.class)
+                    if (a.grade != b.grade) return a.grade - b.grade
+                    a = a.name
+                    b = b.name
+                    if (a.length > b.length) return 1
+                    if (b.length > a.length) return -1
+                    return [...a].reverse().join('').localeCompare([...b].reverse().join(''))
+                })
+
 
                 let obj = {
                     name: y.name,
                     content: y,
                     time: z,
 
-                    class: classes_obj[y.classname]
+                    class: relatedClass
                 }
                 if (!all[z.day][z.time].some(w => w.content.id == y.id))
                     all[z.day][z.time].push(obj)
@@ -133,5 +163,6 @@ export default {
     cats_list,
     postfixes,
     filteredCourses,
-    classes
+    classes,
+    classlabels
 }
