@@ -14,11 +14,12 @@
     </v-content>
     <v-card>
       <v-card-text>
+        本系統純屬休閒開發，不保證資訊正確性。
         <v-btn
           flat
           text
           href="https://github.com/chiuhans111/NTUT_Cources"
-        >本系統純屬休閒開發，不保證資訊正確性，若有發現問題歡點擊前往 GitHub 專案頁</v-btn>
+        > GitHub 專案頁</v-btn>
       </v-card-text>
     </v-card>
   </v-app>
