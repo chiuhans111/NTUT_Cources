@@ -15,16 +15,16 @@ let cat_order = {
 }
 
 let classlabels = [
-    "機械", "機電", "車輛", "製科", "自動", "化工",
+    "光電", "資工", "機械", "機電", "車輛", "製科", "自動", "化工",
     "材資", "土木", "分子", "防災", "高分", "環境",
     "生化", "材料", "資源", "工管", "經管",
     "資財", "工設", "建築", "創新", "設計", "互動",
     "技職", "英文", "智財", "文發", "電機", "電子",
-    "資工", "光電"
+    "博雅", "通識"
 ]
 
 let classMatcher = new RegExp('(' + classlabels.join('|') + ')')
-
+classlabels.push("其他")
 let cats = {}
 
 let postfixes = {}
@@ -103,12 +103,17 @@ function filteredCourses() {
 
                         let gradematch = classname.match(/[一二三四].?$/)
                         let classMatch = classMatcher.exec(classname)
+                        let boyaMatch = null
+                        if (classMatch != null && classMatch[0] == "博雅")
+                            boyaMatch = classname.match(/博雅核心[—－](.+)\(/)
+
                         classes_obj[classname] = {
                             name: classname,
                             check: true,
                             show: true,
                             grade: gradematch != null ? { "一": 1, "二": 2, "三": 3, "四": 4 }[gradematch] : 5,
-                            class: classMatch ? classMatch[0] : ""
+                            class: classMatch ? classMatch[0] : "其他",
+                            boya: boyaMatch != null ? boyaMatch[1].trim() : ""
                         }
                         classes.push(classes_obj[classname])
                     }
@@ -119,7 +124,9 @@ function filteredCourses() {
 
                 classes.sort((a, b) => {
                     if (a.class != b.class) return a.class.localeCompare(b.class)
+                    if (a.boya != b.boya) return a.boya.localeCompare(b.boya)
                     if (a.grade != b.grade) return a.grade - b.grade
+
                     a = a.name
                     b = b.name
                     if (a.length > b.length) return 1
