@@ -119,8 +119,8 @@
       </v-tab-item>
 
       <v-tab :href="'#tab-3'" dark>
-        看課表
-        <v-icon>mdi-table</v-icon>
+        看課程
+        <v-icon>mdi-view-day</v-icon>
       </v-tab>
 
       <v-tab-item :value="'tab-3'">
@@ -177,6 +177,44 @@
           </v-tab-item>
         </v-tabs>
       </v-tab-item>
+
+      <v-tab :href="'#tab-4'" dark>
+        看課表
+        <v-icon>mdi-table</v-icon>
+      </v-tab>
+      <v-tab-item :value="'tab-4'">
+        <table class="class-table">
+          <thead>
+            <tr>
+              <th></th>
+              <th v-for="i in [1,2,3,4,5,6]" :key="i">{{['日','一','二','三','四','五','六'][i]}}</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr v-for="(timecode, tci) in [1,2,3,4,'N',5,6,7,8,9,'A','B','C','D']" :key="tci">
+              <td>{{timecode}}</td>
+              <td v-for="i in [1,2,3,4,5,6]" :key="i">
+                <template v-if="filteredCourses[i]!=null">
+                  <div
+                    v-for="(time,ti) in filteredCourses[i].filter(x=>x.time==timecode)"
+                    :key="ti"
+                  >
+                    <template v-for="(course, ci) in time.courses">
+                      <div
+                        v-if="course.class.some(x=>x.check)"
+                        :key="ci"
+                        :style="{
+                        background: course.bg
+                      }"
+                      >{{course.name}}</div>
+                    </template>
+                  </div>
+                </template>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </v-tab-item>
     </v-tabs>
   </div>
 </template>
@@ -201,5 +239,24 @@ export default {
 };
 </script>
 
-<style scoped>
+<style scoped lang="scss">
+.class-table {
+  table-layout: fixed;
+  width: 100%;
+  border: solid 1px black;
+  border-collapse: collapse;
+  td,
+  th {
+    border: solid 1px black;
+    text-align: center;
+    padding: 4px, 2px;
+    @media (max-width: 600px) {
+      font-size: 10px;
+    }
+
+    &:nth-child(1) {
+      width: 20px;
+    }
+  }
+}
 </style>

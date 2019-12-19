@@ -87,6 +87,10 @@ function filteredCourses() {
 
     parsed.filter(x => x.cat.check).map(x => {
         x.content.map(y => {
+            let r = Math.floor(Math.random()*50)+200;
+            let g = Math.floor(Math.random()*50)+200;
+            let b = Math.floor(Math.random()*50)+200;
+            let bg = `rgb(${r},${g},${b})`;
 
             y.times.map(z => {
 
@@ -139,6 +143,7 @@ function filteredCourses() {
                     name: y.name,
                     content: y,
                     time: z,
+                    bg,
 
                     class: relatedClass
                 }
