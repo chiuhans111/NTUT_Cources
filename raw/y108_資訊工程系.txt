@@ -1,0 +1,1554 @@
+
+
+
+
+
+
+<HTML>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<TITLE>108�Ǧ~�� �� 1 �Ǵ� �}�Ҹ�Ƭd�ߵ��G</TITLE>
+<Script src="https://font.ntut.edu.tw/wfs/js/lib/wfs.js" type="text/javascript" ></script>
+</head>
+
+<body  bgcolor=#ffffdf background="../image/grey918y.gif" text=#003398>
+<H3>108 �Ǧ~�� �� 1 �Ǵ� �}�Ҹ�Ƭd�ߵ��G</H3>
+<TABLE border=1>
+  <TR>
+      <TH align=Center>�Ҹ�</TH>
+      <TH align=Center>�ҵ{�W��</TH>
+      <TH align=Center>���q</TH>
+      <TH align=Center>�Ǥ�</TH>
+      <TH align=Center>�ɼ�</TH>
+      <TH align=Center>��</TH>
+      <TH align=Center>�Z��</TH>
+      <TH align=Center>�Юv</TH>
+      <TH align=Center>��</TH>
+      <TH align=Center>�@</TH>
+      <TH align=Center>�G</TH>
+      <TH align=Center>�T</TH>
+      <TH align=Center>�|</TH>
+      <TH align=Center>��</TH>
+      <TH align=Center>��</TH>
+      <TH align=Center>�Ы�</TH>
+      <TH align=Center>�H</TH>
+      <TH align=Center>�M</TH>
+      <TH align=Center>�о�<BR>�U�z</TH>
+      <TH align=Center>�½�<BR>�y��</TH>
+      <TH align=Center>�оǤj��<BR>�P�i�ת�</TH>
+      <TH align=Center>�Ƶ�</TH>
+      <TH align=Center>�H�Z<BR>��Ū</TH>
+      <TH align=Center>����<BR>���</TH>
+  </TR>
+<TR>
+<td>261255
+<td><A href="Curr.jsp?format=-2&code=1004001">��|</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2074">��u�|</A><BR>
+
+<td>�@
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>�@
+<td>�@
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center>�@
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>261256
+<td><A href="Curr.jsp?format=-2&code=5904202">��ȱM�D(�T)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2074">��u�|</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=12095">�մ���</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=10772">�d�M�x</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=11106">�B�ا�</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=11107">�B�ǻ�</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=11324">�ªF��</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=10600">�ª���</A><BR>
+
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>�@
+<td>�@
+  <TD align=Center>73</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=261256&code=12095">�d��</A><BR><A href="ShowSyllabus.jsp?snum=261256&code=10772">�d��</A><BR><A href="ShowSyllabus.jsp?snum=261256&code=11106">�d��</A><BR><A href="ShowSyllabus.jsp?snum=261256&code=11107">�d��</A><BR><A href="ShowSyllabus.jsp?snum=261256&code=11324">�d��</A><BR><A href="ShowSyllabus.jsp?snum=261256&code=10600">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>261258
+<td><A href="Curr.jsp?format=-2&code=5904302">�n��u�{</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2074">��u�|</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11106">�B�ا�</A><BR>
+
+  <TD>�@<TD>�@<TD>�@<TD>5 6 7 <TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=424">����227</A><BR>
+
+  <TD align=Center>25</TD>
+  <TD align=Center>2</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=261258&code=11106">�d��</A><BR>
+  <TD>��u�|�B��u�ҩҦX�}</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>261267
+<td><A href="Curr.jsp?format=-2&code=5904327">�H���H���P�t��</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2074">��u�|</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10772">�d�M�x</A><BR>
+
+  <TD>�@<TD>7 <TD>7 8 <TD>�@<TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=473">���j��334</A><BR>
+
+  <TD align=Center>5</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�^�y
+<td align=center><A href="ShowSyllabus.jsp?snum=261267&code=10772">�d��</A><BR>
+  <TD>��u�|�B��u�ҩM�q���گZ�X�}</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>261278
+<td><A href="Curr.jsp?format=-2&code=5904360">���q��Ʊ��ɻP����</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2074">��u�|</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11297">������</A><BR>
+
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>2 3 4 <TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=427">����325</A><BR>
+
+  <TD align=Center>14</TD>
+  <TD align=Center>3</TD>
+<td>�@
+<td align=CENTER>�^�y
+<td align=center><A href="ShowSyllabus.jsp?snum=261278&code=11297">�d��</A><BR>
+  <TD>��u�|�B��u�ҡB��]�ҩM�q���گZ�X�}</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>261872
+<td><A href="Curr.jsp?format=-2&code=1001001">��|</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2195">��u�T</A><BR>
+
+<td>�@
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>8 9 <TD>�@
+<td>�@
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center>�@
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>261873
+<td><A href="Curr.jsp?format=-2&code=1419992">�ն���׽ҵ{</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2195">��u�T</A><BR>
+
+<td>�@
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>1 2 <TD>�@<TD>�@
+<td>�@
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center>�@
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>261874
+<td><A href="Curr.jsp?format=-2&code=1419993">�ն���׽ҵ{</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2195">��u�T</A><BR>
+
+<td>�@
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>1 2 <TD>�@
+<td>�@
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center>�@
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>261876
+<td><A href="Curr.jsp?format=-2&code=5902206">��Ʈw�t��</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2195">��u�T</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11106">�B�ا�</A><BR>
+
+  <TD>�@<TD>�@<TD>5 <TD>�@<TD>3 4 <TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=429">����327</A><BR>
+
+  <TD align=Center>89</TD>
+  <TD align=Center>1</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=261876&code=11106">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>261877
+<td><A href="Curr.jsp?format=-2&code=5903203">�p�������</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2195">��u�T</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10772">�d�M�x</A><BR>
+
+  <TD>�@<TD>�@<TD>2 <TD>5 6 <TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=429">����327</A><BR>
+
+  <TD align=Center>86</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=261877&code=10772">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>261878
+<td><A href="Curr.jsp?format=-2&code=5903204">��ȱM�D(�@)</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2195">��u�T</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=12095">�մ���</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=10772">�d�M�x</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=11106">�B�ا�</A><BR>
+
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>�@
+<td>�@
+  <TD align=Center>72</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=261878&code=12095">�d��</A><BR><A href="ShowSyllabus.jsp?snum=261878&code=10772">�d��</A><BR><A href="ShowSyllabus.jsp?snum=261878&code=11106">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>261879
+<td><A href="Curr.jsp?format=-2&code=5903210">�M�D�Q��</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2195">��u�T</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10434">�_�}��</A><BR>
+
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>5 6 <TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=429">����327</A><BR>
+
+  <TD align=Center>66</TD>
+  <TD align=Center>1</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=261879&code=10434">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>261881
+<td><A href="Curr.jsp?format=-2&code=5903301">�����{���]�p</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2195">��u�T</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10583">������</A><BR>
+
+  <TD>�@<TD>�@<TD>6 <TD>�@<TD>�@<TD>3 4 <TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=429">����327</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=1&code=25">�G��207</A><BR>
+
+  <TD align=Center>57</TD>
+  <TD align=Center>15</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=261881&code=10583">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>261889
+<td><A href="Curr.jsp?format=-2&code=5903324">�C���{���}�o</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2195">��u�T</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11634">���ؿo</A><BR>
+
+  <TD>�@<TD>5 6 <TD>�@<TD>�@<TD>�@<TD>7 <TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=476">���j��1322</A><BR>
+
+  <TD align=Center>42</TD>
+  <TD align=Center>7</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=261889&code=11634">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>262312
+<td><A href="Curr.jsp?format=-2&code=1001001">��|</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2314">��u�G</A><BR>
+
+<td>�@
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>6 7 <TD>�@
+<td>�@
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center>�@
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>262313
+<td><A href="Curr.jsp?format=-2&code=1419989">�ն��֤߽ҵ{-����</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2314">��u�G</A><BR>
+
+<td>�@
+  <TD>�@<TD>�@<TD>1 2 <TD>�@<TD>�@<TD>�@<TD>�@
+<td>�@
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center>�@
+  <TD>�п�G�q�Ѥ���/�ն��֤�-����(�T)</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>262314
+<td><A href="Curr.jsp?format=-2&code=1419991">�ն���׽ҵ{</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2314">��u�G</A><BR>
+
+<td>�@
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>1 2 <TD>�@<TD>�@
+<td>�@
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center>�@
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>262315
+<td><A href="Curr.jsp?format=-2&code=14E0001">�h���^��</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2314">��u�G</A><BR>
+
+<td>�@
+  <TD>�@<TD>3 4 <TD>5 <TD>�@<TD>�@<TD>�@<TD>�@
+<td>�@
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center>�@
+  <TD>�п�G�հ|�Žҵ{/�j�G�h���^��(�@)</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>262316
+<td><A href="Curr.jsp?format=-2&code=5901205">�u�ʥN��</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2314">��u�G</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10709">���h��</A><BR>
+
+  <TD>�@<TD>1 2 <TD>�@<TD>2 <TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=429">����327</A><BR>
+
+  <TD align=Center>88</TD>
+  <TD align=Center>1</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=262316&code=10709">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>262317
+<td><A href="Curr.jsp?format=-2&code=5901206">����ɦV�{���]�p</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2314">��u�G</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10583">������</A><BR>
+
+  <TD>�@<TD>6 7 <TD>8 <TD>�@<TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=429">����327</A><BR>
+
+  <TD align=Center>86</TD>
+  <TD align=Center>3</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=262317&code=10583">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>262318
+<td><A href="Curr.jsp?format=-2&code=5902201">��Ƶ��c</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2314">��u�G</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11107">�B�ǻ�</A><BR>
+
+  <TD>�@<TD>5 <TD>�@<TD>�@<TD>�@<TD>3 4 <TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=429">����327</A><BR>
+
+  <TD align=Center>83</TD>
+  <TD align=Center>4</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=262318&code=11107">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>262319
+<td><A href="Curr.jsp?format=-2&code=5902207">�L����t��</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2314">��u�G</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11427">�����M</A><BR>
+
+  <TD>�@<TD>�@<TD>9 <TD>3 4 <TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=429">����327</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=1&code=540">���j��1222</A><BR>
+
+  <TD align=Center>64</TD>
+  <TD align=Center>2</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=262319&code=11427">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263008
+<td><A href="Curr.jsp?format=-2&code=1001001">��|</A>
+<td align=CENTER>1
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2433">��u�@</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=23939">���T�o</A><BR>
+
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>3 4 <TD>�@
+<td>�@
+  <TD align=Center>60</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=263008&code=23939">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263009
+<td><A href="Curr.jsp?format=-2&code=1101006">�����꨾�Ш|</A>
+<td align=CENTER>1
+<td align=CENTER>0.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2433">��u�@</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11545">�}���y</A><BR>
+
+  <TD>�@<TD>6 <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=333">�T��201</A><BR>
+
+  <TD align=Center>44</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=263009&code=11545">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263010
+<td><A href="Curr.jsp?format=-2&code=1400027">�^��\Ū�Pť���m��</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2433">��u�@</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=24111">���丵</A><BR>
+
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>7 <TD>5 6 <TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=11">�@��303</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=1&code=28">�G��303</A><BR>
+
+  <TD align=Center>50</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=263010&code=24111">�d��</A><BR>
+  <TD>����2</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263011
+<td><A href="Curr.jsp?format=-2&code=1400099">�A�Ⱦǲ�</A>
+<td align=CENTER>1
+<td align=CENTER>0.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2433">��u�@</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=24155">���߻�</A><BR>
+
+  <TD>�@<TD>9 <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@
+<td>�@
+  <TD align=Center>59</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263012
+<td><A href="Curr.jsp?format=-2&code=1400102">�j�ǤJ���P�u�{�۲z</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2433">��u�@</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10772">�d�M�x</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=11106">�B�ا�</A><BR>
+
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>7 8 <TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=429">����327</A><BR>
+
+  <TD align=Center>62</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=263012&code=10772">�d��</A><BR><A href="ShowSyllabus.jsp?snum=263012&code=11106">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263013
+<td><A href="Curr.jsp?format=-2&code=1404003">���</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2433">��u�@</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=12079">���`��</A><BR>
+
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>5 6 <TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=25">�G��207</A><BR>
+
+  <TD align=Center>53</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=263013&code=12079">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263014
+<td><A href="Curr.jsp?format=-2&code=1401032">�L�n��</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2433">��u�@</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11175">�x���M</A><BR>
+
+  <TD>�@<TD>�@<TD>�@<TD>3 4 <TD>3 <TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=450">����725</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=1&code=434">����427</A><BR>
+
+  <TD align=Center>58</TD>
+  <TD align=Center>1</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=263014&code=11175">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263015
+<td><A href="Curr.jsp?format=-2&code=5901202">�p�������</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2433">��u�@</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=12172">���g��</A><BR>
+
+  <TD>�@<TD>3 4 <TD>�@<TD>�@<TD>2 <TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=429">����327</A><BR>
+
+  <TD align=Center>88</TD>
+  <TD align=Center>1</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=263015&code=12172">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263016
+<td><A href="Curr.jsp?format=-2&code=5901207">�Ʀ��޿�]�p</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2433">��u�@</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=12172">���g��</A><BR>
+
+  <TD>�@<TD>�@<TD>6 7 <TD>7 <TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=467">���j��234</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=1&code=429">����327</A><BR>
+
+  <TD align=Center>74</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=263016&code=12172">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263017
+<td><A href="Curr.jsp?format=-2&code=5901209">�p����{���]�p(�@)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2433">��u�@</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11247">�����q</A><BR>
+
+  <TD>�@<TD>8 <TD>�@<TD>8 9 <TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=429">����327</A><BR>
+
+  <TD align=Center>93</TD>
+  <TD align=Center>8</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=263017&code=11247">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263018
+<td><A href="Curr.jsp?format=-2&code=5901212">���z</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2433">��u�@</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11234">��峹</A><BR>
+
+  <TD>�@<TD>5 <TD>�@<TD>�@<TD>8 9 <TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=336">�T��501</A><BR>
+
+  <TD align=Center>63</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=263018&code=11234">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263019
+<td><A href="Curr.jsp?format=-2&code=C501001">�q����T���</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2433">��u�@</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=12095">�մ���</A><BR>
+
+  <TD>�@<TD>�@<TD>2 <TD>�@<TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=476">���j��1322</A><BR>
+
+  <TD align=Center>61</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=263019&code=12095">�d��</A><BR>
+  <TD>����u�@�B�G�ǥͿ��,��L�ǥͤ��o�[��</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263903
+<td><A href="Curr.jsp?format=-2&code=5905001">�פ�</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2457">��u��</A><BR>
+
+<td>�@
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>�@
+<td>�@
+  <TD align=Center>70</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center>�@
+  <TD>�Ӥh�Z</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263904
+<td><A href="Curr.jsp?format=-2&code=5905002">�M�D�Q��</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2457">��u��</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10600">�ª���</A><BR>
+
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>7 8 <TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=429">����327</A><BR>
+
+  <TD align=Center>62</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=263904&code=10600">�d��</A><BR>
+  <TD>�Ӥh�Z</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263905
+<td><A href="Curr.jsp?format=-2&code=5905004">�˦��ɦV�n��]�p</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2457">��u��</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10663">�G���i</A><BR>
+
+  <TD>�@<TD>�@<TD>�@<TD>2 3 4 <TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=25">�G��207</A><BR>
+
+  <TD align=Center>69</TD>
+  <TD align=Center>3</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=263905&code=10663">�d��</A><BR>
+  <TD>2��207�Ы�/���פG��@�A���Эײ߶ȩӻ{1���Ǥ�</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263906
+<td><A href="Curr.jsp?format=-2&code=5905005">�q�T�n��]�p</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2457">��u��</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2466">�q��~�ͩ�</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11634">���ؿo</A><BR>
+
+  <TD>�@<TD>�@<TD>5 6 <TD>�@<TD>�@<TD>8 <TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=433">����426</A><BR>
+
+  <TD align=Center>22</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�^�y
+<td align=center><A href="ShowSyllabus.jsp?snum=263906&code=11634">�d��</A><BR>
+  <TD>��u�ҹq��~�ͦX/���פG��@�A���Эײ߶ȩӻ{1���Ǥ�</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263909
+<td><A href="Curr.jsp?format=-2&code=5905101">�t��k���R�P�]�p</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2457">��u��</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2466">�q��~�ͩ�</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11107">�B�ǻ�</A><BR>
+
+  <TD>�@<TD>6 <TD>�@<TD>�@<TD>�@<TD>6 7 <TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=25">�G��207</A><BR>
+
+  <TD align=Center>28</TD>
+  <TD align=Center>3</TD>
+<td>�@
+<td align=CENTER>�^�y
+<td align=center><A href="ShowSyllabus.jsp?snum=263909&code=11107">�d��</A><BR>
+  <TD>��u�|�B��u�ҩM�q��~�ͯZ�X�}</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263918
+<td><A href="Curr.jsp?format=-2&code=5905127">�H���H���P�t��</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2457">��u��</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2466">�q��~�ͩ�</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10772">�d�M�x</A><BR>
+
+  <TD>�@<TD>7 <TD>7 8 <TD>�@<TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=473">���j��334</A><BR>
+
+  <TD align=Center>15</TD>
+  <TD align=Center>1</TD>
+<td>�@
+<td align=CENTER>�^�y
+<td align=center><A href="ShowSyllabus.jsp?snum=263918&code=10772">�d��</A><BR>
+  <TD>��u�|�B��u�ҩM�q��~�ͯZ�X�}</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263923
+<td><A href="Curr.jsp?format=-2&code=5905142">�n��u�{</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2457">��u��</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11106">�B�ا�</A><BR>
+
+  <TD>�@<TD>�@<TD>�@<TD>5 6 7 <TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=424">����227</A><BR>
+
+  <TD align=Center>53</TD>
+  <TD align=Center>6</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=263923&code=11106">�d��</A><BR>
+  <TD>��u�|�B��u�ҦX�}</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263940
+<td><A href="Curr.jsp?format=-2&code=5905187">���q��Ʊ��ɻP����</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2457">��u��</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2466">�q��~�ͩ�</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11297">������</A><BR>
+
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>2 3 4 <TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=427">����325</A><BR>
+
+  <TD align=Center>45</TD>
+  <TD align=Center>1</TD>
+<td>�@
+<td align=CENTER>�^�y
+<td align=center><A href="ShowSyllabus.jsp?snum=263940&code=11297">�d��</A><BR>
+  <TD>��u�|�B��u�ҡB��]�ҩM�q��~�ͯZ�X�}</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>263942
+<td><A href="Curr.jsp?format=-2&code=5905190">�O�J�����z�v�����R�P��Ҭɭ�</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2457">��u��</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11427">�����M</A><BR>
+
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>2 3 4 <TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=473">���j��334</A><BR>
+
+  <TD align=Center>30</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=263942&code=11427">�d��</A><BR>
+  <TD>��u�|�B��u�ҦX�},�M�~�ĤJ�A�Ⱦǲ�</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>264230
+<td><A href="Curr.jsp?format=-2&code=5925105">�q���q�T����</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2457">��u��</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2466">�q��~�ͩ�</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10434">�_�}��</A><BR>
+
+  <TD>�@<TD>�@<TD>6 <TD>6 7 <TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=473">���j��334</A><BR>
+
+  <TD align=Center>16</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�^�y
+<td align=center><A href="ShowSyllabus.jsp?snum=264230&code=10434">�d��</A><BR>
+  <TD>��u�ҩM�q��~�ͯZ�X�}</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>264564
+<td><A href="Curr.jsp?format=-2&code=5902205">���ں����޳N�P����</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2314">��u�G</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=24198">�d�x�|</A><BR>
+
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>5 6 7 <TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=541">���j��1223</A><BR>
+
+  <TD align=Center>58</TD>
+  <TD align=Center>1</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=264564&code=24198">�d��</A><BR>
+  <TD>�s�u�ݥ��d�x�|�Ѯv(�W��55�H)�C��1223LAB</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>264579
+<td><A href="Curr.jsp?format=-2&code=5904310">��T�w��</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2195">��u�T</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11297">������</A><BR>
+
+  <TD>�@<TD>7 <TD>7 8 <TD>�@<TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=476">���j��1322</A><BR>
+
+  <TD align=Center>46</TD>
+  <TD align=Center>9</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=264579&code=11297">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>264580
+<td><A href="Curr.jsp?format=-2&code=5904315">�H�u���z</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2195">��u�T</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11247">�����q</A><BR>
+
+  <TD>�@<TD>3 4 N <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=15">�G��103</A><BR>
+
+  <TD align=Center>44</TD>
+  <TD align=Center>8</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=264580&code=11247">�d��</A><BR>
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>264581
+<td><A href="Curr.jsp?format=-2&code=5904347">�t��k���R�P�]�p</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2074">��u�|</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11107">�B�ǻ�</A><BR>
+
+  <TD>�@<TD>6 <TD>�@<TD>�@<TD>�@<TD>6 7 <TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=25">�G��207</A><BR>
+
+  <TD align=Center>51</TD>
+  <TD align=Center>4</TD>
+<td>�@
+<td align=CENTER>�^�y
+<td align=center><A href="ShowSyllabus.jsp?snum=264581&code=11107">�d��</A><BR>
+  <TD>��u�|�B��u�ҩM�q���گZ�X�}</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>264583
+<td><A href="Curr.jsp?format=-2&code=5904352">�n��ݨD�P�W��</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2074">��u�|</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10663">�G���i</A><BR>
+
+  <TD>�@<TD>5 <TD>7 8 <TD>�@<TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=25">�G��207</A><BR>
+
+  <TD align=Center>6</TD>
+  <TD align=Center>1</TD>
+<td>�@
+<td align=CENTER>�^�y
+<td align=center><A href="ShowSyllabus.jsp?snum=264583&code=10663">�d��</A><BR>
+  <TD>��u�|�B��u�ҩM�q���گZ�X�}</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>264584
+<td><A href="Curr.jsp?format=-2&code=5904363">�O�J�����z�v�����R�P��Ҭɭ�</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2074">��u�|</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11427">�����M</A><BR>
+
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>2 3 4 <TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=473">���j��334</A><BR>
+
+  <TD align=Center>13</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=264584&code=11427">�d��</A><BR>
+  <TD>��u�|�B��u�ҦX�}�F��15�H,�M�~�ĤJ�A�Ⱦǲ�</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>264586
+<td><A href="Curr.jsp?format=-2&code=5904313">�Ʀ�v���B�z</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2074">��u�|</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2195">��u�T</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=12095">�մ���</A><BR>
+
+  <TD>�@<TD>8 <TD>�@<TD>8 9 <TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=476">���j��1322</A><BR>
+
+  <TD align=Center>39</TD>
+  <TD align=Center>10</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=264586&code=12095">�d��</A><BR>
+  <TD>��u�T�B��u�|�B��u�ҦX�}(�H�ƦU��20�H)</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>264587
+<td><A href="Curr.jsp?format=-2&code=5905117">�Ʀ�v���B�z</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2457">��u��</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=12095">�մ���</A><BR>
+
+  <TD>�@<TD>8 <TD>�@<TD>8 9 <TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=476">���j��1322</A><BR>
+
+  <TD align=Center>21</TD>
+  <TD align=Center>1</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=264587&code=12095">�d��</A><BR>
+  <TD>��u�T�B��u�|�B��u�ҦX�}(��20�H)</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>264589
+<td><A href="Curr.jsp?format=-2&code=5905180">�n��ݨD�P�W��</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2457">��u��</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2466">�q��~�ͩ�</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10663">�G���i</A><BR>
+
+  <TD>�@<TD>5 <TD>7 8 <TD>�@<TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=25">�G��207</A><BR>
+
+  <TD align=Center>13</TD>
+  <TD align=Center>1</TD>
+<td>�@
+<td align=CENTER>�^�y
+<td align=center><A href="ShowSyllabus.jsp?snum=264589&code=10663">�d��</A><BR>
+  <TD>��u�|�B��u�ҩM�q��~�ͯZ�X�}�B�G��207</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>264590
+<td><A href="Curr.jsp?format=-2&code=5907001">�^���޽פ�g�@</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2457">��u��</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=21725">���F�Z</A><BR>
+
+  <TD>�@<TD>�@<TD>A B C <TD>�@<TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=49">�T��308</A><BR>
+
+  <TD align=Center>34</TD>
+  <TD align=Center>1</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=264590&code=21725">�d��</A><BR>
+  <TD>�ݥ��C�դh�Z���סA�Ӥh�Z�o�C���</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>264591
+<td><A href="Curr.jsp?format=-2&code=5907002">�M�D�Q��</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2457">��u��</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=10600">�ª���</A><BR>
+
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>7 8 <TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=473">���j��334</A><BR>
+
+  <TD align=Center>3</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=264591&code=10600">�d��</A><BR>
+  <TD>�դh�Z</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>264592
+<td><A href="Curr.jsp?format=-2&code=5907003">�դh�פ�</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2457">��u��</A><BR>
+
+<td>�@
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>�@
+<td>�@
+  <TD align=Center>8</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center>�@
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>265930
+<td><A href="Curr.jsp?format=-2&code=5905182">�ӱ��P���n��}�o</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2457">��u��</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=23328">���ا�</A><BR>
+
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>2 3 4 <TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=473">���j��334</A><BR>
+
+  <TD align=Center>30</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=265930&code=23328">�d��</A><BR>
+  <TD>�ݥ�</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>266026
+<td><A href="Curr.jsp?format=-2&code=5905194">���s�C��P��ܾ����H�t�γ]�p</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2457">��u��</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11118">���^�@</A><BR>
+
+  <TD>�@<TD>2 3 4 <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=541">���j��1223</A><BR>
+
+  <TD align=Center>22</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=266026&code=11118">�d��</A><BR>
+  <TD>��u�|�B��u�ҦX�}�C��1223LAB</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>266028
+<td><A href="Curr.jsp?format=-2&code=5902313">�q����(�@)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2314">��u�G</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11162">�J��^</A><BR>
+
+  <TD>�@<TD>8 <TD>�@<TD>�@<TD>3 4 <TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=31">�G��306</A><BR>
+
+  <TD align=Center>13</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=266028&code=11162">�d��</A><BR>
+  <TD>��u�G�P�|�q��G�X�}</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>266029
+<td><A href="Curr.jsp?format=-2&code=5904368">���s�C��P��ܾ����H�t�γ]�p</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2074">��u�|</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11118">���^�@</A><BR>
+
+  <TD>�@<TD>2 3 4 <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=541">���j��1223</A><BR>
+
+  <TD align=Center>13</TD>
+  <TD align=Center>5</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=266029&code=11118">�d��</A><BR>
+  <TD>��u�|�B��u�ҦX�}</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>267021
+<td><A href="Curr.jsp?format=-2&code=5902305">�T���P�t��</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2195">��u�T</A><BR>
+
+<td>�@
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>�@
+<td>�@
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center>�@
+  <TD>��u�T�M�|�q�T���X�}�i���}�j</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>267228
+<td><A href="Curr.jsp?format=-2&code=C500001">�P���޳N��¦���</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2293">�q���G��</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2294">�q���G�A</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2295">�q���G��</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2304">�q�l�G��</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2305">�q�l�G�A</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2314">��u�G</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=1&code=2315">���q�G</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=1&code=11009">�����</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=11610">���o��</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=12147">������</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=11678">���˲�</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=11069">������</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=1&code=11369">�^�B�s</A><BR>
+
+  <TD>�@<TD>5 6 7 <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@
+<td><A href="Croom.jsp?format=-3&year=108&sem=1&code=467">���j��234</A><BR>
+
+  <TD align=Center>82</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center><A href="ShowSyllabus.jsp?snum=267228&code=11009">�d��</A><BR><A href="ShowSyllabus.jsp?snum=267228&code=11610">�d��</A><BR><A href="ShowSyllabus.jsp?snum=267228&code=12147">�d��</A><BR><A href="ShowSyllabus.jsp?snum=267228&code=11678">�d��</A><BR><A href="ShowSyllabus.jsp?snum=267228&code=11069">�d��</A><BR><A href="ShowSyllabus.jsp?snum=267228&code=11369">�d��</A><BR>
+  <TD>�q��ǰ|�U�t�G�~�ŻP���z�P���ǵ{�X�},�ǵ{����</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>267693
+<td><A href="Curr.jsp?format=-2&code=5904346">�ե~��ȹ��(�@)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>40
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2074">��u�|</A><BR>
+
+<td>�@
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>�@
+<td>�@
+  <TD align=Center>17</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center>�@
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>267694
+<td><A href="Curr.jsp?format=-2&code=5904348">�ե~��ȹ��(�G)</A>
+<td align=CENTER>1
+<td align=CENTER>9.0
+<td align=CENTER>40
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2074">��u�|</A><BR>
+
+<td>�@
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>�@
+<td>�@
+  <TD align=Center>1</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center>�@
+  <TD>�@</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+<TR>
+<td>271627
+<td><A href="Curr.jsp?format=-2&code=5905001">�פ�</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">��</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=1&code=2457">��u��</A><BR>
+
+<td>�@
+  <TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>�@<TD>�@
+<td>�@
+  <TD align=Center>1</TD>
+  <TD align=Center>0</TD>
+<td>�@
+<td align=CENTER>�@
+<td align=center>�@
+  <TD>�Ӥh�Z</TD>
+<td align=CENTER>�@</TD>
+<td align=CENTER>�@</TD>
+</TR>
+
+</TABLE>
+<BR>
+<P><img src="../image/or_ball.gif"></img>�U�`���W�Үɶ��p�U�G
+<table border = 1>
+<tr align=center><td width="15%">1: 08:10 - 09:00<td width="15%">2: 09:10 - 10:00<td width="15%">3: 10:10 - 11:00<td width="15%">4: 11:10 - 12:00<td width="15%">N: 12:10 - 13:00
+<tr align=center><td>5: 13:10 - 14:00<td>6: 14:10 - 15:00<td>7: 15:10 - 16:00<td>8: 16:10 - 17:00<td>9: 17:10 - 18:00
+<tr align=center><td>A: 18:30 - 19:20<td>B: 19:20 - 20:10<td>C: 20:20 - 21:10<td>D: 21:10 - 22:00<td>�@
+</table>
+
+<P>�����G</P>
+<OL>
+<LI>���קK���d�ߤ���ƶq�L�j�Ӽv�T�t�סA�оA���a�]�w�d�߱���C</LI>
+<LI>����ƫY�ѥ��զU�оǳ��B�аȳB�ҰȲաB�i�׳��аȲաB�i�׾ǰ|�аȲդέp�����ߩҦ@�P���ѡI</LI>
+<LI>����ƶȨѰѦҡA������Ƥ��H�аȳB�B�i�׳��B�i�׾ǰ|�Ҥ��G���ѭ���Ƭ��ǡC</LI>
+</OL>
+</body>
+</HTML>
