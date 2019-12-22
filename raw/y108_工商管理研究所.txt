@@ -290,7 +290,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center><BR>
-  <TD>全英文上課</TD>
+  <TD>全英文上課/管理博班和工管所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -313,7 +313,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center><BR>
-  <TD>工管大四20碩班15合開</TD>
+  <TD>工管大四20碩班15合開/管理博班和工管所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -336,7 +336,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center><BR>
-  <TD>全英文上課</TD>
+  <TD>全英文上課/管理博班和工管所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -359,7 +359,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center><BR>
-  <TD>　</TD>
+  <TD>管理博班和工管所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -381,8 +381,8 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
-  <TD>全英文上課</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=273113&code=11832">查詢</A><BR>
+  <TD>全英文上課/管理博班和工管所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -425,8 +425,8 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
-  <TD>　</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=273268&code=10361">查詢</A><BR>
+  <TD>管理博班和經管碩專班合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>

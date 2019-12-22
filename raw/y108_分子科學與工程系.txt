@@ -79,7 +79,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=268088&code=11981">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -166,7 +166,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=268750&code=24124">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -203,10 +203,8 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10913">蘇昭瑾</A><BR>
 
-  <TD>　<TD>　<TD>　<TD>　<TD>2 <TD>1 2 <TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=109">紡織二樓_2</A><BR>
-<A href="Croom.jsp?format=-3&year=108&sem=2&code=277">紡織二樓_1</A><BR>
-
+  <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>1 <TD>　
+<td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -234,27 +232,6 @@
 <td>　
 <td align=CENTER>　
 <td align=center><A href="ShowSyllabus.jsp?snum=268763&code=10714">查詢</A><BR>
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>268765
-<td><A href="Curr.jsp?format=-2&code=3534054">學期校外學習</A>
-<td align=CENTER>1
-<td align=CENTER>9.0
-<td align=CENTER>40
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2184">分子三</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -366,7 +343,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269301&code=11149">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -389,7 +366,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269302&code=11151">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -412,7 +389,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269303&code=10914">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -456,7 +433,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269306&code=11151">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -478,7 +455,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269823&code=24232">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -517,7 +494,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12005">王伯雅</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>8 <TD>3 4 <TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=61">三教504</A><BR>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=21">二教203</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=2&code=11">一教303</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -537,15 +515,16 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2422">分子一</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24153">秦志賢</A><BR>
+
   <TD>　<TD>　<TD>　<TD>　<TD>9 <TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
+<td align=center><BR>
+  <TD>須分組至校外，第1及2週遲到早退缺席者不得選課。</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -669,6 +648,7 @@
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2422">分子一</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2437">工程一</A><BR>
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11108">蔡麗珠</A><BR>
 
@@ -680,7 +660,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center><A href="ShowSyllabus.jsp?snum=269832&code=11108">查詢</A><BR>
-  <TD>中英</TD>
+  <TD>中英/工程一和分子一合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -701,7 +681,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269833&code=11981">查詢</A><BR>
   <TD>限60人</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -724,7 +704,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269834&code=11395">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -746,7 +726,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273063&code=11149">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -783,6 +763,7 @@
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2177">化工三甲</A><BR>
 <A href="Subj.jsp?format=-4&year=108&sem=2&code=2178">化工三乙</A><BR>
 <A href="Subj.jsp?format=-4&year=108&sem=2&code=2179">化工三丙</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2180">材資三甲</A><BR>
 <A href="Subj.jsp?format=-4&year=108&sem=2&code=2181">材資三乙</A><BR>
 <A href="Subj.jsp?format=-4&year=108&sem=2&code=2182">土木三甲</A><BR>
 <A href="Subj.jsp?format=-4&year=108&sem=2&code=2183">土木三乙</A><BR>
@@ -817,7 +798,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273311&code=11981">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -978,7 +959,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273371&code=11395">查詢</A><BR>
   <TD>需持有「游離輻射訓練合格證書」者，方可選修此課程</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1001,7 +982,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273372&code=11395">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>

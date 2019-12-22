@@ -59,7 +59,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269427&code=12143">查詢</A><BR>
   <TD>車輛二和機電二合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -193,7 +193,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269510&code=10414">查詢</A><BR><BR>
   <TD>固力實驗-綜科428，材料實驗-綜科B02</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>是</TD>
@@ -216,7 +216,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269511&code=11584">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -307,7 +307,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270023&code=24024">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -347,12 +347,13 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>7 <TD>5 6 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=29">二教304</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=2&code=493">一教1F</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270025&code=12177">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -366,15 +367,16 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2435">機電一</A><BR>
 
-<td>　
-  <TD>　<TD>9 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24153">秦志賢</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>8 <TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
+<td align=center><BR>
+  <TD>須分組至校外，第1及2週遲到早退缺席者不得選課。</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -484,7 +486,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270031&code=10410">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -506,7 +508,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270032&code=10410">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -529,7 +531,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270033&code=11767">查詢</A><BR>
   <TD>另綜科112</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>是</TD>
@@ -552,7 +554,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270034&code=12143">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -574,7 +576,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270036&code=10414">查詢</A><BR>
   <TD>限55人</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>

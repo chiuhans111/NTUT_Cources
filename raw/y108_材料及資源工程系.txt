@@ -453,14 +453,15 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2181">材資三乙</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11251">張裕煦</A><BR>
+
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -606,7 +607,7 @@
 <A href="Teach.jsp?format=-3&year=108&sem=2&code=11173">楊永欽</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=79">四教304</A><BR>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=75">四教204</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -629,7 +630,7 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11173">楊永欽</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>3 4 5 <TD>　<TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=79">四教304</A><BR>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=75">四教204</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -674,7 +675,7 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10306">張啟凡</A><BR>
 
   <TD>　<TD>　<TD>5 <TD>　<TD>1 2 <TD>　<TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=79">四教304</A><BR>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=75">四教204</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -741,7 +742,7 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11820">陳柏均</A><BR>
 
   <TD>　<TD>　<TD>　<TD>5 <TD>　<TD>8 9 <TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=79">四教304</A><BR>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=75">四教204</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -855,7 +856,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269257&code=12176">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -901,7 +902,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269259&code=12176">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>是</TD>
@@ -923,7 +924,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269261&code=12032">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -946,7 +947,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269267&code=10554">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1014,7 +1015,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269762&code=24035">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1055,6 +1056,7 @@
 
   <TD>　<TD>　<TD>　<TD>5 6 <TD>6 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=69">四教101</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=2&code=9">一教301</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -1074,15 +1076,16 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2418">材資一甲</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24159">石嘉琳</A><BR>
+
   <TD>　<TD>　<TD>　<TD>9 <TD>　<TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
+<td align=center><BR>
+  <TD>須分組至校外，第1及2週遲到早退缺席者不得選課。</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -1169,7 +1172,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269769&code=23414">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1254,7 +1257,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11728">洪桂彬</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=231">化學103</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=2&code=472">科研大樓332</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -1298,7 +1303,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10602">徐永富</A><BR>
 
   <TD>　<TD>4 <TD>　<TD>3 4 <TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=75">四教204</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -1371,7 +1377,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269780&code=11809">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1385,15 +1391,16 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2419">材資一乙</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24159">石嘉琳</A><BR>
+
   <TD>　<TD>　<TD>　<TD>　<TD>9 <TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
+<td align=center><BR>
+  <TD>須分組至校外，第1及2週遲到早退缺席者不得選課。</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -1415,7 +1422,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269782&code=23487">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1503,7 +1510,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269786&code=12032">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1566,7 +1573,9 @@
 <A href="Teach.jsp?format=-3&year=108&sem=2&code=11424">蔡子萱</A><BR>
 
   <TD>　<TD>6 7 8 <TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=231">化學103</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=2&code=472">科研大樓332</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -1593,7 +1602,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269790&code=10554">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>是</TD>
@@ -1633,7 +1642,7 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11929">徐曉萱</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=79">四教304</A><BR>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=75">四教204</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -1653,15 +1662,16 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2299">材資二甲</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10506">梁誠</A><BR>
+
   <TD>　<TD>6 <TD>1 2 <TD>　<TD>　<TD>　<TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=79">四教304</A><BR>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=75">四教204</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271635&code=10506">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1866,7 +1876,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271767&code=12032">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1932,7 +1942,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271770&code=10554">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1949,7 +1959,7 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10306">張啟凡</A><BR>
 
   <TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　<TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=79">四教304</A><BR>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=75">四教204</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -1977,7 +1987,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271774&code=12032">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1992,6 +2002,7 @@
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2177">化工三甲</A><BR>
 <A href="Subj.jsp?format=-4&year=108&sem=2&code=2178">化工三乙</A><BR>
 <A href="Subj.jsp?format=-4&year=108&sem=2&code=2179">化工三丙</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2180">材資三甲</A><BR>
 <A href="Subj.jsp?format=-4&year=108&sem=2&code=2181">材資三乙</A><BR>
 <A href="Subj.jsp?format=-4&year=108&sem=2&code=2182">土木三甲</A><BR>
 <A href="Subj.jsp?format=-4&year=108&sem=2&code=2183">土木三乙</A><BR>
@@ -2006,6 +2017,29 @@
 <td align=CENTER>　
 <td align=center>　
   <TD>工程學院級專業選修,限40人,新聘</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274243
+<td><A href="Curr.jsp?format=-2&code=3313171">陶瓷製程與性質之最佳化改良法</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2059">材資四甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2180">材資三甲</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11236">吳玉娟</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>材資三四甲合開,PBL教室,限20人</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>

@@ -88,7 +88,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><A href="ShowSyllabus.jsp?snum=270801&code=11004">查詢</A><BR><A href="ShowSyllabus.jsp?snum=270801&code=12035">查詢</A><BR><BR><BR><BR><BR><BR><BR><A href="ShowSyllabus.jsp?snum=270801&code=11079">查詢</A><BR><A href="ShowSyllabus.jsp?snum=270801&code=11540">查詢</A><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270801&code=11004">查詢</A><BR><A href="ShowSyllabus.jsp?snum=270801&code=12035">查詢</A><BR><A href="ShowSyllabus.jsp?snum=270801&code=11463">查詢</A><BR><A href="ShowSyllabus.jsp?snum=270801&code=11578">查詢</A><BR><A href="ShowSyllabus.jsp?snum=270801&code=10433">查詢</A><BR><BR><BR><A href="ShowSyllabus.jsp?snum=270801&code=11078">查詢</A><BR><A href="ShowSyllabus.jsp?snum=270801&code=11079">查詢</A><BR><A href="ShowSyllabus.jsp?snum=270801&code=11540">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -111,7 +111,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270832&code=10433">查詢</A><BR>
   <TD>設計博和創新所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -202,7 +202,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271654&code=10433">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -367,7 +367,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><A href="ShowSyllabus.jsp?snum=272577&code=11004">查詢</A><BR><BR><BR><BR><BR><A href="ShowSyllabus.jsp?snum=272577&code=11079">查詢</A><BR><A href="ShowSyllabus.jsp?snum=272577&code=11540">查詢</A><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=272577&code=11004">查詢</A><BR><A href="ShowSyllabus.jsp?snum=272577&code=10433">查詢</A><BR><BR><BR><A href="ShowSyllabus.jsp?snum=272577&code=11078">查詢</A><BR><A href="ShowSyllabus.jsp?snum=272577&code=11079">查詢</A><BR><A href="ShowSyllabus.jsp?snum=272577&code=11540">查詢</A><BR>
   <TD>設計106</TD>
 <td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
@@ -410,7 +410,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=272606&code=10433">查詢</A><BR>
   <TD>設計207</TD>
 <td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
@@ -567,6 +567,74 @@
 <td align=CENTER>　
 <td align=center><A href="ShowSyllabus.jsp?snum=273044&code=12035">查詢</A><BR>
   <TD>創新所與設計博合開 (英語授課)；請排教務處一般教室</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274233
+<td><A href="Curr.jsp?format=-2&code=5825226">跨域全齡商品設計開發</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2456">創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11578">張若菡</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>7 8 9 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=387">設計106</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>工設三四和創新所合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274234
+<td><A href="Curr.jsp?format=-2&code=5826255">醫學設計</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2456">創新所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2478">設計博所</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=139">設計603</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>英語授課/曾俊儒/創新所和設計博合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274235
+<td><A href="Curr.jsp?format=-2&code=5846203">實體互動設計研究</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2456">創新所</A><BR>
+
+<td>　
+  <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=139">設計603</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>英語授課/江振維/創新所和設計博合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>

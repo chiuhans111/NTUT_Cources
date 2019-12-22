@@ -100,7 +100,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=268203&code=23467">查詢</A><BR>
   <TD>工管大四合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -187,7 +187,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=268820&code=10431">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -210,7 +210,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><A href="ShowSyllabus.jsp?snum=268821&code=11088">查詢</A><BR><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=268821&code=11088">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268821&code=11832">查詢</A><BR>
   <TD>合授課程</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -253,7 +253,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=268823&code=11401">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -292,14 +292,14 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11435">蔡佩芳</A><BR>
 
-  <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
 <td align=center><A href="ShowSyllabus.jsp?snum=268826&code=11435">查詢</A><BR>
-  <TD>甲乙合開</TD>
+  <TD>工管三甲乙合開,30人</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -364,7 +364,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=268839&code=10431">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -387,7 +387,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><A href="ShowSyllabus.jsp?snum=268840&code=11088">查詢</A><BR><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=268840&code=11088">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268840&code=11832">查詢</A><BR>
   <TD>合授課程</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -430,7 +430,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=268842&code=11401">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -638,6 +638,7 @@
 <td align=CENTER>3
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2306">工管二甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2307">工管二乙</A><BR>
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23467">謝松益</A><BR>
 
@@ -647,7 +648,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269358&code=23467">查詢</A><BR>
   <TD>工管大二合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -769,8 +770,9 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12101">朴維鎮</A><BR>
 
-  <TD>　<TD>　<TD>2 5 6 <TD>　<TD>　<TD>　<TD>　
-<td>　
+  <TD>　<TD>5 <TD>5 6 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=439">六教527</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -813,36 +815,15 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11225">車振華</A><BR>
 
-  <TD>　<TD>4 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
+  <TD>　<TD>6 7 <TD>7 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=439">六教527</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
 <td align=center><A href="ShowSyllabus.jsp?snum=269366&code=11225">查詢</A><BR>
   <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>269369
-<td><A href="Curr.jsp?format=-2&code=3724012">資料庫應用實務</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2307">工管二乙</A><BR>
-
-<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23467">謝松益</A><BR>
-
-  <TD>　<TD>8 9 A <TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center><BR>
-  <TD>工管大二合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -863,7 +844,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269868&code=24236">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -903,6 +884,7 @@
 
   <TD>　<TD>　<TD>　<TD>5 6 <TD>6 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=437">六教525</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=2&code=10">一教302</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -1117,6 +1099,7 @@
 <td align=CENTER>3
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2425">工管一甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2426">工管一乙</A><BR>
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10504">林益辰</A><BR>
 
@@ -1127,7 +1110,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center><BR>
-  <TD>大一合開</TD>
+  <TD>工管大一合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -1139,16 +1122,19 @@
 <td align=CENTER>3
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2425">工管一甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2426">工管一乙</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23875">葉英斌</A><BR>
+
+  <TD>　<TD>7 8 9 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=437">六教525</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
+<td align=center><BR>
+  <TD>工管大一合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -1169,7 +1155,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269882&code=24035">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1208,7 +1194,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11733">林含怡</A><BR>
 
   <TD>　<TD>　<TD>　<TD>5 6 <TD>6 <TD>　<TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=438">六教526</A><BR>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=10">一教302</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=2&code=438">六教526</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -1418,49 +1405,6 @@
 <td align=CENTER>　</TD>
 </TR>
 <TR>
-<td>269894
-<td><A href="Curr.jsp?format=-2&code=3703060">管理學</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2426">工管一乙</A><BR>
-
-<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10504">林益辰</A><BR>
-
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center><BR>
-  <TD>大一合開</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>269895
-<td><A href="Curr.jsp?format=-2&code=3723019">零售管理</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2426">工管一乙</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
 <td>271852
 <td><A href="Curr.jsp?format=-2&code=3704055">供應鏈管理</A>
 <td align=CENTER>1
@@ -1477,7 +1421,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271852&code=23467">查詢</A><BR>
   <TD>電腦教室</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1521,7 +1465,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271953&code=10431">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1565,7 +1509,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271955&code=11401">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1601,16 +1545,16 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2272">工管三丙</A><BR>
 
-<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23875">葉英斌</A><BR>
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11435">蔡佩芳</A><BR>
 
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>8 9 A <TD>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
 <td align=center><BR>
-  <TD>電腦教室</TD>
+  <TD>電腦教室，限15人</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -1846,7 +1790,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=272089&code=23467">查詢</A><BR>
   <TD>電腦教室 日職合開 工管大二合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1881,7 +1825,7 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2514">工管一丙</A><BR>
 
-<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24141">劉慧雯</A><BR>
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12177">劉慧雯</A><BR>
 
   <TD>　<TD>　<TD>　<TD>8 9 <TD>5 <TD>　<TD>　
 <td>　
@@ -1889,7 +1833,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=272916&code=12177">查詢</A><BR>
   <TD>中級</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1997,7 +1941,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=272921&code=11832">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2197,7 +2141,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center><BR>
-  <TD>全英文上課</TD>
+  <TD>全英文上課/管理博班和工管所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2263,7 +2207,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center><BR>
-  <TD>工管大四20碩班15合開</TD>
+  <TD>工管大四20碩班15合開/管理博班和工管所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2308,7 +2252,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center><BR>
-  <TD>全英文上課</TD>
+  <TD>全英文上課/管理博班和工管所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2331,7 +2275,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center><BR>
-  <TD>　</TD>
+  <TD>管理博班和工管所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2375,8 +2319,8 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
-  <TD>全英文上課</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=273113&code=11832">查詢</A><BR>
+  <TD>全英文上課/管理博班和工管所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2461,7 +2405,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273125&code=11573">查詢</A><BR>
   <TD>全英文上課</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2484,7 +2428,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center><A href="ShowSyllabus.jsp?snum=273136&code=10418">查詢</A><BR>
-  <TD>四甲乙40碩15合開,</TD>
+  <TD>四甲乙30碩15合開,</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2572,7 +2516,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273296&code=23895">查詢</A><BR>
   <TD>電腦教室</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2660,7 +2604,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273687&code=10988">查詢</A><BR>
   <TD>工管大三合開 限30人輔導考證照</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2673,6 +2617,7 @@
 <td align=CENTER>3
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2187">工管三甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2188">工管三乙</A><BR>
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10988">陳凱瀛</A><BR>
 
@@ -2682,29 +2627,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
-  <TD>工管大三合開 限30人輔導考證照</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>273825
-<td><A href="Curr.jsp?format=-2&code=3724021">智慧製造執行系統演練</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2188">工管三乙</A><BR>
-
-<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10988">陳凱瀛</A><BR>
-
-  <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273824&code=10988">查詢</A><BR>
   <TD>工管大三合開 限30人輔導考證照</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2717,6 +2640,7 @@
 <td align=CENTER>3
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2066">工管四甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2067">工管四乙</A><BR>
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11051">田方治</A><BR>
 
@@ -2727,29 +2651,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center><BR>
-  <TD>工管大四 碩合開 限30</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>273834
-<td><A href="Curr.jsp?format=-2&code=3714017">機器視覺原理與應用</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2067">工管四乙</A><BR>
-
-<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11051">田方治</A><BR>
-
-  <TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center><BR>
-  <TD>工管大四 碩合開 限30人</TD>
+  <TD>工管大四和工管碩合開,限30人</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2786,7 +2688,7 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23895">吳建樺</A><BR>
 
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+  <TD>　<TD>　<TD>　<TD>　<TD>B C D <TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -2815,7 +2717,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR><BR>
+<td align=center><BR><A href="ShowSyllabus.jsp?snum=273918&code=11396">查詢</A><BR>
   <TD>博士班</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>

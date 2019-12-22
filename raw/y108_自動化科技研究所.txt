@@ -73,7 +73,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11402">Ω≤µœßª</A><BR>
 
   <TD>°@<TD>°@<TD>°@<TD>3 4 <TD>°@<TD>°@<TD>°@
-<td>°@
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=341">∫Ó§@∫t¡ø∆U</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>°@

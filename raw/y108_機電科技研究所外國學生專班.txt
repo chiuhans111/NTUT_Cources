@@ -41,55 +41,37 @@
       <TH align=Center>實驗<BR>實習</TH>
   </TR>
 <TR>
+<td>271415
+<td><A href="Curr.jsp?format=-2&code=6607004">專題討論</A>
+<td align=CENTER>2
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2476">機電博所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2480">機電外國學生專班</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10381">張合</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
 <td>271461
 <td><A href="Curr.jsp?format=-2&code=6607003">科技英文表達</A>
 <td align=CENTER>1
 <td align=CENTER>3.0
 <td align=CENTER>3
 <td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2480">機電外國學生專班</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>英語
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>271462
-<td><A href="Curr.jsp?format=-2&code=6607004">專題討論</A>
-<td align=CENTER>2
-<td align=CENTER>1.0
-<td align=CENTER>2
-<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2480">機電外國學生專班</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>英語
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>271463
-<td><A href="Curr.jsp?format=-2&code=6607006">機電科技特論(二)</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2480">機電外國學生專班</A><BR>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2476">機電博所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2480">機電外國學生專班</A><BR>
 
 <td>　
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　

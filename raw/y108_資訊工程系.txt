@@ -142,7 +142,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=268986&code=11297">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -200,15 +200,16 @@
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2195">資工三</A><BR>
 <A href="Subj.jsp?format=-4&year=108&sem=2&code=2317">電資二</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10383">蕭榮修</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>B C D <TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>資工二、電資二合開</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=268989&code=10383">查詢</A><BR>
+  <TD>資工、電資二和電子大三合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -229,7 +230,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=268990&code=21725">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -380,7 +381,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center><A href="ShowSyllabus.jsp?snum=269482&code=10772">查詢</A><BR>
-  <TD>資工二與電資二合開</TD>
+  <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -424,7 +425,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269489&code=12095">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -486,7 +487,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24111">李思葭</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>7 <TD>5 6 <TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=11">一教303</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -599,7 +601,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270005&code=11175">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -782,28 +784,6 @@
 <td align=CENTER>　</TD>
 </TR>
 <TR>
-<td>270923
-<td><A href="Curr.jsp?format=-2&code=5905122">排隊理論</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2457">資工所</A><BR>
-
-<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10772">吳和庭</A><BR>
-
-  <TD>　<TD>　<TD>　<TD>2 <TD>3 4 <TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center><A href="ShowSyllabus.jsp?snum=270923&code=10772">查詢</A><BR>
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
 <td>270927
 <td><A href="Curr.jsp?format=-2&code=5905131">軟體測試與驗證</A>
 <td align=CENTER>1
@@ -858,7 +838,7 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11634">江佩穎</A><BR>
 
-  <TD>　<TD>5 6 <TD>　<TD>4 <TD>　<TD>　<TD>　
+  <TD>　<TD>5 6 <TD>　<TD>5 <TD>　<TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -935,7 +915,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271356&code=11494">查詢</A><BR>
   <TD>請排二教102or103/限20人/日碩&外生碩&資工系&設計博</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -998,7 +978,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10663">鄭有進</A><BR>
 
   <TD>　<TD>　<TD>7 8 <TD>6 <TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=25">二教207</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -1294,6 +1275,68 @@
 <td align=CENTER>　
 <td align=center>　
   <TD>博士班</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274131
+<td><A href="Curr.jsp?format=-2&code=C500001">感測技術基礎科學</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2174">電機三甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2175">電機三乙</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2176">電機三丙</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2185">電子三甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2186">電子三乙</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2195">資工三</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2196">光電三</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2293">電機二甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2294">電機二乙</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2295">電機二丙</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2304">電子二甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2305">電子二乙</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2314">資工二</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2315">光電二</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2407">智慧感測與應用學程</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11009">宋國明</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11610">李穎玟</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=12147">陳美杏</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11678">陳晏笙</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11069">陳隆建</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11369">彭朋群</A><BR>
+
+  <TD>　<TD>6 7 8 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR><A href="ShowSyllabus.jsp?snum=274131&code=12147">查詢</A><BR><A href="ShowSyllabus.jsp?snum=274131&code=11678">查詢</A><BR><A href="ShowSyllabus.jsp?snum=274131&code=11069">查詢</A><BR><A href="ShowSyllabus.jsp?snum=274131&code=11369">查詢</A><BR>
+  <TD>電機、電子、資工、光電二、三和智慧感測學程合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274202
+<td><A href="Curr.jsp?format=-2&code=5902310">雲端應用實務</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2195">資工三</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>

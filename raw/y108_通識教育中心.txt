@@ -79,7 +79,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271468&code=24132">查詢</A><BR>
   <TD>中級班,限外籍生修讀</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -101,7 +101,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271469&code=24132">查詢</A><BR>
   <TD>初級班,限外籍生修讀</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -123,7 +123,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>中英雙語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271470&code=24132">查詢</A><BR>
   <TD>僑生A班,限僑生、港澳生修讀</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -211,7 +211,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>中英雙語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271475&code=12079">查詢</A><BR>
   <TD>高級班,限外籍生修讀</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -233,7 +233,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273434&code=12037">查詢</A><BR>
   <TD>歷史核心</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -277,7 +277,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273436&code=23919">查詢</A><BR>
   <TD>社哲核心</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -299,7 +299,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273437&code=22487">查詢</A><BR>
   <TD>社哲核心</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -365,7 +365,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273451&code=20778">查詢</A><BR>
   <TD>自然核心</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -387,7 +387,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273452&code=23992">查詢</A><BR>
   <TD>自然核心</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -409,7 +409,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273459&code=22793">查詢</A><BR>
   <TD>社會向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -431,7 +431,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273460&code=22357">查詢</A><BR>
   <TD>社會向度；國百401</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -519,7 +519,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273465&code=20555">查詢</A><BR>
   <TD>文化向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -563,7 +563,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273467&code=23688">查詢</A><BR>
   <TD>法治核心</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -739,7 +739,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273482&code=23483">查詢</A><BR>
   <TD>文化向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -783,7 +783,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273484&code=22058">查詢</A><BR>
   <TD>文化向度，共同413</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -805,7 +805,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273485&code=23688">查詢</A><BR>
   <TD>法治向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1105,15 +1105,16 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1335">博雅核心－法治(三)</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23688">簡啟煜</A><BR>
+
   <TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>法治向度,簡啟煜</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=273946&code=23688">查詢</A><BR>
+  <TD>法治向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -1170,15 +1171,16 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1336">博雅核心－法治(四)</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23688">簡啟煜</A><BR>
+
   <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>法治向度,A,簡啟煜</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=273962&code=23688">查詢</A><BR>
+  <TD>法治向度,A</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -1287,7 +1289,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273970&code=22966">查詢</A><BR>
   <TD>自然向度,A</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1309,7 +1311,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273971&code=23992">查詢</A><BR>
   <TD>自然向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1331,7 +1333,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273972&code=20778">查詢</A><BR>
   <TD>自然向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1348,7 +1350,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22486">林景銘</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=69">四教101</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -1375,7 +1378,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273974&code=22966">查詢</A><BR>
   <TD>自然向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1397,7 +1400,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273975&code=20778">查詢</A><BR>
   <TD>自然向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1419,7 +1422,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273976&code=23992">查詢</A><BR>
   <TD>自然向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1441,7 +1444,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273978&code=23373">查詢</A><BR>
   <TD>社會向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1463,7 +1466,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273980&code=22487">查詢</A><BR>
   <TD>哲學向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1485,29 +1488,8 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
-  <TD>社會向度,A</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>273982
-<td><A href="Curr.jsp?format=-2&code=1415002">社會學概論</A>
-<td align=CENTER>1
-<td align=CENTER>2.0
-<td align=CENTER>2
-<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1917">博雅核心－社哲(一)</A><BR>
-
-<td>　
-  <TD>　<TD>1 2 <TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>社會向度,B,郭耀中</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=273981&code=11828">查詢</A><BR>
+  <TD>社會向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -1528,7 +1510,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273983&code=22487">查詢</A><BR>
   <TD>哲學向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1550,7 +1532,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273984&code=23373">查詢</A><BR>
   <TD>社會向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1572,8 +1554,8 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
-  <TD>社會向度</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=273985&code=11828">查詢</A><BR>
+  <TD>社會向度,A</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -1594,7 +1576,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273986&code=11223">查詢</A><BR>
   <TD>哲學向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1616,7 +1598,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273987&code=23373">查詢</A><BR>
   <TD>社會向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1638,7 +1620,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273988&code=11976">查詢</A><BR>
   <TD>社會向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1661,7 +1643,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273990&code=22456">查詢</A><BR>
   <TD>創創向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1683,7 +1665,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273991&code=23725">查詢</A><BR>
   <TD>創創向度,90人教室</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1705,7 +1687,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273992&code=23815">查詢</A><BR>
   <TD>創創向度,A</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1750,7 +1732,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273995&code=23815">查詢</A><BR>
   <TD>創創向度,A</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1840,7 +1822,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273999&code=22456">查詢</A><BR>
   <TD>創創向度,B</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1862,7 +1844,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=274000&code=23725">查詢</A><BR>
   <TD>創創向度,B,90人教室</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1878,9 +1860,8 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22465">陳雪燕</A><BR>
 
-  <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=98">共同606</A><BR>
-
+  <TD>　<TD>1 2 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -1901,14 +1882,13 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=20764">李育真</A><BR>
 
-  <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=71">四教103</A><BR>
-
+  <TD>　<TD>1 2 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=274006&code=20764">查詢</A><BR>
   <TD>文化向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1924,13 +1904,13 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24186">許俊文</A><BR>
 
-  <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+  <TD>　<TD>1 2 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=274007&code=24186">查詢</A><BR>
   <TD>美學向度,A</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1952,7 +1932,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=274008&code=20764">查詢</A><BR>
   <TD>文化向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1974,7 +1954,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=274009&code=11785">查詢</A><BR>
   <TD>美學向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2085,7 +2065,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=274014&code=24187">查詢</A><BR>
   <TD>美學向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2130,7 +2110,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=274016&code=24186">查詢</A><BR>
   <TD>美學向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2169,9 +2149,8 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23516">曾鈴淳</A><BR>
 
-  <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=342">綜二演講廳</A><BR>
-
+  <TD>　<TD>1 2 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -2192,9 +2171,8 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24055">廖偉淇</A><BR>
 
-  <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=159">共同614</A><BR>
-
+  <TD>　<TD>1 2 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -2265,7 +2243,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=274028&code=22296">查詢</A><BR>
   <TD>文化向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2419,7 +2397,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=274037&code=22296">查詢</A><BR>
   <TD>文化向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2485,7 +2463,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=274041&code=23965">查詢</A><BR>
   <TD>文化向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2507,7 +2485,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=274042&code=22296">查詢</A><BR>
   <TD>文化向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2565,15 +2543,16 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1315">博雅選修(一)</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22366">張嘉鳳</A><BR>
+
   <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>歷史向度</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=274066&code=22366">查詢</A><BR>
+  <TD>歷史向度,3教教室</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2586,14 +2565,15 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1315">博雅選修(一)</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23633">李南海</A><BR>
+
   <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><BR>
   <TD>歷史向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2607,14 +2587,16 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1315">博雅選修(一)</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23424">黃馨儀</A><BR>
+
   <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=342">綜二演講廳</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><BR>
   <TD>文化向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2628,14 +2610,15 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1315">博雅選修(一)</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23968">周清玉</A><BR>
+
   <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><BR>
   <TD>社會向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2649,15 +2632,17 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1315">博雅選修(一)</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22357">鄭雪美</A><BR>
+
   <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=539">國百館401</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>社會向度</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=274070&code=22357">查詢</A><BR>
+  <TD>社會向度,國百館401室</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2670,14 +2655,15 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1315">博雅選修(一)</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23948">何揚</A><BR>
+
   <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><BR>
   <TD>法治向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2691,15 +2677,16 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1315">博雅選修(一)</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24030">孫蓉蓉</A><BR>
+
   <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>自然向度</TD>
+<td align=center><BR>
+  <TD>自然向度,2教2樓教室</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2712,14 +2699,15 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1315">博雅選修(一)</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22640">施宛君</A><BR>
+
   <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><BR>
   <TD>自然向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2733,14 +2721,15 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1315">博雅選修(一)</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23815">黃麗珠</A><BR>
+
   <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274074&code=23815">查詢</A><BR>
   <TD>創創向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2754,15 +2743,16 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1315">博雅選修(一)</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23864">黃正民</A><BR>
+
   <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>創創向度</TD>
+<td align=center><BR>
+  <TD>創創向度,1樓教室</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2775,14 +2765,15 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1315">博雅選修(一)</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23683">姚長安</A><BR>
+
   <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274076&code=23683">查詢</A><BR>
   <TD>創創向度</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2796,15 +2787,945 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1315">博雅選修(一)</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24185">粘朝益</A><BR>
+
   <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><BR>
   <TD>創創向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274078
+<td><A href="Curr.jsp?format=-2&code=1411023">中國古代的庶民生活</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1316">博雅選修(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22366">張嘉鳳</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274078&code=22366">查詢</A><BR>
+  <TD>文史向度,三教教室</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274079
+<td><A href="Curr.jsp?format=-2&code=1411015">愛情與文學</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1316">博雅選修(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23077">廖啟宏</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274079&code=23077">查詢</A><BR>
+  <TD>文化向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274080
+<td><A href="Curr.jsp?format=-2&code=1410082">音樂欣賞</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1316">博雅選修(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23424">黃馨儀</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=342">綜二演講廳</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>文化向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274081
+<td><A href="Curr.jsp?format=-2&code=1410071">生涯發展與選擇</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1316">博雅選修(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11896">蔡佩珊</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274081&code=11896">查詢</A><BR>
+  <TD>社會向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274082
+<td><A href="Curr.jsp?format=-2&code=1410044">經濟變遷與發展</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1316">博雅選修(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11979">張怡敏</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>社會向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274083
+<td><A href="Curr.jsp?format=-2&code=1414003">資訊法律</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1316">博雅選修(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10448">陳慧貞</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274083&code=10448">查詢</A><BR>
+  <TD>法治向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274084
+<td><A href="Curr.jsp?format=-2&code=1410043">認識中國大陸</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1316">博雅選修(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23948">何揚</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>法治向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274085
+<td><A href="Curr.jsp?format=-2&code=1410170">膳食與生活</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1316">博雅選修(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22640">施宛君</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>自然向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274086
+<td><A href="Curr.jsp?format=-2&code=1410215">生物哲學</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1316">博雅選修(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22486">林景銘</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=69">四教101</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>哲學向度,1樓教室</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274087
+<td><A href="Curr.jsp?format=-2&code=1412014">影像與世界史</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1317">博雅選修(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11147">鄭麗玲</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>文史向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274088
+<td><A href="Curr.jsp?format=-2&code=1411011">先秦夢文學賞析</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1317">博雅選修(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23073">劉靜怡</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274088&code=23073">查詢</A><BR>
+  <TD>文史向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274089
+<td><A href="Curr.jsp?format=-2&code=1410082">音樂欣賞</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1317">博雅選修(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22642">陳靜慧</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=342">綜二演講廳</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274089&code=22642">查詢</A><BR>
+  <TD>美學向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274090
+<td><A href="Curr.jsp?format=-2&code=1410087">時間學</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1317">博雅選修(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10448">陳慧貞</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274090&code=10448">查詢</A><BR>
+  <TD>社哲向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274091
+<td><A href="Curr.jsp?format=-2&code=1410231">生命教育</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1317">博雅選修(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22490">陳紹韻</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274091&code=22490">查詢</A><BR>
+  <TD>社哲向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274092
+<td><A href="Curr.jsp?format=-2&code=1415013">攝影與社會</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1317">博雅選修(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11828">鄭怡雯</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274092&code=11828">查詢</A><BR>
+  <TD>社哲向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274093
+<td><A href="Curr.jsp?format=-2&code=1410044">經濟變遷與發展</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1317">博雅選修(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11979">張怡敏</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>社哲向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274103
+<td><A href="Curr.jsp?format=-2&code=1410042">國際關係</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1317">博雅選修(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23948">何揚</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>法治向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274104
+<td><A href="Curr.jsp?format=-2&code=1416016">營養、運動與健康</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1317">博雅選修(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22640">施宛君</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>自然向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274105
+<td><A href="Curr.jsp?format=-2&code=1418004">創業與財務概論</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1317">博雅選修(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11928">陳志遠</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274105&code=11928">查詢</A><BR>
+  <TD>創創向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274106
+<td><A href="Curr.jsp?format=-2&code=1418015">人工智慧概論</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1317">博雅選修(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12084">賴冠廷</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>創創向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274107
+<td><A href="Curr.jsp?format=-2&code=1410097">書法賞析</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1318">博雅選修(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=20764">李育真</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274107&code=20764">查詢</A><BR>
+  <TD>文史向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274108
+<td><A href="Curr.jsp?format=-2&code=1410096">台灣社會與文化</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1318">博雅選修(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23374">秦先玉</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>文史向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274109
+<td><A href="Curr.jsp?format=-2&code=1410082">音樂欣賞</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1318">博雅選修(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23516">曾鈴淳</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=342">綜二演講廳</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>美學向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274110
+<td><A href="Curr.jsp?format=-2&code=1410101">藝術欣賞</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1318">博雅選修(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22058">田麗虹</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274110&code=22058">查詢</A><BR>
+  <TD>美學向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274111
+<td><A href="Curr.jsp?format=-2&code=1413001">倫理學概論</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1318">博雅選修(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=21730">陳潔明</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>社哲向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274112
+<td><A href="Curr.jsp?format=-2&code=1410175">婚姻與家庭</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1318">博雅選修(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22686">陳小英</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274112&code=22686">查詢</A><BR>
+  <TD>社哲向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274113
+<td><A href="Curr.jsp?format=-2&code=1410117">政治與生活</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1318">博雅選修(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22641">陳愷</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>法治向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274114
+<td><A href="Curr.jsp?format=-2&code=1410104">醫學與生活</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1318">博雅選修(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=21704">房同經</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>自然向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274115
+<td><A href="Curr.jsp?format=-2&code=1416019">Python程式設計概論與應用</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1318">博雅選修(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24185">粘朝益</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>自然向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274117
+<td><A href="Curr.jsp?format=-2&code=1412013">戰爭影像與戰爭史</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1319">博雅選修(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23670">許進發</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>歷史向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274118
+<td><A href="Curr.jsp?format=-2&code=1410210">博雅講座(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1319">博雅選修(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11828">鄭怡雯</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274118&code=11828">查詢</A><BR>
+  <TD>社會向度,共科地下或國際會議廳</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274119
+<td><A href="Curr.jsp?format=-2&code=1415015">社會心理學導論</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1319">博雅選修(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11976">詹傑勝</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274119&code=11976">查詢</A><BR>
+  <TD>社哲向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274120
+<td><A href="Curr.jsp?format=-2&code=1410175">婚姻與家庭</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1319">博雅選修(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22686">陳小英</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274120&code=22686">查詢</A><BR>
+  <TD>社會向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274121
+<td><A href="Curr.jsp?format=-2&code=1410042">國際關係</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1319">博雅選修(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23814">鄒忠科</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274121&code=23814">查詢</A><BR>
+  <TD>法治向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274122
+<td><A href="Curr.jsp?format=-2&code=1410240">勞動法</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1319">博雅選修(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11314">陳建文</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274122&code=11314">查詢</A><BR>
+  <TD>法治向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274123
+<td><A href="Curr.jsp?format=-2&code=1416002">現代科技概論</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1319">博雅選修(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11968">賴名亮</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274123&code=11968">查詢</A><BR>
+  <TD>自然向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274124
+<td><A href="Curr.jsp?format=-2&code=1416019">Python程式設計概論與應用</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1319">博雅選修(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24185">粘朝益</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>自然向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274125
+<td><A href="Curr.jsp?format=-2&code=1414005">兩岸關係與國際政治</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1319">博雅選修(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23600">鄭又平</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=342">綜二演講廳</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274125&code=23600">查詢</A><BR>
+  <TD>法治向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274126
+<td><A href="Curr.jsp?format=-2&code=1418004">創業與財務概論</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1316">博雅選修(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11928">陳志遠</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274126&code=11928">查詢</A><BR>
+  <TD>創創向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274127
+<td><A href="Curr.jsp?format=-2&code=1418014">區塊鏈技術與應用</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1316">博雅選修(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11730">葛如鈞</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>創創向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274128
+<td><A href="Curr.jsp?format=-2&code=1418015">人工智慧概論</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1316">博雅選修(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10662">吳建文</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274128&code=10662">查詢</A><BR>
+  <TD>創創向度</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274240
+<td><A href="Curr.jsp?format=-2&code=1415002">社會學概論</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2033">博雅核心－社哲(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23919">郭耀中</A><BR>
+
+  <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>社會向度,B</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>

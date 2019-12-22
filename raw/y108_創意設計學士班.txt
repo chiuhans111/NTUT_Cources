@@ -142,7 +142,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12092">袁慧君</A><BR>
 
   <TD>　<TD>　<TD>　<TD>7 8 <TD>5 <TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=9">一教301</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -161,15 +162,16 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2438">創意一</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24159">石嘉琳</A><BR>
+
   <TD>　<TD>　<TD>9 <TD>　<TD>　<TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
+<td align=center><BR>
+  <TD>須分組至校外，第1及2週遲到早退缺席者不得選課。</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -190,7 +192,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270100&code=23487">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -263,7 +265,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<td align=center><BR><BR><BR><BR><BR><A href="ShowSyllabus.jsp?snum=270103&code=23958">查詢</A><BR><BR><BR><BR>
   <TD>建築一與創意一合開（限主修建築系選課）</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -312,7 +314,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR><BR><BR>
+<td align=center><BR><BR><A href="ShowSyllabus.jsp?snum=270105&code=11633">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -358,7 +360,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270107&code=11633">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>

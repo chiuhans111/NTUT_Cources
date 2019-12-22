@@ -58,7 +58,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269076&code=12079">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -233,7 +233,7 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10223">韓麗龍</A><BR>
 
-  <TD>　<TD>　<TD>8 9 <TD>9 <TD>　<TD>　<TD>　
+  <TD>　<TD>　<TD>　<TD>　<TD>7 8 <TD>9 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=423">六教226</A><BR>
 
   <TD align=Center>0</TD>
@@ -255,7 +255,7 @@
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2289">智動二</A><BR>
 
 <td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>7 8 <TD>9 <TD>　
+  <TD>　<TD>　<TD>8 9 <TD>9 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=423">六教226</A><BR>
 
   <TD align=Center>0</TD>
@@ -373,7 +373,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269613&code=12079">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -419,7 +419,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269615&code=11399">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -433,7 +433,8 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2408">智動一</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11688">賴淑秀</A><BR>
+
   <TD>　<TD>　<TD>　<TD>2 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=333">三教201</A><BR>
 
@@ -441,7 +442,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269616&code=11688">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -508,7 +509,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269619&code=11976">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -547,14 +548,14 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23247">陳雙源</A><BR>
 
-  <TD>　<TD>1 2 <TD>　<TD>　<TD>　<TD>　<TD>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>7 8 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=428">六教326</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269621&code=23247">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -577,7 +578,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269622&code=24137">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -600,7 +601,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269623&code=24114">查詢</A><BR><BR>
   <TD>赴北科附工上課</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>是</TD>
@@ -692,7 +693,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269627&code=24120">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>

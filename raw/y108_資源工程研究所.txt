@@ -58,7 +58,7 @@
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><A href="ShowSyllabus.jsp?snum=271193&code=10221">琩高</A><BR><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271193&code=10221">琩高</A><BR><A href="ShowSyllabus.jsp?snum=271193&code=12032">琩高</A><BR>
   <TD>河８策</TD>
 <td align=CENTER></TD>
 <td align=CENTER></TD>
@@ -102,7 +102,7 @@
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271217&code=12176">琩高</A><BR>
   <TD></TD>
 <td align=CENTER></TD>
 <td align=CENTER></TD>
@@ -167,7 +167,7 @@
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271704&code=12032">琩高</A><BR>
   <TD>河策</TD>
 <td align=CENTER></TD>
 <td align=CENTER></TD>
@@ -189,7 +189,7 @@
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271705&code=12032">琩高</A><BR>
   <TD>痴痁策</TD>
 <td align=CENTER></TD>
 <td align=CENTER></TD>
@@ -212,7 +212,7 @@
 <td>
 <td align=CENTER>
 <td align=center><A href="ShowSyllabus.jsp?snum=271706&code=10787">琩高</A><BR>
-  <TD></TD>
+  <TD>戈方┮㎝┮秨</TD>
 <td align=CENTER></TD>
 <td align=CENTER></TD>
 </TR>
@@ -255,7 +255,7 @@
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271766&code=12176">琩高</A><BR>
   <TD></TD>
 <td align=CENTER>琌</TD>
 <td align=CENTER></TD>
@@ -277,7 +277,7 @@
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271779&code=12176">琩高</A><BR>
   <TD>搂 材A-B竊</TD>
 <td align=CENTER>琌</TD>
 <td align=CENTER></TD>
@@ -342,7 +342,7 @@
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273578&code=23226">琩高</A><BR>
   <TD></TD>
 <td align=CENTER></TD>
 <td align=CENTER></TD>
@@ -358,7 +358,7 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11257">琠藉</A><BR>
 
-  <TD><TD><TD><TD><TD><TD><TD>
+  <TD><TD>A B C <TD><TD><TD><TD><TD>
 <td>
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>

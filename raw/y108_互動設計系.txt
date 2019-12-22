@@ -86,7 +86,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><A href="ShowSyllabus.jsp?snum=268367&code=23470">查詢</A><BR><BR><BR><BR><BR><BR><A href="ShowSyllabus.jsp?snum=268367&code=11969">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268367&code=23573">查詢</A><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=268367&code=23470">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=268367&code=10666">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=268367&code=22805">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=268367&code=11969">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268367&code=23573">查詢</A><BR>
   <TD>限本系媒體設計組必修,請同學勿選錯組別!!</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -116,7 +116,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><A href="ShowSyllabus.jsp?snum=268368&code=23470">查詢</A><BR><BR><BR><BR><BR><BR><A href="ShowSyllabus.jsp?snum=268368&code=11969">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268368&code=23573">查詢</A><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=268368&code=23470">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=268368&code=10666">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=268368&code=22805">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=268368&code=11969">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268368&code=23573">查詢</A><BR>
   <TD>限本系視覺傳達設計組必修,請同學勿選錯組別!!</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -139,7 +139,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=268369&code=10666">查詢</A><BR>
   <TD>修課人數上限30人</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -332,7 +332,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269075&code=23676">查詢</A><BR>
   <TD>限本系生,視覺傳達設計組選修,限50人</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -438,7 +438,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269588&code=11334">查詢</A><BR>
   <TD>請排大教室,限本系生&第二專長(B)修,限85人</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -488,7 +488,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR><BR><BR><BR><BR>
+<td align=center><BR><BR><A href="ShowSyllabus.jsp?snum=269590&code=11334">查詢</A><BR><BR><BR>
   <TD>限本系媒體設計組必修,請勿選錯!!(新聘教師)</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -515,7 +515,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR><BR><BR><BR><BR>
+<td align=center><BR><BR><A href="ShowSyllabus.jsp?snum=269591&code=11334">查詢</A><BR><BR><BR>
   <TD>限本系視覺傳達設計組必修,請勿選錯!!(新聘教師)</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -628,7 +628,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270160&code=23940">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -668,7 +668,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11912">陳玟心</A><BR>
 
   <TD>　<TD>　<TD>　<TD>7 8 <TD>5 <TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=11">一教303</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -687,15 +688,16 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2442">互動一</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>9 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24153">秦志賢</A><BR>
+
+  <TD>　<TD>9 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
+<td align=center><BR>
+  <TD>須分組至校外，第1及2週遲到早退缺席者不得選課。</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -716,7 +718,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270164&code=23484">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -875,7 +877,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270171&code=23576">查詢</A><BR>
   <TD>限本系生,限35人(106學年開設)</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -936,6 +938,7 @@
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2471">互動所</A><BR>
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11393">吳可久</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11334">陳圳卿</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=503">六教B216</A><BR>
@@ -944,7 +947,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><BR><A href="ShowSyllabus.jsp?snum=271348&code=11334">查詢</A><BR>
   <TD>限本系生,修課上限21人</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -969,7 +972,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR><BR><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271349&code=11494">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=271349&code=11633">查詢</A><BR>
   <TD>限本系生,修課上限21人</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -994,7 +997,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271356&code=11494">查詢</A><BR>
   <TD>請排二教102or103/限20人/日碩&外生碩&資工系&設計博</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1016,7 +1019,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271359&code=11494">查詢</A><BR>
   <TD>使用設計603室,日碩&設計博合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1038,7 +1041,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271360&code=11633">查詢</A><BR>
   <TD>請排光華409室,限12人,日職合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1062,8 +1065,8 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
-  <TD>請排光華409室,限12人,日碩&職碩&外生碩&設計博合開</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=271361&code=11633">查詢</A><BR>
+  <TD>請排光華409室,限7人,日碩&職碩&外生碩&設計博合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -1087,8 +1090,8 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
-  <TD>限15人,外生碩.&日碩班&設計博合開</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=271362&code=11633">查詢</A><BR>
+  <TD>限12人,外生碩.&日碩班&設計博合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -1112,7 +1115,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271363&code=11494">查詢</A><BR>
   <TD>限15人,外生碩.&日碩班合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1223,9 +1226,9 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=272766&code=11633">查詢</A><BR>
   <TD>請排光華409室,上限5人,日職合開</TD>
-<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
 <TR>
@@ -1245,7 +1248,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=272771&code=11334">查詢</A><BR>
   <TD>請排進修部教室,修課上限30人,日職合開</TD>
 <td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
@@ -1267,9 +1270,9 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273300&code=11633">查詢</A><BR>
   <TD>請排光華409室,上限5人,日碩&職碩&外生碩&設計博合開</TD>
-<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
 <TR>
@@ -1290,7 +1293,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273579&code=24240">查詢</A><BR>
   <TD>限本系生,修課上限70人(不開放外系)</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1312,7 +1315,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273581&code=10666">查詢</A><BR>
   <TD>請排進修部教室,修課上限30人</TD>
 <td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
@@ -1335,7 +1338,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273651&code=11334">查詢</A><BR>
   <TD>使用進修部排課教室,限30人,日職合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>

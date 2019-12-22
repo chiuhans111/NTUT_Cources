@@ -83,7 +83,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271356&code=11494">查詢</A><BR>
   <TD>請排二教102or103/限20人/日碩&外生碩&資工系&設計博</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -107,8 +107,8 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
-  <TD>請排光華409室,限12人,日碩&職碩&外生碩&設計博合開</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=271361&code=11633">查詢</A><BR>
+  <TD>請排光華409室,限7人,日碩&職碩&外生碩&設計博合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -132,8 +132,8 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
-  <TD>限15人,外生碩.&日碩班&設計博合開</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=271362&code=11633">查詢</A><BR>
+  <TD>限12人,外生碩.&日碩班&設計博合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -157,7 +157,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271363&code=11494">查詢</A><BR>
   <TD>限15人,外生碩.&日碩班合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -181,7 +181,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271365&code=10666">查詢</A><BR>
   <TD>限15人,外生碩&設計博合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -195,8 +195,8 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2478">設計博所</A><BR>
 
-<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11393">吳可久</A><BR>
-<A href="Teach.jsp?format=-3&year=108&sem=2&code=12035">李易叡</A><BR>
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12035">李易叡</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11334">陳圳卿</A><BR>
 <A href="Teach.jsp?format=-3&year=108&sem=2&code=11123">黃志弘</A><BR>
 <A href="Teach.jsp?format=-3&year=108&sem=2&code=11540">鄭孟淙</A><BR>
 
@@ -207,7 +207,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR><A href="ShowSyllabus.jsp?snum=271428&code=12035">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=271428&code=11540">查詢</A><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271428&code=12035">查詢</A><BR><A href="ShowSyllabus.jsp?snum=271428&code=11334">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=271428&code=11540">查詢</A><BR>
   <TD>博一，請依分組&共同討論上課時間</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -253,7 +253,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271437&code=10660">查詢</A><BR>
   <TD>核心選修</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -275,7 +275,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271439&code=10433">查詢</A><BR>
   <TD>設計博(核心選修)與創新所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -289,8 +289,8 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2478">設計博所</A><BR>
 
-<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11393">吳可久</A><BR>
-<A href="Teach.jsp?format=-3&year=108&sem=2&code=12035">李易叡</A><BR>
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12035">李易叡</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11334">陳圳卿</A><BR>
 <A href="Teach.jsp?format=-3&year=108&sem=2&code=11123">黃志弘</A><BR>
 <A href="Teach.jsp?format=-3&year=108&sem=2&code=11540">鄭孟淙</A><BR>
 
@@ -301,7 +301,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR><A href="ShowSyllabus.jsp?snum=271694&code=12035">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=271694&code=11540">查詢</A><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271694&code=12035">查詢</A><BR><A href="ShowSyllabus.jsp?snum=271694&code=11334">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=271694&code=11540">查詢</A><BR>
   <TD>博二，請依分組&共同討論上課時間</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -368,7 +368,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273299&code=11494">查詢</A><BR>
   <TD>設計博(核心選修)與互動所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -397,29 +397,6 @@
 <td align=CENTER>　</TD>
 </TR>
 <TR>
-<td>273854
-<td><A href="Curr.jsp?format=-2&code=5231413">智慧建築專題</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2452">建都所</A><BR>
-<A href="Subj.jsp?format=-4&year=108&sem=2&code=2478">設計博所</A><BR>
-
-<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11085">周鼎金</A><BR>
-
-  <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center><A href="ShowSyllabus.jsp?snum=273854&code=11085">查詢</A><BR>
-  <TD>建都所與設計博合開</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
 <td>273856
 <td><A href="Curr.jsp?format=-2&code=5221427">創意城市與城市規劃專論</A>
 <td align=CENTER>1
@@ -437,8 +414,31 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273856&code=24025">查詢</A><BR>
   <TD>日職建都所與設計博合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274234
+<td><A href="Curr.jsp?format=-2&code=5826255">醫學設計</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2456">創新所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2478">設計博所</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=139">設計603</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>英語授課/曾俊儒/創新所和設計博合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>

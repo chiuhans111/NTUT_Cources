@@ -53,13 +53,38 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11726">許哲奇</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>7 8 <TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=37">三教203</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
 <td align=center><A href="ShowSyllabus.jsp?snum=269759&code=11726">查詢</A><BR>
   <TD>90人大教室;化一丙和工程一合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269832
+<td><A href="Curr.jsp?format=-2&code=3501016">基礎生物化學</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2422">分子一</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2437">工程一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11108">蔡麗珠</A><BR>
+
+  <TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=277">紡織二樓_1</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269832&code=11108">查詢</A><BR>
+  <TD>中英/工程一和分子一合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -120,7 +145,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24111">李思葭</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>8 <TD>3 4 <TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=11">一教303</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=2&code=72">四教201</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -139,15 +166,16 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2437">工程一</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>9 <TD>　<TD>　<TD>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24157">陳德智</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>9 <TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
+<td align=center><BR>
+  <TD>須分組至校外，第1及2週遲到早退缺席者不得選課。</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -207,7 +235,7 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11474">林建洲</A><BR>
 
   <TD>　<TD>　<TD>2 <TD>　<TD>6 7 <TD>　<TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=72">四教201</A><BR>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=43">三教209</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -231,6 +259,7 @@
 
   <TD>　<TD>3 4 <TD>1 <TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=72">四教201</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=2&code=43">三教209</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -275,12 +304,13 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11188">黃聲東</A><BR>
 
   <TD>　<TD>1 <TD>　<TD>　<TD>1 2 <TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=72">四教201</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270064&code=11188">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -297,12 +327,14 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11188">黃聲東</A><BR>
 
   <TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=231">化學103</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=2&code=472">科研大樓332</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270065&code=11188">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -319,7 +351,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11364">張世賢</A><BR>
 
   <TD>　<TD>　<TD>　<TD>3 4 <TD>5 <TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=72">四教201</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -374,28 +407,6 @@
 <td align=CENTER>　</TD>
 </TR>
 <TR>
-<td>270090
-<td><A href="Curr.jsp?format=-2&code=3501016">基礎生物化學</A>
-<td align=CENTER>1
-<td align=CENTER>2.0
-<td align=CENTER>2
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2437">工程一</A><BR>
-
-<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11108">蔡麗珠</A><BR>
-
-  <TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center><A href="ShowSyllabus.jsp?snum=270090&code=11108">查詢</A><BR>
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
 <td>273364
 <td><A href="Curr.jsp?format=-2&code=3301006">程式設計實習</A>
 <td align=CENTER>1
@@ -411,7 +422,7 @@
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
-<td align=CENTER>　
+<td align=CENTER>英語
 <td align=center><A href="ShowSyllabus.jsp?snum=273364&code=11966">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>

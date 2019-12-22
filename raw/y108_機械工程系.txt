@@ -177,7 +177,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR><A href="ShowSyllabus.jsp?snum=268373&code=12082">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=268373&code=11368">查詢</A><BR><BR><BR><A href="ShowSyllabus.jsp?snum=268373&code=11394">查詢</A><BR><BR><BR><BR><BR><A href="ShowSyllabus.jsp?snum=268373&code=10657">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268373&code=12036">查詢</A><BR><BR><BR><A href="ShowSyllabus.jsp?snum=268373&code=11944">查詢</A><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=268373&code=11194">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268373&code=12082">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=268373&code=11368">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268373&code=11087">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=268373&code=11394">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268373&code=10777">查詢</A><BR><BR><BR><A href="ShowSyllabus.jsp?snum=268373&code=11584">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268373&code=10657">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268373&code=12036">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268373&code=10623">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268373&code=12086">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268373&code=11944">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -200,7 +200,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=268374&code=12086">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -276,7 +276,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR><A href="ShowSyllabus.jsp?snum=268393&code=11840">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268393&code=11826">查詢</A><BR><BR><BR><BR><A href="ShowSyllabus.jsp?snum=268393&code=11394">查詢</A><BR><BR><BR><BR><A href="ShowSyllabus.jsp?snum=268393&code=10657">查詢</A><BR><BR><BR>
+<td align=center><BR><A href="ShowSyllabus.jsp?snum=268393&code=11840">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268393&code=11826">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=268393&code=11087">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=268393&code=11394">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268393&code=10777">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=268393&code=11584">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268393&code=10657">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268393&code=10623">查詢</A><BR><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -376,7 +376,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR><A href="ShowSyllabus.jsp?snum=268413&code=11840">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=268413&code=11826">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=268413&code=11394">查詢</A><BR><BR><BR><A href="ShowSyllabus.jsp?snum=268413&code=10657">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268413&code=12036">查詢</A><BR><BR><BR><BR><A href="ShowSyllabus.jsp?snum=268413&code=11944">查詢</A><BR>
+<td align=center><BR><A href="ShowSyllabus.jsp?snum=268413&code=11840">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=268413&code=11826">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268413&code=11087">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268413&code=11394">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268413&code=10777">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268413&code=11584">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268413&code=10657">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268413&code=12036">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268413&code=10623">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268413&code=12086">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=268413&code=11944">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -531,7 +531,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269098&code=12043">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -578,7 +578,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269100&code=10777">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -665,7 +665,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269108&code=12080">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -711,7 +711,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269110&code=12080">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -844,7 +844,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269120&code=12080">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -914,7 +914,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR><A href="ShowSyllabus.jsp?snum=269123&code=11129">查詢</A><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269123&code=10414">查詢</A><BR><A href="ShowSyllabus.jsp?snum=269123&code=11129">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -936,7 +936,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269124&code=11584">查詢</A><BR>
   <TD>教室請安排二教103或105PBL教室</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -998,7 +998,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24006">司潔妮</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>7 <TD>5 6 <TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=49">三教308</A><BR>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=9">一教301</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=2&code=49">三教308</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -1049,7 +1050,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269634&code=12079">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1093,7 +1094,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269636&code=21876">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1268,7 +1269,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12005">王伯雅</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>7 <TD>5 6 <TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=50">三教309</A><BR>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=47">三教306</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=2&code=11">一教303</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -1319,7 +1321,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269648&code=23487">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1408,7 +1410,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269652&code=10366">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1567,7 +1569,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269660&code=12177">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1634,7 +1636,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center>　
-  <TD>請選：通識中心/博雅核心-美學(一)</TD>
+  <TD>請選：通識中心/博雅核心-美學(二)</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -1918,7 +1920,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271891&code=24172">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1963,7 +1965,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271893&code=10414">查詢</A><BR><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1994,7 +1996,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><A href="ShowSyllabus.jsp?snum=271894&code=11840">查詢</A><BR><A href="ShowSyllabus.jsp?snum=271894&code=11826">查詢</A><BR><BR><BR><A href="ShowSyllabus.jsp?snum=271894&code=11394">查詢</A><BR><BR><BR><A href="ShowSyllabus.jsp?snum=271894&code=12036">查詢</A><BR><A href="ShowSyllabus.jsp?snum=271894&code=11944">查詢</A><BR><A href="ShowSyllabus.jsp?snum=271894&code=11363">查詢</A><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271894&code=11840">查詢</A><BR><A href="ShowSyllabus.jsp?snum=271894&code=11826">查詢</A><BR><A href="ShowSyllabus.jsp?snum=271894&code=12080">查詢</A><BR><A href="ShowSyllabus.jsp?snum=271894&code=11087">查詢</A><BR><A href="ShowSyllabus.jsp?snum=271894&code=11394">查詢</A><BR><A href="ShowSyllabus.jsp?snum=271894&code=10777">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=271894&code=12036">查詢</A><BR><A href="ShowSyllabus.jsp?snum=271894&code=11944">查詢</A><BR><A href="ShowSyllabus.jsp?snum=271894&code=11363">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2132,7 +2134,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><A href="ShowSyllabus.jsp?snum=271901&code=12082">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=271901&code=11840">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=271901&code=11394">查詢</A><BR><BR><BR><A href="ShowSyllabus.jsp?snum=271901&code=12036">查詢</A><BR><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271901&code=12082">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=271901&code=11840">查詢</A><BR><A href="ShowSyllabus.jsp?snum=271901&code=11087">查詢</A><BR><A href="ShowSyllabus.jsp?snum=271901&code=11394">查詢</A><BR><A href="ShowSyllabus.jsp?snum=271901&code=10777">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=271901&code=12036">查詢</A><BR><A href="ShowSyllabus.jsp?snum=271901&code=10623">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2283,7 +2285,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=272050&code=22291">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2413,7 +2415,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=272854&code=23483">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2471,9 +2473,9 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2508">訓四機一甲</A><BR>
 
-<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22737">施勝雄</A><BR>
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23665">林震</A><BR>
 
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>A B 
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>8 9 
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -2501,7 +2503,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center>　
-  <TD>北分署代開，限本班生加選</TD>
+  <TD>北分署代開：限甲班A組(學號10830B501~10830B525)選課</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2522,7 +2524,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center>　
-  <TD>北分署代開，限本班生加選</TD>
+  <TD>北分署代開：限甲班A組(學號10830B501~10830B525)選課</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2543,7 +2545,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center>　
-  <TD>北分署代開，限本班生加選</TD>
+  <TD>北分署代開：限甲班B組(學號10830B526~10830B551)選課</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2644,15 +2646,15 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2509">訓四機一乙</A><BR>
 
-<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23665">林震</A><BR>
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22737">施勝雄</A><BR>
 
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>A B 
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><A href="ShowSyllabus.jsp?snum=272867&code=23665">查詢</A><BR>
+<td align=center><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2674,7 +2676,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center>　
-  <TD>北分署代開，限本班生加選</TD>
+  <TD>北分署代開：限乙班A組(學號10830B601~10830B625)選課</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2695,7 +2697,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center>　
-  <TD>北分署代開，限本班生加選</TD>
+  <TD>北分署代開：限乙班B組(學號10830B626~10830B651)選課</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2716,7 +2718,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center>　
-  <TD>北分署代開，限本班生加選</TD>
+  <TD>北分署代開：限乙班B組(學號10830B626~10830B651)選課</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2737,7 +2739,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center>　
-  <TD>北分署代開，限本班生加選</TD>
+  <TD>北分署代開：限甲班A組(學號10830B501~10830B525)選課</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2758,7 +2760,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center>　
-  <TD>北分署代開，限本班生加選</TD>
+  <TD>北分署代開：限甲班A組(學號10830B501~10830B525)選課</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2779,7 +2781,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center>　
-  <TD>北分署代開，限本班生加選</TD>
+  <TD>北分署代開：限甲班B組(學號10830B526~10830B551)選課</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2800,7 +2802,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center>　
-  <TD>北分署代開，限本班生加選</TD>
+  <TD>北分署代開：限甲班B組(學號10830B526~10830B551)選課</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2821,7 +2823,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center>　
-  <TD>北分署代開，限本班生加選</TD>
+  <TD>北分署代開：限乙班B組(學號10830B626~10830B651)選課</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2842,7 +2844,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center>　
-  <TD>北分署代開，限本班生加選</TD>
+  <TD>北分署代開：限乙班A組(學號10830B601~10830B625)選課</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2863,7 +2865,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center>　
-  <TD>北分署代開，限本班生加選</TD>
+  <TD>北分署代開：限乙班A組(學號10830B601~10830B625)選課</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2884,7 +2886,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center>　
-  <TD>北分署代開，限本班生加選</TD>
+  <TD>北分署代開：限乙班A組(學號10830B601~10830B625)選課</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -2900,7 +2902,7 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23473">蔡佳靜</A><BR>
 
   <TD>　<TD>8 <TD>　<TD>　<TD>　<TD>　<TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=50">三教309</A><BR>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=47">三教306</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -2923,7 +2925,7 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23473">蔡佳靜</A><BR>
 
   <TD>　<TD>9 <TD>　<TD>　<TD>　<TD>　<TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=50">三教309</A><BR>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=47">三教306</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -2951,7 +2953,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273047&code=10414">查詢</A><BR>
   <TD>電腦教室，排周六</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -2973,8 +2975,8 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
-  <TD>電腦教室</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=273048&code=10777">查詢</A><BR>
+  <TD>電腦教室/限20人</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -3050,7 +3052,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273384&code=10623">查詢</A><BR>
   <TD>機械大三、四合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -3148,8 +3150,8 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
-  <TD>限45人，機械三甲、三丙合開/328-1</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=273400&code=11936">查詢</A><BR>
+  <TD>中英雙語/限45人/機械大三合開/綜科328_1</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -3295,8 +3297,8 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
-  <TD>機械大三合開</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=273418&code=12043">查詢</A><BR>
+  <TD>機械大三合開/全英語</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -3313,8 +3315,7 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11373">洪祖全</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=179">綜科428</A><BR>
-
+<td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -3344,7 +3345,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273423&code=12086">查詢</A><BR>
   <TD>機械大二合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -3362,7 +3363,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11098">許東亞</A><BR>
 
   <TD>　<TD>8 <TD>　<TD>　<TD>　<TD>7 8 <TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=50">三教309</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -3439,7 +3441,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center><A href="ShowSyllabus.jsp?snum=273432&code=11132">查詢</A><BR>
-  <TD>訓四機四甲.四乙合開</TD>
+  <TD>訓四機四甲.四乙合開，日職合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -3647,7 +3649,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273746&code=22595">查詢</A><BR>
   <TD>訓四機四甲.四乙合開/綜科328-1</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -3671,7 +3673,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273747&code=22595">查詢</A><BR>
   <TD>產學訓產學攜手4年級合開/綜科328-1</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -3919,8 +3921,33 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
-  <TD>機械大四和訓四機甲乙合開</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=274050&code=11132">查詢</A><BR>
+  <TD>機械大四和訓四機甲乙合開,限20人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274229
+<td><A href="Curr.jsp?format=-2&code=3004128">製造營運管理技術</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2050">機械四甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2051">機械四乙</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2052">機械四丙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11194">丁振卿</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11767">孫殷同</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>7 8 9 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274229&code=11194">查詢</A><BR><A href="ShowSyllabus.jsp?snum=274229&code=11767">查詢</A><BR>
+  <TD>機電大四和機電所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>

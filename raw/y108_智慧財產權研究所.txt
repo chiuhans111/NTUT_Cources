@@ -57,7 +57,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271268&code=11931">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -80,7 +80,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271272&code=11931">查詢</A><BR>
   <TD>中英</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -96,13 +96,13 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11968">賴名亮</A><BR>
 
-  <TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271285&code=11968">查詢</A><BR>
   <TD>英文</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -145,8 +145,8 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
-  <TD>英文</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=272750&code=11968">查詢</A><BR>
+  <TD>　</TD>
 <td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -161,7 +161,7 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11609">郭宏杉</A><BR>
 
-  <TD>　<TD>　<TD>C D <TD>　<TD>　<TD>　<TD>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>A B <TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -189,8 +189,8 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
-  <TD>　</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=272759&code=11928">查詢</A><BR>
+  <TD>日職合開</TD>
 <td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -211,7 +211,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273919&code=11928">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -228,6 +228,182 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11968">賴名亮</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273920&code=11968">查詢</A><BR>
+  <TD>電機大四和智財所合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274207
+<td><A href="Curr.jsp?format=-2&code=A405112">商標法案例研究</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2498">職智財所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11931">陳匡正</A><BR>
+
+  <TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274207&code=11931">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274209
+<td><A href="Curr.jsp?format=-2&code=A405208">數位匯流與智財法律專題(二)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2498">職智財所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11665">江雅綺</A><BR>
+
+  <TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><BR>
+  <TD>日職合開</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274211
+<td><A href="Curr.jsp?format=-2&code=A405209">AI創作與著作權法</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2498">職智財所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11150">李傑清</A><BR>
+
+  <TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274211&code=11150">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274212
+<td><A href="Curr.jsp?format=-2&code=A405207">科技發展與法律策略:案例研析二</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2498">職智財所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11665">江雅綺</A><BR>
+
+  <TD>　<TD>9 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>日職合開</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274220
+<td><A href="Curr.jsp?format=-2&code=A405207">科技發展與法律策略:案例研析二</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2467">智財所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11665">江雅綺</A><BR>
+
+  <TD>　<TD>9 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274221
+<td><A href="Curr.jsp?format=-2&code=A405208">數位匯流與智財法律專題(二)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2467">智財所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11665">江雅綺</A><BR>
+
+  <TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274222
+<td><A href="Curr.jsp?format=-2&code=A405209">AI創作與著作權法</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2467">智財所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11150">李傑清</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274222&code=11150">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274239
+<td><A href="Curr.jsp?format=-2&code=A405155">專利法專題研究</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2467">智財所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=21015">秦建譜</A><BR>
+
+  <TD>　<TD>7 8 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>

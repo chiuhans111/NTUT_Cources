@@ -79,7 +79,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269605&code=12079">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -140,12 +140,13 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11391">王多柏</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=353">綜科104</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269608&code=11391">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -297,7 +298,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270119&code=11399">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -407,7 +408,7 @@
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
-<td align=CENTER>　
+<td align=CENTER>英語
 <td align=center><A href="ShowSyllabus.jsp?snum=270189&code=11493">查詢</A><BR>
   <TD>電機所和IEECS合開</TD>
 <td align=CENTER>　</TD>
@@ -430,7 +431,7 @@
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
-<td align=CENTER>　
+<td align=CENTER>英語
 <td align=center><A href="ShowSyllabus.jsp?snum=270240&code=12085">查詢</A><BR>
   <TD>電機所和IEECS合開</TD>
 <td align=CENTER>　</TD>
@@ -453,7 +454,7 @@
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
-<td align=CENTER>　
+<td align=CENTER>英語
 <td align=center><A href="ShowSyllabus.jsp?snum=270243&code=12174">查詢</A><BR>
   <TD>電機所和IEECS合開</TD>
 <td align=CENTER>　</TD>
@@ -476,7 +477,7 @@
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
-<td align=CENTER>　
+<td align=CENTER>英語
 <td align=center><A href="ShowSyllabus.jsp?snum=270291&code=11091">查詢</A><BR>
   <TD>電子所和IEECS合開</TD>
 <td align=CENTER>　</TD>
@@ -500,7 +501,7 @@
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
-<td align=CENTER>　
+<td align=CENTER>英語
 <td align=center><A href="ShowSyllabus.jsp?snum=270301&code=12077">查詢</A><BR>
   <TD>電子所和IEECS合開</TD>
 <td align=CENTER>　</TD>
@@ -571,7 +572,7 @@
 <td>　
 <td align=CENTER>英語
 <td align=center><A href="ShowSyllabus.jsp?snum=271053&code=11179">查詢</A><BR>
-  <TD>光電所和IEECS合開</TD>
+  <TD>光電所和IEECS合開，專業四選二C</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -594,7 +595,7 @@
 <td>　
 <td align=CENTER>英語
 <td align=center><BR>
-  <TD>光電所和IEECS合開</TD>
+  <TD>光電所和IEECS合開，專業四選二B</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -623,132 +624,6 @@
 <td align=CENTER>是</TD>
 </TR>
 <TR>
-<td>271243
-<td><A href="Curr.jsp?format=-2&code=3105037">模糊控制</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2466">電資外生所</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>英語
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>271245
-<td><A href="Curr.jsp?format=-2&code=4125020">錯誤更正碼</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2466">電資外生所</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>英語
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>271246
-<td><A href="Curr.jsp?format=-2&code=4125022">微波通信</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2466">電資外生所</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>英語
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>271247
-<td><A href="Curr.jsp?format=-2&code=4135017">微波被動元件</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2466">電資外生所</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>英語
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>271248
-<td><A href="Curr.jsp?format=-2&code=5305016">傅氏光學</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2466">電資外生所</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>英語
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>271253
-<td><A href="Curr.jsp?format=-2&code=5905135">行動通訊</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2466">電資外生所</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>英語
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
 <td>271258
 <td><A href="Curr.jsp?format=-2&code=6505135">光纖感測</A>
 <td align=CENTER>1
@@ -757,14 +632,16 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2466">電資外生所</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11369">彭朋群</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=534">億光1113</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271258&code=11369">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -799,14 +676,15 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2466">電資外生所</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11634">江佩穎</A><BR>
+
+  <TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center>　
+<td align=center><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -872,7 +750,7 @@
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
-<td align=CENTER>　
+<td align=CENTER>英語
 <td align=center><A href="ShowSyllabus.jsp?snum=273000&code=11292">查詢</A><BR>
   <TD>電機所和IEECS合開</TD>
 <td align=CENTER>　</TD>
@@ -921,8 +799,8 @@
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
-<td align=CENTER>　
-<td align=center><BR>
+<td align=CENTER>英語
+<td align=center><A href="ShowSyllabus.jsp?snum=273005&code=11342">查詢</A><BR>
   <TD>電機所和IEECS合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -944,7 +822,7 @@
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
-<td align=CENTER>　
+<td align=CENTER>英語
 <td align=center><A href="ShowSyllabus.jsp?snum=273045&code=10619">查詢</A><BR>
   <TD>電機所和IEECS合開</TD>
 <td align=CENTER>　</TD>
@@ -967,7 +845,7 @@
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
-<td align=CENTER>　
+<td align=CENTER>英語
 <td align=center><A href="ShowSyllabus.jsp?snum=273211&code=11437">查詢</A><BR>
   <TD>電子所和IEECS合開</TD>
 <td align=CENTER>　</TD>
@@ -1013,8 +891,8 @@
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
-<td align=CENTER>　
-<td align=center><BR>
+<td align=CENTER>英語
+<td align=center><A href="ShowSyllabus.jsp?snum=273741&code=10823">查詢</A><BR>
   <TD>電子所和IEECS合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1036,7 +914,7 @@
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
-<td align=CENTER>　
+<td align=CENTER>英語
 <td align=center><A href="ShowSyllabus.jsp?snum=273818&code=11984">查詢</A><BR>
   <TD>電子所和IEECS合開</TD>
 <td align=CENTER>　</TD>
@@ -1084,7 +962,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273837&code=12147">查詢</A><BR>
   <TD>光電所和IEECS合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1109,6 +987,51 @@
 <td align=CENTER>英語
 <td align=center><BR>
   <TD>計中電腦教室, PBL ,光電三四、所和IEECS合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274129
+<td><A href="Curr.jsp?format=-2&code=3102097">機率</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2439">電資外生一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10383">蕭榮修</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><A href="ShowSyllabus.jsp?snum=274129&code=10383">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274210
+<td><A href="Curr.jsp?format=-2&code=3105190">無線通訊導論</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2443">電機所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2466">電資外生所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12083">林鈞陶</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><A href="ShowSyllabus.jsp?snum=274210&code=12083">查詢</A><BR>
+  <TD>電機所和IEECS合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>

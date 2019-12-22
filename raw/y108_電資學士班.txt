@@ -50,15 +50,16 @@
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2195">資工三</A><BR>
 <A href="Subj.jsp?format=-4&year=108&sem=2&code=2317">電資二</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10383">蕭榮修</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>B C D <TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>資工二、電資二合開</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=268989&code=10383">查詢</A><BR>
+  <TD>資工、電資二和電子大三合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -204,14 +205,14 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10772">吳和庭</A><BR>
 
-  <TD>　<TD>　<TD>2 <TD>5 6 <TD>　<TD>　<TD>　
+  <TD>　<TD>　<TD>8 9 <TD>2 <TD>　<TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
 <td align=center><A href="ShowSyllabus.jsp?snum=269535&code=10772">查詢</A><BR>
-  <TD>資工二和電資二合開</TD>
+  <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -224,15 +225,16 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2317">電資二</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11635">曾柏軒</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 <TD>A B <TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=269539&code=11635">查詢</A><BR>
+  <TD>電資二和電子三丙合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -297,7 +299,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270040&code=23940">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -337,7 +339,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11973">辜炳達</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>7 <TD>5 6 <TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=73">四教202</A><BR>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=10">一教302</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=2&code=73">四教202</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -357,15 +360,16 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2436">電資一</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>9 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24157">陳德智</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>8 <TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
+<td align=center><BR>
+  <TD>須分組至校外，第1及2週遲到早退缺席者不得選課。</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -387,7 +391,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270044&code=12079">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -454,7 +458,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270047&code=10366">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -476,7 +480,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270048&code=10366">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -493,12 +497,13 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10709">楊士萱</A><BR>
 
   <TD>　<TD>1 <TD>　<TD>7 8 <TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=73">四教202</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270049&code=10709">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -538,7 +543,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10304">譚巽言</A><BR>
 
   <TD>　<TD>　<TD>5 <TD>　<TD>5 6 <TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=73">四教202</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　

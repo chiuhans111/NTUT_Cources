@@ -74,7 +74,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12003">林煜善</A><BR>
 
   <TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=9">一教301</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -96,12 +97,13 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12004">陳昭伶</A><BR>
 
   <TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=11">一教303</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271602&code=12004">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -137,15 +139,15 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
 
-<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11421">林家薇</A><BR>
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12092">袁慧君</A><BR>
 
-  <TD>　<TD>　<TD>7 8 <TD>　<TD>　<TD>　<TD>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><A href="ShowSyllabus.jsp?snum=271605&code=11421">查詢</A><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271605&code=12092">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -162,7 +164,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23248">賀一平</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=493">一教1F</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -184,12 +187,13 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12004">陳昭伶</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=10">一教302</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271607&code=12004">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -343,7 +347,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271615&code=24137">查詢</A><BR>
   <TD>以多益750分為目標/外師授課</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -382,7 +386,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11421">林家薇</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=493">一教1F</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -448,7 +453,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11421">林家薇</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=9">一教301</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -470,7 +476,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12003">林煜善</A><BR>
 
   <TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=9">一教301</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -514,7 +521,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24110">吳景龍</A><BR>
 
   <TD>　<TD>3 4 <TD>5 <TD>　<TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=10">一教302</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -558,12 +566,13 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11538">葉采青</A><BR>
 
   <TD>　<TD>3 4 <TD>5 <TD>　<TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=11">一教303</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273500&code=11538">查詢</A><BR>
   <TD>中級 (Intermediate)</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -602,7 +611,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11421">林家薇</A><BR>
 
   <TD>　<TD>3 4 <TD>5 <TD>　<TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=493">一教1F</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -624,7 +634,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12092">袁慧君</A><BR>
 
   <TD>　<TD>3 4 <TD>5 <TD>　<TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=9">一教301</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -668,7 +679,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23100">夏珮玲</A><BR>
 
   <TD>　<TD>3 4 <TD>5 <TD>　<TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=10">一教302</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -690,7 +702,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12092">袁慧君</A><BR>
 
   <TD>　<TD>5 6 <TD>　<TD>3 <TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=9">一教301</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -712,12 +725,13 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12177">劉慧雯</A><BR>
 
   <TD>　<TD>5 6 <TD>　<TD>3 <TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=493">一教1F</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273507&code=12177">查詢</A><BR>
   <TD>初級 (Elementary)</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -734,12 +748,13 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24107">王凡</A><BR>
 
   <TD>　<TD>5 6 <TD>　<TD>3 <TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=11">一教303</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273508&code=24107">查詢</A><BR>
   <TD>中級 (Intermediate)</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -827,7 +842,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273512&code=11967">查詢</A><BR>
   <TD>高級 (Advanced)</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -844,7 +859,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12179">陳玉敏</A><BR>
 
   <TD>　<TD>5 6 <TD>　<TD>3 <TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=11">一教303</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -893,7 +909,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273515&code=24112">查詢</A><BR>
   <TD>中級 (Intermediate)</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -915,7 +931,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273516&code=22285">查詢</A><BR>
   <TD>初級 (Elementary)</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -932,7 +948,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24110">吳景龍</A><BR>
 
   <TD>　<TD>7 8 <TD>6 <TD>　<TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=10">一教302</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -954,7 +971,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11421">林家薇</A><BR>
 
   <TD>　<TD>7 8 <TD>6 <TD>　<TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=10">一教302</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=2&code=493">一教1F</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -981,7 +1000,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273520&code=11538">查詢</A><BR>
   <TD>中級 (Intermediate)</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1041,12 +1060,13 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11092">黃如瑩</A><BR>
 
   <TD>　<TD>7 8 <TD>6 <TD>　<TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=11">一教303</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273523&code=11092">查詢</A><BR>
   <TD>高級 (Advanced)</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1063,7 +1083,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22436">李信明</A><BR>
 
   <TD>　<TD>7 8 <TD>6 <TD>　<TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=11">一教303</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -1085,12 +1106,13 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12004">陳昭伶</A><BR>
 
   <TD>　<TD>　<TD>8 <TD>1 2 <TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=11">一教303</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273525&code=12004">查詢</A><BR>
   <TD>初級 (Elementary)</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1107,7 +1129,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24140">李智堯</A><BR>
 
   <TD>　<TD>　<TD>8 <TD>1 2 <TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=9">一教301</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -1134,7 +1157,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273527&code=24112">查詢</A><BR>
   <TD>中級 (Intermediate)</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1151,7 +1174,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10465">余盛延</A><BR>
 
   <TD>　<TD>　<TD>8 <TD>1 2 <TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=9">一教301</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -1173,7 +1197,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24242">林宜樺</A><BR>
 
   <TD>　<TD>　<TD>8 <TD>1 2 <TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=10">一教302</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -1195,7 +1220,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12179">陳玉敏</A><BR>
 
   <TD>　<TD>　<TD>8 <TD>1 2 <TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=10">一教302</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -1217,7 +1243,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22291">喻沐英</A><BR>
 
   <TD>　<TD>　<TD>8 <TD>1 2 <TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=11">一教303</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -1244,7 +1271,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273532&code=11809">查詢</A><BR>
   <TD>初級 (Elementary)</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1261,12 +1288,13 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11436">蔡逸萍</A><BR>
 
   <TD>　<TD>　<TD>　<TD>4 <TD>3 4 <TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=11">一教303</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273533&code=11436">查詢</A><BR>
   <TD>中級 (Intermediate)</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1283,7 +1311,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11912">陳玟心</A><BR>
 
   <TD>　<TD>　<TD>　<TD>4 <TD>3 4 <TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=10">一教302</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -1349,7 +1378,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23854">卓建宏</A><BR>
 
   <TD>　<TD>　<TD>　<TD>4 <TD>3 4 <TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=11">一教303</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -1371,7 +1401,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11082">陳怡倩</A><BR>
 
   <TD>　<TD>7 8 <TD>6 <TD>　<TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=9">一教301</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -1393,7 +1424,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12003">林煜善</A><BR>
 
   <TD>　<TD>3 4 <TD>5 <TD>　<TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=11">一教303</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=2&code=9">一教301</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -1415,7 +1448,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23735">林德倫</A><BR>
 
   <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=10">一教302</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -1434,16 +1468,104 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
 
-<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12092">袁慧君</A><BR>
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11421">林家薇</A><BR>
 
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　
+  <TD>　<TD>　<TD>7 8 <TD>　<TD>　<TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><A href="ShowSyllabus.jsp?snum=274024&code=12092">查詢</A><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=274024&code=11421">查詢</A><BR>
   <TD>以多益550分為目標</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274216
+<td><A href="Curr.jsp?format=-2&code=AA02001">創業0到2的思維與實作</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2397">創新創業(大)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23683">姚長安</A><BR>
+
+  <TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>限40人/大研合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274217
+<td><A href="Curr.jsp?format=-2&code=AA02001">創業0到2的思維與實作</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2398">創新創業(研)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23683">姚長安</A><BR>
+
+  <TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>限10人/大研合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274218
+<td><A href="Curr.jsp?format=-2&code=5705048">創新者的DNA</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2398">創新創業(研)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11429">吳斯偉</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>限15人/大研合開/六教</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274219
+<td><A href="Curr.jsp?format=-2&code=5703109">創新者的DNA</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2397">創新創業(大)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11429">吳斯偉</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>限45人/大研合開/六教</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>

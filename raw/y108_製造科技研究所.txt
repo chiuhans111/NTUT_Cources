@@ -41,6 +41,30 @@
       <TH align=Center>實驗<BR>實習</TH>
   </TR>
 <TR>
+<td>270355
+<td><A href="Curr.jsp?format=-2&code=4005012">精密機械</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2446">機電所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2454">製科所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10581">徐正會</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=51">三教311</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=270355&code=10581">查詢</A><BR>
+  <TD>全英語/乙8選2/機電所和製科所合開，綜328-1</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
 <td>270708
 <td><A href="Curr.jsp?format=-2&code=5605001">論文</A>
 <td align=CENTER>2
@@ -73,7 +97,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11098">許東亞</A><BR>
 
   <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=341">綜一演講廳</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -211,7 +236,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273134&code=12080">查詢</A><BR>
   <TD>限博士生修習</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -257,7 +282,7 @@
 <td>　
 <td align=CENTER>　
 <td align=center><A href="ShowSyllabus.jsp?snum=273317&code=12082">查詢</A><BR>
-  <TD>機電與製科所合開/限20人</TD>
+  <TD>限20人/機電.製科所合開/中英雙語</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -301,9 +326,9 @@
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
-<td align=CENTER>　
+<td align=CENTER>英語
 <td align=center><BR>
-  <TD>全英語授課，限30人</TD>
+  <TD>限30人</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -319,7 +344,7 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11363">魏大華</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=94">綜科110_1</A><BR>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=50">三教309</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -454,12 +479,13 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24172">陳政順</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=94">綜科110_1</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273680&code=24172">查詢</A><BR>
   <TD>限25人/製科所必選課程之一</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -484,7 +510,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273681&code=11767">查詢</A><BR>
   <TD>限25人/製科所必選課程之一/機電所、製科所、機械自動</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -508,7 +534,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273689&code=11087">查詢</A><BR>
   <TD>限20人/機電、製科及機械外生專班合開/3D列印</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -571,9 +597,8 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=21714">蔡惠言</A><BR>
 
-  <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=49">三教308</A><BR>
-
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
+<td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -601,7 +626,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=274062&code=10657">查詢</A><BR>
   <TD>機電所和製科所合開,限50人</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>

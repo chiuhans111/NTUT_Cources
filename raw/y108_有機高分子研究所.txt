@@ -101,7 +101,7 @@
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270605&code=11149">琩高</A><BR>
   <TD></TD>
 <td align=CENTER></TD>
 <td align=CENTER></TD>
@@ -124,7 +124,7 @@
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270606&code=11981">琩高</A><BR>
   <TD></TD>
 <td align=CENTER></TD>
 <td align=CENTER></TD>
@@ -216,7 +216,7 @@
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270627&code=11395">琩高</A><BR>
   <TD>ら戮蔼だ┮秨</TD>
 <td align=CENTER></TD>
 <td align=CENTER></TD>
@@ -281,7 +281,7 @@
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=272414&code=11149">琩高</A><BR>
   <TD></TD>
 <td align=CENTER>琌</TD>
 <td align=CENTER></TD>
@@ -347,7 +347,7 @@
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=272418&code=11151">琩高</A><BR>
   <TD></TD>
 <td align=CENTER>琌</TD>
 <td align=CENTER></TD>
@@ -391,7 +391,7 @@
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=272424&code=23329">琩高</A><BR>
   <TD></TD>
 <td align=CENTER>琌</TD>
 <td align=CENTER></TD>
@@ -413,7 +413,7 @@
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=272433&code=11395">琩高</A><BR>
   <TD>ら戮秨</TD>
 <td align=CENTER>琌</TD>
 <td align=CENTER></TD>
@@ -539,9 +539,8 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10913">默琇紷</A><BR>
 
-  <TD><TD><TD><TD><TD><TD>5 6 7 <TD>
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=109">麓加_2</A><BR>
-
+  <TD><TD><TD><TD><TD><TD>2 3 4 <TD>
+<td>
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>
@@ -562,9 +561,8 @@
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12181">朝╭紌</A><BR>
 
-  <TD><TD><TD><TD><TD><TD>2 3 4 <TD>
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=109">麓加_2</A><BR>
-
+  <TD><TD><TD><TD><TD><TD>5 6 7 <TD>
+<td>
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>

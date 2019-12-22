@@ -57,8 +57,8 @@
 <td>　
 <td align=CENTER>　
 <td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
+  <TD>碩一108級必修</TD>
+<td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
 <TR>
@@ -69,38 +69,24 @@
 <td align=CENTER>1
 <td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2500">工管EMBA</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2501">經管EMBA</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2502">資財EMBA</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2503">泰國EMBA</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2504">華南EMBA</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2505">上海EMBA</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2507">資財EMBA桃園</A><BR>
 
-<td>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10988">陳凱瀛</A><BR>
+
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
+<td align=center><A href="ShowSyllabus.jsp?snum=272780&code=10988">查詢</A><BR>
+  <TD>碩一108級必修</TD>
 <td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272781
-<td><A href="Curr.jsp?format=-2&code=C205018">設計力創新</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2500">工管EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
 </TR>
 <TR>
@@ -111,17 +97,24 @@
 <td align=CENTER>3
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2500">工管EMBA</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2501">經管EMBA</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2502">資財EMBA</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2507">資財EMBA桃園</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10938">耿慶瑞</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11537">劉建浩</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=12185">劉祐綸</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11435">蔡佩芳</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><BR><BR><BR><BR>
   <TD>　</TD>
-<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
 <TR>
@@ -133,37 +126,18 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2500">工管EMBA</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272784
-<td><A href="Curr.jsp?format=-2&code=C215010">產業政策與企業優化研討</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2500">工管EMBA</A><BR>
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10632">邱垂昱</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11435">蔡佩芳</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><BR><BR>
   <TD>　</TD>
-<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
 <TR>
@@ -175,100 +149,18 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2500">工管EMBA</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272786
-<td><A href="Curr.jsp?format=-2&code=C215013">創新管理</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2500">工管EMBA</A><BR>
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11225">車振華</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11537">劉建浩</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><BR><BR>
   <TD>　</TD>
-<td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272787
-<td><A href="Curr.jsp?format=-2&code=C215018">產品研發創新管理</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2500">工管EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272788
-<td><A href="Curr.jsp?format=-2&code=C215021">產品創新管理</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2500">工管EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272789
-<td><A href="Curr.jsp?format=-2&code=C225016">管理個案研討</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2500">工管EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
 </TR>
 <TR>
@@ -288,92 +180,8 @@
 <td>　
 <td align=CENTER>　
 <td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
+  <TD>碩一</TD>
 <td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272791
-<td><A href="Curr.jsp?format=-2&code=C205024">跨國個案競賽</A>
-<td align=CENTER>1
-<td align=CENTER>0.0
-<td align=CENTER>1
-<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2501">經管EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272792
-<td><A href="Curr.jsp?format=-2&code=5705264">組織設計與資源策略</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2501">經管EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272793
-<td><A href="Curr.jsp?format=-2&code=C205018">設計力創新</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2501">經管EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272794
-<td><A href="Curr.jsp?format=-2&code=C205023">整合經營策略個案分析</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2501">經管EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
 </TR>
 <TR>
@@ -385,58 +193,18 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2501">經管EMBA</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272796
-<td><A href="Curr.jsp?format=-2&code=C225009">顧客行為與互動行銷決策</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2501">經管EMBA</A><BR>
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12171">張瑋倫</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=22147">廖耀宗</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+  <TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><A href="ShowSyllabus.jsp?snum=272795&code=12171">查詢</A><BR><BR>
   <TD>　</TD>
-<td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272797
-<td><A href="Curr.jsp?format=-2&code=C225011">品牌行銷策略</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2501">經管EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
 </TR>
 <TR>
@@ -448,37 +216,19 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2501">經管EMBA</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272799
-<td><A href="Curr.jsp?format=-2&code=C225016">管理個案研討</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2501">經管EMBA</A><BR>
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10584">吳忠敏</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11429">吳斯偉</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=24001">駱武昌</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><BR><BR><BR>
   <TD>　</TD>
-<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
 <TR>
@@ -490,16 +240,19 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2501">經管EMBA</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23797">王榮春</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=24183">周婉茹</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11224">陳建丞</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><BR><BR><BR>
   <TD>　</TD>
-<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
 <TR>
@@ -511,16 +264,19 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2501">經管EMBA</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11893">呂怜樺</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10973">胡同來</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=12185">劉祐綸</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><BR><BR><BR>
   <TD>　</TD>
-<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
 <TR>
@@ -532,37 +288,19 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2501">經管EMBA</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272803
-<td><A href="Curr.jsp?format=-2&code=C255019">行為財務學</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2501">經管EMBA</A><BR>
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23782">白光華</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=24184">朱家賢</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10361">陳銘崑</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+  <TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><BR><BR><BR>
   <TD>　</TD>
-<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
 <TR>
@@ -583,154 +321,7 @@
 <td align=CENTER>　
 <td align=center>　
   <TD>　</TD>
-<td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272805
-<td><A href="Curr.jsp?format=-2&code=C205024">跨國個案競賽</A>
-<td align=CENTER>1
-<td align=CENTER>0.0
-<td align=CENTER>1
-<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2502">資財EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272806
-<td><A href="Curr.jsp?format=-2&code=C205018">設計力創新</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2502">資財EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272807
-<td><A href="Curr.jsp?format=-2&code=C205023">整合經營策略個案分析</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2502">資財EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272808
-<td><A href="Curr.jsp?format=-2&code=C225016">管理個案研討</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2502">資財EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272809
-<td><A href="Curr.jsp?format=-2&code=C235008">財金管理研討</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2502">資財EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272810
-<td><A href="Curr.jsp?format=-2&code=C235009">資訊科技與企業創新</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2502">資財EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272811
-<td><A href="Curr.jsp?format=-2&code=C235011">創新與創業管理</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2502">資財EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
 </TR>
 <TR>
@@ -742,184 +333,19 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2502">資財EMBA</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272813
-<td><A href="Curr.jsp?format=-2&code=C235014">金融大數據與企業金融</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2502">資財EMBA</A><BR>
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10662">吳建文</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11396">陳育威</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=12148">魏銪志</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
+<td align=center><BR><A href="ShowSyllabus.jsp?snum=272812&code=11396">查詢</A><BR><A href="ShowSyllabus.jsp?snum=272812&code=12148">查詢</A><BR>
   <TD>　</TD>
-<td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272814
-<td><A href="Curr.jsp?format=-2&code=C285020">體適能管理</A>
-<td align=CENTER>1
-<td align=CENTER>0.0
-<td align=CENTER>2
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2502">資財EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272815
-<td><A href="Curr.jsp?format=-2&code=C205024">跨國個案競賽</A>
-<td align=CENTER>1
-<td align=CENTER>0.0
-<td align=CENTER>1
-<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2503">泰國EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272816
-<td><A href="Curr.jsp?format=-2&code=C245002">品牌行銷策略</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2503">泰國EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272817
-<td><A href="Curr.jsp?format=-2&code=C245007">領導與組織管理</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2503">泰國EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272818
-<td><A href="Curr.jsp?format=-2&code=C245008">持續性企業策略管理</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2503">泰國EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272819
-<td><A href="Curr.jsp?format=-2&code=C245016">品牌行銷策略</A>
-<td align=CENTER>1
-<td align=CENTER>2.0
-<td align=CENTER>2
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2503">泰國EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272820
-<td><A href="Curr.jsp?format=-2&code=C245019">服務策略與創新模式</A>
-<td align=CENTER>1
-<td align=CENTER>2.0
-<td align=CENTER>2
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2503">泰國EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
 </TR>
 <TR>
@@ -931,331 +357,17 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2503">泰國EMBA</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272822
-<td><A href="Curr.jsp?format=-2&code=C245025">管理議題與研究方法</A>
-<td align=CENTER>1
-<td align=CENTER>1.0
-<td align=CENTER>1
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2503">泰國EMBA</A><BR>
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11401">黃乾怡</A><BR>
 
-<td>　
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
+<td align=center><BR>
+  <TD>碩二107級4/25~4/25</TD>
 <td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272823
-<td><A href="Curr.jsp?format=-2&code=C205024">跨國個案競賽</A>
-<td align=CENTER>1
-<td align=CENTER>0.0
-<td align=CENTER>1
-<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2504">華南EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272824
-<td><A href="Curr.jsp?format=-2&code=C255021">大數據分析與實務</A>
-<td align=CENTER>1
-<td align=CENTER>2.0
-<td align=CENTER>2
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2504">華南EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272825
-<td><A href="Curr.jsp?format=-2&code=C255023">網路行銷</A>
-<td align=CENTER>1
-<td align=CENTER>2.0
-<td align=CENTER>2
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2504">華南EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272826
-<td><A href="Curr.jsp?format=-2&code=C255032">產業分析與投資決策</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2504">華南EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272827
-<td><A href="Curr.jsp?format=-2&code=C255033">論文寫作與研究方法</A>
-<td align=CENTER>1
-<td align=CENTER>2.0
-<td align=CENTER>2
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2504">華南EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272828
-<td><A href="Curr.jsp?format=-2&code=C255036">智慧整合製造系統專題</A>
-<td align=CENTER>1
-<td align=CENTER>2.0
-<td align=CENTER>2
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2504">華南EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272829
-<td><A href="Curr.jsp?format=-2&code=C255042">管理議題與研究方法</A>
-<td align=CENTER>1
-<td align=CENTER>2.0
-<td align=CENTER>2
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2504">華南EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272830
-<td><A href="Curr.jsp?format=-2&code=C205024">跨國個案競賽</A>
-<td align=CENTER>1
-<td align=CENTER>0.0
-<td align=CENTER>1
-<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2505">上海EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272831
-<td><A href="Curr.jsp?format=-2&code=C265006">企業精實化與全球品質管理</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2505">上海EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272832
-<td><A href="Curr.jsp?format=-2&code=C265008">領導與組織管理</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2505">上海EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272833
-<td><A href="Curr.jsp?format=-2&code=C265014">策略管理</A>
-<td align=CENTER>1
-<td align=CENTER>2.0
-<td align=CENTER>2
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2505">上海EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272834
-<td><A href="Curr.jsp?format=-2&code=C265015">智慧型生產系統</A>
-<td align=CENTER>1
-<td align=CENTER>2.0
-<td align=CENTER>2
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2505">上海EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272835
-<td><A href="Curr.jsp?format=-2&code=C265022">金融科技專題</A>
-<td align=CENTER>1
-<td align=CENTER>2.0
-<td align=CENTER>2
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2505">上海EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272836
-<td><A href="Curr.jsp?format=-2&code=C265025">智慧整合製造系統專題</A>
-<td align=CENTER>1
-<td align=CENTER>2.0
-<td align=CENTER>2
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2505">上海EMBA</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
 </TR>
 <TR>
@@ -1359,29 +471,8 @@
 <td>　
 <td align=CENTER>　
 <td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
+  <TD>碩一108級必修</TD>
 <td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272842
-<td><A href="Curr.jsp?format=-2&code=C205024">跨國個案競賽</A>
-<td align=CENTER>1
-<td align=CENTER>0.0
-<td align=CENTER>1
-<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2507">資財EMBA桃園</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
 </TR>
 <TR>
@@ -1393,79 +484,19 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2507">資財EMBA桃園</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272844
-<td><A href="Curr.jsp?format=-2&code=C285014">金融科技</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2507">資財EMBA桃園</A><BR>
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10662">吳建文</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11396">陳育威</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=12148">魏銪志</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
+<td align=center><BR><A href="ShowSyllabus.jsp?snum=272843&code=11396">查詢</A><BR><A href="ShowSyllabus.jsp?snum=272843&code=12148">查詢</A><BR>
+  <TD>碩一108級必修 (北科附工304室)</TD>
 <td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272845
-<td><A href="Curr.jsp?format=-2&code=C285015">金融大數據與投資決策</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2507">資財EMBA桃園</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272846
-<td><A href="Curr.jsp?format=-2&code=C285016">領導與組織管理</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2507">資財EMBA桃園</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
 </TR>
 <TR>
@@ -1477,100 +508,17 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2507">資財EMBA桃園</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272848
-<td><A href="Curr.jsp?format=-2&code=C285018">智慧製造與工業4.0</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2507">資財EMBA桃園</A><BR>
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10431">林志平</A><BR>
 
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+  <TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　
 <td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
+<td align=center><BR>
+  <TD>北科附工302室</TD>
 <td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272849
-<td><A href="Curr.jsp?format=-2&code=C285019">經營模式與策略變革</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2507">資財EMBA桃園</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272850
-<td><A href="Curr.jsp?format=-2&code=C285020">體適能管理</A>
-<td align=CENTER>1
-<td align=CENTER>0.0
-<td align=CENTER>2
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2507">資財EMBA桃園</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>272851
-<td><A href="Curr.jsp?format=-2&code=C285026">專案管理與領導統御</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2507">資財EMBA桃園</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>是</TD>
 <td align=CENTER>　</TD>
 </TR>
 <TR>
@@ -1582,6 +530,289 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2507">資財EMBA桃園</A><BR>
 
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11985">吳牧恩</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11403">林淑玲</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10632">邱垂昱</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11982">劉亮志</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><A href="ShowSyllabus.jsp?snum=272852&code=11403">查詢</A><BR><BR><BR>
+  <TD>北科附工304室</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274146
+<td><A href="Curr.jsp?format=-2&code=C245033">大數據分析與實務</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2503">泰國EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11573">范書愷</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11440">翁頌舜</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11396">陳育威</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274146&code=11573">查詢</A><BR><A href="ShowSyllabus.jsp?snum=274146&code=11440">查詢</A><BR><A href="ShowSyllabus.jsp?snum=274146&code=11396">查詢</A><BR>
+  <TD>碩二107級 陳2/8~2/9 翁5/9~5/10 范6/4~6/5(返台)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274147
+<td><A href="Curr.jsp?format=-2&code=C235016">人工智慧應用</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2502">資財EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11505">王貞淑</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10662">吳建文</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11440">翁頌舜</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274148
+<td><A href="Curr.jsp?format=-2&code=C215023">營運模式與供應鏈管理</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2500">工管EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12101">朴維鎮</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10504">林益辰</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=21963">楊明峰</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11435">蔡佩芳</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR><BR><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274149
+<td><A href="Curr.jsp?format=-2&code=C215024">智慧機器人與AR/VR 應用專題</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2500">工管EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11051">田方治</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11832">黃瀅瑛</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><A href="ShowSyllabus.jsp?snum=274149&code=11832">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274150
+<td><A href="Curr.jsp?format=-2&code=C235017">資金與風險管理理論與實務</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2502">資財EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11985">吳牧恩</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11982">劉亮志</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274151
+<td><A href="Curr.jsp?format=-2&code=C255048">顧客關係管理</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2504">華南EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10632">邱垂昱</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>碩一108級選修(109/2/15-2/16)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274152
+<td><A href="Curr.jsp?format=-2&code=C215025">智慧生活與使用者經驗</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2500">工管EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11088">梁曉帆</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11552">陳協慶</A><BR>
+
+  <TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274153
+<td><A href="Curr.jsp?format=-2&code=C215002">決策分析與研討</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2500">工管EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11088">梁曉帆</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=12096">許嘉裕</A><BR>
+
+  <TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274154
+<td><A href="Curr.jsp?format=-2&code=C205012">EMBA管理講座</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2500">工管EMBA</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2501">經管EMBA</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2502">資財EMBA</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2507">資財EMBA桃園</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10584">吳忠敏</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10632">邱垂昱</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11573">范書愷</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11396">陳育威</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10988">陳凱瀛</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR><A href="ShowSyllabus.jsp?snum=274154&code=11573">查詢</A><BR><A href="ShowSyllabus.jsp?snum=274154&code=11396">查詢</A><BR><A href="ShowSyllabus.jsp?snum=274154&code=10988">查詢</A><BR>
+  <TD>碩二107級必修</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274155
+<td><A href="Curr.jsp?format=-2&code=C205001">EMBA論文</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2501">經管EMBA</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>碩二</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274160
+<td><A href="Curr.jsp?format=-2&code=C205001">EMBA論文</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2500">工管EMBA</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>碩二107級必修</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274161
+<td><A href="Curr.jsp?format=-2&code=C205001">EMBA論文</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2502">資財EMBA</A><BR>
+
 <td>　
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
@@ -1591,7 +822,547 @@
 <td align=CENTER>　
 <td align=center>　
   <TD>　</TD>
-<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274163
+<td><A href="Curr.jsp?format=-2&code=C235006">投資決策與資訊應用</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2502">資財EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11403">林淑玲</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11729">陳煒朋</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><A href="ShowSyllabus.jsp?snum=274163&code=11729">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274164
+<td><A href="Curr.jsp?format=-2&code=C205001">EMBA論文</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2507">資財EMBA桃園</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>碩二107級必修</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274170
+<td><A href="Curr.jsp?format=-2&code=C285012">行銷管理</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2507">資財EMBA桃園</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10938">耿慶瑞</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10412">廖森貴</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR>
+  <TD>北科附工304室</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274171
+<td><A href="Curr.jsp?format=-2&code=C285013">大數據分析與實務</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2507">資財EMBA桃園</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11505">王貞淑</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11573">范書愷</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11440">翁頌舜</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><A href="ShowSyllabus.jsp?snum=274171&code=11573">查詢</A><BR><A href="ShowSyllabus.jsp?snum=274171&code=11440">查詢</A><BR>
+  <TD>北科附工304室</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274172
+<td><A href="Curr.jsp?format=-2&code=C245003">資訊科技與競爭優勢</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2503">泰國EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10584">吳忠敏</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10938">耿慶瑞</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11073">趙莊敏</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR><BR>
+  <TD>碩一108級 耿2/8-2/9 吳3/14-3/15 趙4/11-4/12</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274173
+<td><A href="Curr.jsp?format=-2&code=C245020">領導與組織管理</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2503">泰國EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11224">陳建丞</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>碩二107級 3/14~3/15</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274174
+<td><A href="Curr.jsp?format=-2&code=C245005">公司理財與投資</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2503">泰國EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10584">吳忠敏</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11429">吳斯偉</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR>
+  <TD>碩一108級 吳斯偉 5/9~5/10,6/13~6/14           吳忠</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274175
+<td><A href="Curr.jsp?format=-2&code=C205001">EMBA論文</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2503">泰國EMBA</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>碩二107級必修</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274176
+<td><A href="Curr.jsp?format=-2&code=C205001">EMBA論文</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2504">華南EMBA</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>碩二107級必修</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274177
+<td><A href="Curr.jsp?format=-2&code=C255049">資訊與財金管理專題</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2504">華南EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11985">吳牧恩</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11982">劉亮志</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR>
+  <TD>碩二107級選修(吳109/4/18-4/19)(劉109/5/16-5/17)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274179
+<td><A href="Curr.jsp?format=-2&code=C255042">管理議題與研究方法</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2504">華南EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11225">車振華</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11537">劉建浩</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR>
+  <TD>碩一108級選修(劉109/4/11-4/12)(車109/5/9-5/10)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274184
+<td><A href="Curr.jsp?format=-2&code=C255039">網路行銷</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2504">華南EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10418">張文華</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>碩二107級選修(109/3/21-3/22)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274185
+<td><A href="Curr.jsp?format=-2&code=C255035">精實與先進生產技術</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2504">華南EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12096">許嘉裕</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11764">鄭辰仰</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR>
+  <TD>碩一108級選修(許109/6/13-6/14)(鄭109/7/11-7/12)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274186
+<td><A href="Curr.jsp?format=-2&code=C255028">經營管理專題</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2504">華南EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10584">吳忠敏</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10361">陳銘崑</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR>
+  <TD>碩二107級選修(陳109/6/4-6/5)(吳109/7/18-7/19)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274187
+<td><A href="Curr.jsp?format=-2&code=C205001">EMBA論文</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2505">上海EMBA</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>碩二107級必修</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274194
+<td><A href="Curr.jsp?format=-2&code=C265012">企業創新管理</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2505">上海EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11505">王貞淑</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10504">林益辰</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR>
+  <TD>碩二107級選修(王109/02/8-9，林109/3/7-8)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274195
+<td><A href="Curr.jsp?format=-2&code=C265029">網路行銷</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2505">上海EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10418">張文華</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>碩二107級選修(張109/07/4-5)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274196
+<td><A href="Curr.jsp?format=-2&code=C265034">投資理財與資訊應用</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2505">上海EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11710">丁秀儀</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11403">林淑玲</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR>
+  <TD>碩二107級選修(林109/05/9-10，丁109/6/4-5)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274197
+<td><A href="Curr.jsp?format=-2&code=C265032">行為經濟專題</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2505">上海EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11429">吳斯偉</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>碩二107級選修(吳109/04/11-12)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274198
+<td><A href="Curr.jsp?format=-2&code=C265010">大數據分析與實務</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2505">上海EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11573">范書愷</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11440">翁頌舜</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274198&code=11573">查詢</A><BR><A href="ShowSyllabus.jsp?snum=274198&code=11440">查詢</A><BR>
+  <TD>碩一108級選修(翁109/02/8-9，范109/3/7-8)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274199
+<td><A href="Curr.jsp?format=-2&code=C265020">顧客關係管理</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2505">上海EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10632">邱垂昱</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11435">蔡佩芳</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR>
+  <TD>碩一108級選修(邱109/04/11-12，蔡109/5/9-10)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274200
+<td><A href="Curr.jsp?format=-2&code=C265022">金融科技專題</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2505">上海EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10662">吳建文</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11729">陳煒朋</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><A href="ShowSyllabus.jsp?snum=274200&code=11729">查詢</A><BR>
+  <TD>碩一108級選修(陳109/06/6-7，吳109/7/4-5)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274224
+<td><A href="Curr.jsp?format=-2&code=C255050">王者之道</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2504">華南EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11764">鄭辰仰</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>碩二107級選修(109/2/15-2/16)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274225
+<td><A href="Curr.jsp?format=-2&code=C255050">王者之道</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2504">華南EMBA</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11764">鄭辰仰</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>碩一108級選修(109/3/8-3/9)</TD>
+<td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
 
