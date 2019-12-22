@@ -1,0 +1,1346 @@
+
+
+
+
+
+
+<HTML>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<TITLE>108學年度 第 2 學期 開課資料查詢結果</TITLE>
+<Script src="https://font.ntut.edu.tw/wfs/js/lib/wfs.js" type="text/javascript" ></script>
+</head>
+
+<body  bgcolor=#ffffdf background="../image/grey918y.gif" text=#003398>
+<H3>108 學年度 第 2 學期 開課資料查詢結果</H3>
+<TABLE border=1>
+  <TR>
+      <TH align=Center>課號</TH>
+      <TH align=Center>課程名稱</TH>
+      <TH align=Center>階段</TH>
+      <TH align=Center>學分</TH>
+      <TH align=Center>時數</TH>
+      <TH align=Center>修</TH>
+      <TH align=Center>班級</TH>
+      <TH align=Center>教師</TH>
+      <TH align=Center>日</TH>
+      <TH align=Center>一</TH>
+      <TH align=Center>二</TH>
+      <TH align=Center>三</TH>
+      <TH align=Center>四</TH>
+      <TH align=Center>五</TH>
+      <TH align=Center>六</TH>
+      <TH align=Center>教室</TH>
+      <TH align=Center>人</TH>
+      <TH align=Center>撤</TH>
+      <TH align=Center>教學<BR>助理</TH>
+      <TH align=Center>授課<BR>語言</TH>
+      <TH align=Center>教學大綱<BR>與進度表</TH>
+      <TH align=Center>備註</TH>
+      <TH align=Center>隨班<BR>附讀</TH>
+      <TH align=Center>實驗<BR>實習</TH>
+  </TR>
+<TR>
+<td>268245
+<td><A href="Curr.jsp?format=-2&code=1004002">體育</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2069">建築四</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268246
+<td><A href="Curr.jsp?format=-2&code=3904012">建築專題設計</A>
+<td align=CENTER>2
+<td align=CENTER>5.0
+<td align=CENTER>10
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2069">建築四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24086">何黛雯</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=24084">周書賢</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=21936">林欣蘋</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11016">林裕昌</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10450">林靜娟</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=22949">侯王怡文</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=24083">張容豪</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11014">張崑振</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23985">彭文苑</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23960">鄭采和</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=24087">羅明軒</A><BR>
+
+  <TD>　<TD>5 6 7 8 9 <TD>　<TD>　<TD>　<TD>5 6 7 8 9 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR><BR><A href="ShowSyllabus.jsp?snum=268246&code=11016">查詢</A><BR><BR><BR><BR><BR><BR><BR><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268247
+<td><A href="Curr.jsp?format=-2&code=3904005">都市計畫法</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2069">建築四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22816">蘇明俊</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268248
+<td><A href="Curr.jsp?format=-2&code=3904407">建築管理行政</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2069">建築四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22982">余德銓</A><BR>
+
+  <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268251
+<td><A href="Curr.jsp?format=-2&code=3904447">都市設計專題</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2069">建築四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22931">劉美秀</A><BR>
+
+  <TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>建築四與職二建五合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268252
+<td><A href="Curr.jsp?format=-2&code=3904449">高層基礎施工</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2069">建築四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24207">簡慶文</A><BR>
+
+  <TD>　<TD>　<TD>C D <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>建築四與職二建五合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268253
+<td><A href="Curr.jsp?format=-2&code=3904459">社區計劃</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2069">建築四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=21674">許戎聰</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>A B <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>建築四與職二建五合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268893
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>6
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2190">建築三</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268894
+<td><A href="Curr.jsp?format=-2&code=1419995">博雅選修課程</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2190">建築三</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268895
+<td><A href="Curr.jsp?format=-2&code=3900005">建築設計</A>
+<td align=CENTER>6
+<td align=CENTER>5.0
+<td align=CENTER>10
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2190">建築三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24205">巫基福</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=24204">林哲仲</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=22712">胡世昭</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=12078">黃少妤</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=21672">黃世銘</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=24203">黃鈺珊</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23105">戴福君</A><BR>
+
+  <TD>　<TD>5 6 7 8 9 <TD>　<TD>　<TD>5 6 7 8 9 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR><BR><BR><BR><BR><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268896
+<td><A href="Curr.jsp?format=-2&code=3902016">建築環境控制系統(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2190">建築三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10467">邵文政</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268897
+<td><A href="Curr.jsp?format=-2&code=3904014">實務專題（一）</A>
+<td align=CENTER>1
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2190">建築三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10660">宋立垚</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11685">李美慧</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11085">周鼎金</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11016">林裕昌</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10450">林靜娟</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10467">邵文政</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11014">張崑振</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=12078">黃少妤</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=12144">黃光廷</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11123">黃志弘</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11080">蔡淑瑩</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10546">蘇瑛敏</A><BR>
+
+  <TD>　<TD>1 2 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR><A href="ShowSyllabus.jsp?snum=268897&code=11085">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268897&code=11016">查詢</A><BR><BR><BR><BR><BR><BR><BR><A href="ShowSyllabus.jsp?snum=268897&code=11080">查詢</A><BR><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268898
+<td><A href="Curr.jsp?format=-2&code=3902020">細部設計</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2190">建築三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=21945">劉義慰</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268900
+<td><A href="Curr.jsp?format=-2&code=3903456">建築保存與再利用</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2190">建築三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11014">張崑振</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>2 3 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268902
+<td><A href="Curr.jsp?format=-2&code=3903475">數位構築</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2190">建築三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23291">吳細顏</A><BR>
+
+  <TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268903
+<td><A href="Curr.jsp?format=-2&code=3903485">環控實務</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2190">建築三</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>7 8 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>〔授課教師：劉沛杉〕</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268906
+<td><A href="Curr.jsp?format=-2&code=3908486">敷地計畫實務</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2190">建築三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10660">宋立垚</A><BR>
+
+  <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269409
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>4
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2309">建築二</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269410
+<td><A href="Curr.jsp?format=-2&code=1419991">博雅選修課程</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2309">建築二</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269411
+<td><A href="Curr.jsp?format=-2&code=1419992">博雅選修課程</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2309">建築二</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269412
+<td><A href="Curr.jsp?format=-2&code=14E0001">多元英文</A>
+<td align=CENTER>2
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2309">建築二</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>4 <TD>3 4 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=78">四教303</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：校院級課程/大二多元英文(五)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269413
+<td><A href="Curr.jsp?format=-2&code=3900005">建築設計</A>
+<td align=CENTER>4
+<td align=CENTER>5.0
+<td align=CENTER>10
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2309">建築二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24046">王吟方</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=22590">李約德</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=24202">胡睿軒</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=21522">胡琮淨</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=22912">許志維</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=12144">黃光廷</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23596">劉浩瑋</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=22913">蔡政鴦</A><BR>
+
+  <TD>　<TD>5 6 7 8 9 <TD>　<TD>　<TD>　<TD>5 6 7 8 9 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR><BR><BR><BR><A href="ShowSyllabus.jsp?snum=269413&code=12144">查詢</A><BR><BR><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269414
+<td><A href="Curr.jsp?format=-2&code=3902402">中國建築史</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2309">建築二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11014">張崑振</A><BR>
+
+  <TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=78">四教303</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269415
+<td><A href="Curr.jsp?format=-2&code=3903007">建築結構學</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2309">建築二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23912">陳拓男</A><BR>
+
+  <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=78">四教303</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269416
+<td><A href="Curr.jsp?format=-2&code=3902023">建築表現實務</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2309">建築二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23982">謝佳倩</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>2 3 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=78">四教303</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269418
+<td><A href="Curr.jsp?format=-2&code=3902419">建築物理(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2309">建築二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23767">郭為中</A><BR>
+
+  <TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=78">四教303</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269925
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2428">建築一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23279">林正仰</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269926
+<td><A href="Curr.jsp?format=-2&code=1101006">全民國防教育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2428">建築一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11688">賴淑秀</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>3 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=19">二教201</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269926&code=11688">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269927
+<td><A href="Curr.jsp?format=-2&code=1400027">英文閱讀與聽講練習</A>
+<td align=CENTER>2
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2428">建築一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12003">林煜善</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>7 8 <TD>5 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269927&code=12003">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269929
+<td><A href="Curr.jsp?format=-2&code=1400099">服務學習</A>
+<td align=CENTER>1
+<td align=CENTER>0.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2428">建築一</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>9 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269930
+<td><A href="Curr.jsp?format=-2&code=1404003">國文</A>
+<td align=CENTER>2
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2428">建築一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22461">黃青萍</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>7 8 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=74">四教203</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269931
+<td><A href="Curr.jsp?format=-2&code=1419984">博雅核心課程-法治</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2428">建築一</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：通識中心/博雅核心-法治(三)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269932
+<td><A href="Curr.jsp?format=-2&code=1419989">博雅核心課程-美學</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2428">建築一</A><BR>
+
+<td>　
+  <TD>　<TD>1 2 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：通識中心/博雅核心-美學(一)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269935
+<td><A href="Curr.jsp?format=-2&code=C300001">設計實作</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2428">建築一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11685">李美慧</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23031">洪士恭</A><BR>
+
+  <TD>　<TD>　<TD>1 2 <TD>　<TD>　<TD>　<TD>3 
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269937
+<td><A href="Curr.jsp?format=-2&code=3901421">電腦輔助繪圖</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2428">建築一</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2438">創意一</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>7 8 9 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>建築一與創意一合開（限主修建築系選課）教師：吳南葳</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269938
+<td><A href="Curr.jsp?format=-2&code=3902403">西洋建築史</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2428">建築一</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2438">創意一</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=74">四教203</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>建築一與創意一合開〔授課教師：吳南葳〕</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270103
+<td><A href="Curr.jsp?format=-2&code=3900005">建築設計</A>
+<td align=CENTER>2
+<td align=CENTER>5.0
+<td align=CENTER>10
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2428">建築一</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2438">創意一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23456">王曉玲</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11685">李美慧</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23810">周正峰</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23031">洪士恭</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23981">許旻書</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23958">楊宗維</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=22950">劉守書</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=24200">劉家豪</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=24201">歐陽君年</A><BR>
+
+  <TD>　<TD>5 6 7 8 9 <TD>　<TD>　<TD>6 7 8 9 A <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+  <TD>建築一與創意一合開（限主修建築系選課）</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270104
+<td><A href="Curr.jsp?format=-2&code=3902012">建築構造學（一）</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2428">建築一</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2438">創意一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11016">林裕昌</A><BR>
+
+  <TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=74">四教203</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=270104&code=11016">查詢</A><BR>
+  <TD>建築一與創意一合開（限主修建築系選課）</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270113
+<td><A href="Curr.jsp?format=-2&code=3902413">設計理論概論</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2428">建築一</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2438">創意一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11685">李美慧</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>建築一與創意一合開（限主修建築系選課）</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271875
+<td><A href="Curr.jsp?format=-2&code=3900007">建築設計</A>
+<td align=CENTER>6
+<td align=CENTER>4.0
+<td align=CENTER>8
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2169">職二建五</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=21946">吳金翰</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=21523">李天鐸</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=22393">李立夫</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=24090">林祺錦</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10546">蘇瑛敏</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>A B C D <TD>　<TD>　<TD>A B C D 
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR><BR><BR><BR>
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271880
+<td><A href="Curr.jsp?format=-2&code=3904447">都市設計專題</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2169">職二建五</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22931">劉美秀</A><BR>
+
+  <TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>建築四與職二建五合開</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271881
+<td><A href="Curr.jsp?format=-2&code=3904449">高層基礎施工</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2169">職二建五</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24207">簡慶文</A><BR>
+
+  <TD>　<TD>　<TD>C D <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>建築四與職二建五合開</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271882
+<td><A href="Curr.jsp?format=-2&code=3904459">社區計劃</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2169">職二建五</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=21674">許戎聰</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>A B <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>建築四與職二建五合開</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272033
+<td><A href="Curr.jsp?format=-2&code=3900007">建築設計</A>
+<td align=CENTER>4
+<td align=CENTER>3.0
+<td align=CENTER>6
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2288">職二建四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23457">林雅萍</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23240">梁晴芳</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23453">連宏基</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=22259">陳以凡</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=22717">陳浩怡</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=20165">黃翔龍</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>A B C D <TD>　<TD>　<TD>1 2 
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR><BR><BR><BR><BR>
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272034
+<td><A href="Curr.jsp?format=-2&code=3902016">建築環境控制系統(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2288">職二建四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24208">王婉芝</A><BR>
+
+  <TD>　<TD>　<TD>C D <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272035
+<td><A href="Curr.jsp?format=-2&code=3904003">建築法規</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2288">職二建四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23913">劉東文</A><BR>
+
+  <TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272036
+<td><A href="Curr.jsp?format=-2&code=3903450">電腦應用專題(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2288">職二建四</A><BR>
+
+<td>　
+  <TD>　<TD>B C <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>〔授課教師：廖文瑜〕</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272039
+<td><A href="Curr.jsp?format=-2&code=3903456">建築保存與再利用</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2288">職二建四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22983">楊甯堯</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>A B <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272043
+<td><A href="Curr.jsp?format=-2&code=3904473">高齡者建築概論</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2288">職二建四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23768">連俊傑</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>A B <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273860
+<td><A href="Curr.jsp?format=-2&code=3903423">建築節能設計</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2309">建築二</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>1 2 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=78">四教303</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>〔授課教師：張建鈞〕</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273864
+<td><A href="Curr.jsp?format=-2&code=3904507">當代城市中都市社會基礎設施再思</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2069">建築四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12078">黃少妤</A><BR>
+
+  <TD>　<TD>　<TD>7 8 9 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>建築四與建都所合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273865
+<td><A href="Curr.jsp?format=-2&code=3904406">工程管理</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2069">建築四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=21062">鄧文廣</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>7 8 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273866
+<td><A href="Curr.jsp?format=-2&code=3904407">建築管理行政</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2169">職二建五</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22200">梁又文</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>C D <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273878
+<td><A href="Curr.jsp?format=-2&code=1400029">校外實習</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>20
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2428">建築一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11685">李美慧</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>上課時間 (一)34</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273924
+<td><A href="Curr.jsp?format=-2&code=3904506">原民部落社會實踐</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2069">建築四</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2190">建築三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12144">黃光廷</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11123">黃志弘</A><BR>
+
+  <TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR>
+  <TD>建築三、四與職建都所合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273928
+<td><A href="Curr.jsp?format=-2&code=3903430">景觀建築專題</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2190">建築三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10450">林靜娟</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>4 N <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+
+</TABLE>
+<BR>
+<P><img src="../image/or_ball.gif"></img>各節次上課時間如下：
+<table border = 1>
+<tr align=center><td width="15%">1: 08:10 - 09:00<td width="15%">2: 09:10 - 10:00<td width="15%">3: 10:10 - 11:00<td width="15%">4: 11:10 - 12:00<td width="15%">N: 12:10 - 13:00
+<tr align=center><td>5: 13:10 - 14:00<td>6: 14:10 - 15:00<td>7: 15:10 - 16:00<td>8: 16:10 - 17:00<td>9: 17:10 - 18:00
+<tr align=center><td>A: 18:30 - 19:20<td>B: 19:20 - 20:10<td>C: 20:20 - 21:10<td>D: 21:10 - 22:00<td>　
+</table>
+
+<P>說明：</P>
+<OL>
+<LI>為避免欲查詢之資料量過大而影響速度，請適當地設定查詢條件。</LI>
+<LI>本資料係由本校各教學單位、教務處課務組、進修部教務組、進修學院教務組及計網中心所共同提供！</LI>
+<LI>本資料僅供參考，正式資料仍以教務處、進修部、進修學院所公佈之書面資料為準。</LI>
+</OL>
+</body>
+</HTML>

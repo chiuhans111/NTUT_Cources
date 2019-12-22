@@ -1,0 +1,2136 @@
+
+
+
+
+
+
+<HTML>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<TITLE>108學年度 第 2 學期 開課資料查詢結果</TITLE>
+<Script src="https://font.ntut.edu.tw/wfs/js/lib/wfs.js" type="text/javascript" ></script>
+</head>
+
+<body  bgcolor=#ffffdf background="../image/grey918y.gif" text=#003398>
+<H3>108 學年度 第 2 學期 開課資料查詢結果</H3>
+<TABLE border=1>
+  <TR>
+      <TH align=Center>課號</TH>
+      <TH align=Center>課程名稱</TH>
+      <TH align=Center>階段</TH>
+      <TH align=Center>學分</TH>
+      <TH align=Center>時數</TH>
+      <TH align=Center>修</TH>
+      <TH align=Center>班級</TH>
+      <TH align=Center>教師</TH>
+      <TH align=Center>日</TH>
+      <TH align=Center>一</TH>
+      <TH align=Center>二</TH>
+      <TH align=Center>三</TH>
+      <TH align=Center>四</TH>
+      <TH align=Center>五</TH>
+      <TH align=Center>六</TH>
+      <TH align=Center>教室</TH>
+      <TH align=Center>人</TH>
+      <TH align=Center>撤</TH>
+      <TH align=Center>教學<BR>助理</TH>
+      <TH align=Center>授課<BR>語言</TH>
+      <TH align=Center>教學大綱<BR>與進度表</TH>
+      <TH align=Center>備註</TH>
+      <TH align=Center>隨班<BR>附讀</TH>
+      <TH align=Center>實驗<BR>實習</TH>
+  </TR>
+<TR>
+<td>268022
+<td><A href="Curr.jsp?format=-2&code=1004002">體育</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2061">土木四甲</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268023
+<td><A href="Curr.jsp?format=-2&code=3402036">契約與規範</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2061">土木四甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2062">土木四乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=21011">王友恭</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>土木四甲乙合開,上限40人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268024
+<td><A href="Curr.jsp?format=-2&code=3403037">環境影響評估</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2061">土木四甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2062">土木四乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23187">蘇俊賓</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>土木四甲乙合開,上限40人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268043
+<td><A href="Curr.jsp?format=-2&code=3404108">水土保持工程</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2061">土木四甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2062">土木四乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22274">黃源義</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>土木四甲乙合開,上限40人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268051
+<td><A href="Curr.jsp?format=-2&code=1004002">體育</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2062">土木四乙</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268689
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>6
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2182">土木三甲</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268691
+<td><A href="Curr.jsp?format=-2&code=1419994">博雅選修課程</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2182">土木三甲</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268692
+<td><A href="Curr.jsp?format=-2&code=3403010">環境工程</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2182">土木三甲</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12081">陳映竹</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>4 <TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=268692&code=12081">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268693
+<td><A href="Curr.jsp?format=-2&code=3404119">水資源工程與規劃</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2182">土木三甲</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11461">陳世楷</A><BR>
+
+  <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=268693&code=11461">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268694
+<td><A href="Curr.jsp?format=-2&code=3404122">土木工程統整設計實作</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2182">土木三甲</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268695
+<td><A href="Curr.jsp?format=-2&code=3405141">鋼結構設計</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2182">土木三甲</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11094">張順益</A><BR>
+
+  <TD>　<TD>6 <TD>　<TD>　<TD>2 3 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268696
+<td><A href="Curr.jsp?format=-2&code=3403002">鋼筋混凝土(二)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2182">土木三甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2183">土木三乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11320">廖文義</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>1 <TD>1 2 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=268696&code=11320">查詢</A><BR>
+  <TD>土木三甲乙合開,上限50人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268700
+<td><A href="Curr.jsp?format=-2&code=3403042">結構矩陣分析</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2061">土木四甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2062">土木四乙</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2182">土木三甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2183">土木三乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10790">李有豐</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>7 8 9 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=257">土木1F_2</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>土木三四甲乙合開,上限40人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268705
+<td><A href="Curr.jsp?format=-2&code=3403096">無人機攝影測量概論與實作</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2182">土木三甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2183">土木三乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11322">張國楨</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=382">土木201</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>土木三甲乙及防災所合開,上限40人(大學25人)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268708
+<td><A href="Curr.jsp?format=-2&code=3404010">水利工程</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2182">土木三甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2183">土木三乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=21335">謝龍生</A><BR>
+
+  <TD>　<TD>7 8 9 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>土木三甲乙合開,上限40人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268710
+<td><A href="Curr.jsp?format=-2&code=3404036">水文分析</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2182">土木三甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2183">土木三乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11272">朱子偉</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>7 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=268710&code=11272">查詢</A><BR>
+  <TD>土木三甲乙合開,上限40人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268718
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>6
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2183">土木三乙</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268720
+<td><A href="Curr.jsp?format=-2&code=1419994">博雅選修課程</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2183">土木三乙</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268721
+<td><A href="Curr.jsp?format=-2&code=3403010">環境工程</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2183">土木三乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11272">朱子偉</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>4 <TD>8 9 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=268721&code=11272">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268722
+<td><A href="Curr.jsp?format=-2&code=3404119">水資源工程與規劃</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2183">土木三乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11461">陳世楷</A><BR>
+
+  <TD>　<TD>5 6 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=268722&code=11461">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268723
+<td><A href="Curr.jsp?format=-2&code=3404122">土木工程統整設計實作</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2183">土木三乙</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268724
+<td><A href="Curr.jsp?format=-2&code=3405141">鋼結構設計</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2183">土木三乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11309">尹世洵</A><BR>
+
+  <TD>　<TD>4 <TD>　<TD>5 6 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=268724&code=11309">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269273
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>4
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2301">土木二甲</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269274
+<td><A href="Curr.jsp?format=-2&code=1419987">博雅核心課程-社哲</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2301">土木二甲</A><BR>
+
+<td>　
+  <TD>　<TD>1 2 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：通識中心/博雅核心-社哲(一)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269275
+<td><A href="Curr.jsp?format=-2&code=1419988">博雅核心課程-創創</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2301">土木二甲</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：通識中心/博雅核心-創創(二)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269276
+<td><A href="Curr.jsp?format=-2&code=14E0001">多元英文</A>
+<td align=CENTER>2
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2301">土木二甲</A><BR>
+
+<td>　
+  <TD>　<TD>7 8 <TD>6 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：校院級課程/大二多元英文(三)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269277
+<td><A href="Curr.jsp?format=-2&code=3402006">結構學(一)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2301">土木二甲</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11397">楊元森</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>2 <TD>　<TD>6 7 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269277&code=11397">查詢</A><BR>
+  <TD>70人教室</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269278
+<td><A href="Curr.jsp?format=-2&code=3402007">土壤力學</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2301">土木二甲</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10391">陳水龍</A><BR>
+
+  <TD>　<TD>　<TD>2 <TD>8 9 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269279
+<td><A href="Curr.jsp?format=-2&code=3402008">土力實驗</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2301">土木二甲</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10986">魏敏樺</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=260">土木2F</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269279&code=10986">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>是</TD>
+</TR>
+<TR>
+<td>269280
+<td><A href="Curr.jsp?format=-2&code=3402009">流體力學</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2301">土木二甲</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11122">陳彥璋</A><BR>
+
+  <TD>　<TD>3 4 <TD>7 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>70人教室</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269282
+<td><A href="Curr.jsp?format=-2&code=3402038">工程統計學</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2301">土木二甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2302">土木二乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11024">林正平</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>8 <TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269282&code=11024">查詢</A><BR>
+  <TD>土木二甲乙合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269285
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>4
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2302">土木二乙</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269286
+<td><A href="Curr.jsp?format=-2&code=1419987">博雅核心課程-社哲</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2302">土木二乙</A><BR>
+
+<td>　
+  <TD>　<TD>1 2 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：通識中心/博雅核心-社哲(一)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269287
+<td><A href="Curr.jsp?format=-2&code=1419988">博雅核心課程-創創</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2302">土木二乙</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：通識中心/博雅核心-創創(二)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269288
+<td><A href="Curr.jsp?format=-2&code=14E0001">多元英文</A>
+<td align=CENTER>2
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2302">土木二乙</A><BR>
+
+<td>　
+  <TD>　<TD>7 8 <TD>6 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：校院級課程/大二多元英文(三)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269289
+<td><A href="Curr.jsp?format=-2&code=3402006">結構學(一)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2302">土木二乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11125">宋裕祺</A><BR>
+
+  <TD>　<TD>3 4 <TD>2 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>60人教室</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269290
+<td><A href="Curr.jsp?format=-2&code=3402007">土壤力學</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2302">土木二乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11097">陳立憲</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 <TD>6 7 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269291
+<td><A href="Curr.jsp?format=-2&code=3402008">土力實驗</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2302">土木二乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10391">陳水龍</A><BR>
+
+  <TD>　<TD>　<TD>7 8 9 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=260">土木2F</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>是</TD>
+</TR>
+<TR>
+<td>269292
+<td><A href="Curr.jsp?format=-2&code=3402009">流體力學</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2302">土木二乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11122">陳彥璋</A><BR>
+
+  <TD>　<TD>9 A <TD>1 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>70人教室</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269295
+<td><A href="Curr.jsp?format=-2&code=3403053">工程數學(二)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2301">土木二甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2302">土木二乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10986">魏敏樺</A><BR>
+
+  <TD>　<TD>5 6 <TD>5 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269295&code=10986">查詢</A><BR>
+  <TD>土木二甲乙合開,上限40人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269795
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2420">土木一甲</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23277">王永順</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269796
+<td><A href="Curr.jsp?format=-2&code=1101006">全民國防教育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2420">土木一甲</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11545">徐舜斌</A><BR>
+
+  <TD>　<TD>　<TD>6 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=334">三教301</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269797
+<td><A href="Curr.jsp?format=-2&code=1400027">英文閱讀與聽講練習</A>
+<td align=CENTER>2
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2420">土木一甲</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11912">陳玟心</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>8 <TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269797&code=11912">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269798
+<td><A href="Curr.jsp?format=-2&code=1400100">勞作教育</A>
+<td align=CENTER>1
+<td align=CENTER>0.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2420">土木一甲</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11545">徐舜斌</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>9 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269799
+<td><A href="Curr.jsp?format=-2&code=1404003">國文</A>
+<td align=CENTER>2
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2420">土木一甲</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23484">王慧燕</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=32">二教307</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269800
+<td><A href="Curr.jsp?format=-2&code=1419984">博雅核心課程-法治</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2420">土木一甲</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：通識中心/博雅核心-法治(四)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269801
+<td><A href="Curr.jsp?format=-2&code=1419990">博雅核心課程-文史</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2420">土木一甲</A><BR>
+
+<td>　
+  <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：通識中心/博雅核心-文史(二)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269802
+<td><A href="Curr.jsp?format=-2&code=1401036">微積分及演習</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2420">土木一甲</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23598">林尚文</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>7 8 <TD>5 6 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=32">二教307</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269803
+<td><A href="Curr.jsp?format=-2&code=1401041">物理</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2420">土木一甲</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11122">陳彥璋</A><BR>
+
+  <TD>　<TD>1 2 <TD>2 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269804
+<td><A href="Curr.jsp?format=-2&code=3401004">工程靜力學</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2420">土木一甲</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10790">李有豐</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>4 <TD>5 6 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>70人以上教室</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269805
+<td><A href="Curr.jsp?format=-2&code=3401110">程式設計</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2420">土木一甲</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11397">楊元森</A><BR>
+
+  <TD>　<TD>　<TD>7 8 9 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269805&code=11397">查詢</A><BR>
+  <TD>限60人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269807
+<td><A href="Curr.jsp?format=-2&code=3401009">測量學(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2420">土木一甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2421">土木一乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10843">張哲豪</A><BR>
+
+  <TD>　<TD>5 6 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>土木一甲乙合開,上限50人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269809
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2421">土木一乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23943">張曉亭</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269810
+<td><A href="Curr.jsp?format=-2&code=1101006">全民國防教育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2421">土木一乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11545">徐舜斌</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>7 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=333">三教201</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269811
+<td><A href="Curr.jsp?format=-2&code=1400027">英文閱讀與聽講練習</A>
+<td align=CENTER>2
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2421">土木一乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11809">廖華彥</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 <TD>6 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=31">二教306</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269811&code=11809">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269812
+<td><A href="Curr.jsp?format=-2&code=1400100">勞作教育</A>
+<td align=CENTER>1
+<td align=CENTER>0.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2421">土木一乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11545">徐舜斌</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>9 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269813
+<td><A href="Curr.jsp?format=-2&code=1404003">國文</A>
+<td align=CENTER>2
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2421">土木一乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23812">陳美妃</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>7 8 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=31">二教306</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269814
+<td><A href="Curr.jsp?format=-2&code=1419984">博雅核心課程-法治</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2421">土木一乙</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：通識中心/博雅核心-法治(四)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269815
+<td><A href="Curr.jsp?format=-2&code=1419990">博雅核心課程-文史</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2421">土木一乙</A><BR>
+
+<td>　
+  <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：通識中心/博雅核心-文史(二)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269816
+<td><A href="Curr.jsp?format=-2&code=1401036">微積分及演習</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2421">土木一乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11892">蔡明誠</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>7 8 <TD>3 4 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=31">二教306</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269816&code=11892">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269817
+<td><A href="Curr.jsp?format=-2&code=1401041">物理</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2421">土木一乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10986">魏敏樺</A><BR>
+
+  <TD>　<TD>　<TD>1 2 <TD>　<TD>5 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=31">二教306</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269817&code=10986">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269818
+<td><A href="Curr.jsp?format=-2&code=3401004">工程靜力學</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2421">土木一乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10968">黃昭勳</A><BR>
+
+  <TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>6 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269818&code=10968">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269819
+<td><A href="Curr.jsp?format=-2&code=3401110">程式設計</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2421">土木一乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10918">陳偉堯</A><BR>
+
+  <TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269819&code=10918">查詢</A><BR>
+  <TD>限57人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269822
+<td><A href="Curr.jsp?format=-2&code=3401010">測量實習(二)</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2420">土木一甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2421">土木一乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10843">張哲豪</A><BR>
+
+  <TD>　<TD>7 8 9 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>土木一甲乙合開,上限50人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>是</TD>
+</TR>
+<TR>
+<td>272025
+<td><A href="Curr.jsp?format=-2&code=3403033">預力混凝土</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2287">職二土四</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272026
+<td><A href="Curr.jsp?format=-2&code=3404008">水資源工程</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2287">職二土四</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272027
+<td><A href="Curr.jsp?format=-2&code=3404061">結構物檢測與補強</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2287">職二土四</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272028
+<td><A href="Curr.jsp?format=-2&code=3404089">水資源工程</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2287">職二土四</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272029
+<td><A href="Curr.jsp?format=-2&code=3404091">土木施工法</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2287">職二土四</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272030
+<td><A href="Curr.jsp?format=-2&code=3404105">生態工法概論</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2287">職二土四</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272031
+<td><A href="Curr.jsp?format=-2&code=3404114">工程地質</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2287">職二土四</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272032
+<td><A href="Curr.jsp?format=-2&code=3405146">地盤改良</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2287">職二土四</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272885
+<td><A href="Curr.jsp?format=-2&code=1003002">體育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2511">土木一丙</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272886
+<td><A href="Curr.jsp?format=-2&code=1400027">英文閱讀與聽講練習</A>
+<td align=CENTER>2
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2511">土木一丙</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272887
+<td><A href="Curr.jsp?format=-2&code=1404003">國文</A>
+<td align=CENTER>2
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2511">土木一丙</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272888
+<td><A href="Curr.jsp?format=-2&code=1419981">博雅核心課程-文化</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2511">土木一丙</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272889
+<td><A href="Curr.jsp?format=-2&code=1419982">博雅核心課程-歷史</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2511">土木一丙</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272890
+<td><A href="Curr.jsp?format=-2&code=1401036">微積分及演習</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2511">土木一丙</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272891
+<td><A href="Curr.jsp?format=-2&code=1401041">物理</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2511">土木一丙</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272892
+<td><A href="Curr.jsp?format=-2&code=3401004">工程靜力學</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2511">土木一丙</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272893
+<td><A href="Curr.jsp?format=-2&code=3401110">程式設計</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2511">土木一丙</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272894
+<td><A href="Curr.jsp?format=-2&code=3401009">測量學(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2511">土木一丙</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272895
+<td><A href="Curr.jsp?format=-2&code=3401010">測量實習(二)</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2511">土木一丙</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273054
+<td><A href="Curr.jsp?format=-2&code=3404130">數據科學概論</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2061">土木四甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2062">土木四乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10918">陳偉堯</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273054&code=10918">查詢</A><BR>
+  <TD>土木四和防災所合開,上限40人(大學20人)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273088
+<td><A href="Curr.jsp?format=-2&code=C103001">人工智慧與工程應用</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2177">化工三甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2178">化工三乙</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2179">化工三丙</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2181">材資三乙</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2182">土木三甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2183">土木三乙</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2184">分子三</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>工程學院級專業選修,限40人,新聘</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273159
+<td><A href="Curr.jsp?format=-2&code=3403074">環境科學概論</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2301">土木二甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2302">土木二乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12081">陳映竹</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>6 7 <TD>5 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273159&code=12081">查詢</A><BR>
+  <TD>土木二甲乙合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273165
+<td><A href="Curr.jsp?format=-2&code=3404051">地震工程概論</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2061">土木四甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2062">土木四乙</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2182">土木三甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2183">土木三乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24037">楊耀昇</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>土木三四甲乙合開,上限40人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273168
+<td><A href="Curr.jsp?format=-2&code=3404025">施工安全與災害</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2061">土木四甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2062">土木四乙</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2182">土木三甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2183">土木三乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11734">黃中和</A><BR>
+
+  <TD>　<TD>7 8 <TD>5 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>土木三四甲乙合開,上限20人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273169
+<td><A href="Curr.jsp?format=-2&code=3404114">工程地質</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2182">土木三甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2183">土木三乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11322">張國楨</A><BR>
+
+  <TD>　<TD>　<TD>5 6 <TD>　<TD>7 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>土木三甲乙合開,上限40人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273171
+<td><A href="Curr.jsp?format=-2&code=3404106">土木與防災工程導論</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2182">土木三甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2183">土木三乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10305">施邦築</A><BR>
+
+  <TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>土木三甲乙合開,上限40人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273234
+<td><A href="Curr.jsp?format=-2&code=3403033">預力混凝土</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2061">土木四甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2062">土木四乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24163">吳傳威</A><BR>
+
+  <TD>　<TD>　<TD>6 7 8 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273234&code=24163">查詢</A><BR>
+  <TD>土木四甲乙合開,上限40人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273235
+<td><A href="Curr.jsp?format=-2&code=3404125">水情預警系統</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2061">土木四甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2062">土木四乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10843">張哲豪</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=257">土木1F_2</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>土木四及防災所合開,上限30人(大學10人)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273238
+<td><A href="Curr.jsp?format=-2&code=3404072">河川污染控制</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2061">土木四甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2062">土木四乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10749">林鎮洋</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>土木四甲乙合開,上限40人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273900
+<td><A href="Curr.jsp?format=-2&code=C104005">風工程理論與應用</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2061">土木四甲</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2062">土木四乙</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24189">羅元隆</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=261">土木3F</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273900&code=24189">查詢</A><BR>
+  <TD>土木大四與防災所合開/上限24人(大學13人)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+
+</TABLE>
+<BR>
+<P><img src="../image/or_ball.gif"></img>各節次上課時間如下：
+<table border = 1>
+<tr align=center><td width="15%">1: 08:10 - 09:00<td width="15%">2: 09:10 - 10:00<td width="15%">3: 10:10 - 11:00<td width="15%">4: 11:10 - 12:00<td width="15%">N: 12:10 - 13:00
+<tr align=center><td>5: 13:10 - 14:00<td>6: 14:10 - 15:00<td>7: 15:10 - 16:00<td>8: 16:10 - 17:00<td>9: 17:10 - 18:00
+<tr align=center><td>A: 18:30 - 19:20<td>B: 19:20 - 20:10<td>C: 20:20 - 21:10<td>D: 21:10 - 22:00<td>　
+</table>
+
+<P>說明：</P>
+<OL>
+<LI>為避免欲查詢之資料量過大而影響速度，請適當地設定查詢條件。</LI>
+<LI>本資料係由本校各教學單位、教務處課務組、進修部教務組、進修學院教務組及計網中心所共同提供！</LI>
+<LI>本資料僅供參考，正式資料仍以教務處、進修部、進修學院所公佈之書面資料為準。</LI>
+</OL>
+</body>
+</HTML>

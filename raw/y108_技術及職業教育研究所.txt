@@ -1,0 +1,911 @@
+
+
+
+
+
+
+<HTML>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<TITLE>108學年度 第 2 學期 開課資料查詢結果</TITLE>
+<Script src="https://font.ntut.edu.tw/wfs/js/lib/wfs.js" type="text/javascript" ></script>
+</head>
+
+<body  bgcolor=#ffffdf background="../image/grey918y.gif" text=#003398>
+<H3>108 學年度 第 2 學期 開課資料查詢結果</H3>
+<TABLE border=1>
+  <TR>
+      <TH align=Center>課號</TH>
+      <TH align=Center>課程名稱</TH>
+      <TH align=Center>階段</TH>
+      <TH align=Center>學分</TH>
+      <TH align=Center>時數</TH>
+      <TH align=Center>修</TH>
+      <TH align=Center>班級</TH>
+      <TH align=Center>教師</TH>
+      <TH align=Center>日</TH>
+      <TH align=Center>一</TH>
+      <TH align=Center>二</TH>
+      <TH align=Center>三</TH>
+      <TH align=Center>四</TH>
+      <TH align=Center>五</TH>
+      <TH align=Center>六</TH>
+      <TH align=Center>教室</TH>
+      <TH align=Center>人</TH>
+      <TH align=Center>撤</TH>
+      <TH align=Center>教學<BR>助理</TH>
+      <TH align=Center>授課<BR>語言</TH>
+      <TH align=Center>教學大綱<BR>與進度表</TH>
+      <TH align=Center>備註</TH>
+      <TH align=Center>隨班<BR>附讀</TH>
+      <TH align=Center>實驗<BR>實習</TH>
+  </TR>
+<TR>
+<td>270567
+<td><A href="Curr.jsp?format=-2&code=4906001">論文</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270568
+<td><A href="Curr.jsp?format=-2&code=4906003">專題討論</A>
+<td align=CENTER>2
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11040">劉曉芬</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=98">共同606</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>碩二 共同606</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270569
+<td><A href="Curr.jsp?format=-2&code=4905019">電腦在教育研究的應用</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10921">曾淑惠</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=383">共同411</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>碩班課程, 共同411</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270570
+<td><A href="Curr.jsp?format=-2&code=4905228">技職學校評鑑</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10921">曾淑惠</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=119">共同303A</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>碩博課程, 日夜合開, 共同303A</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270571
+<td><A href="Curr.jsp?format=-2&code=4905260">學校公共關係</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=20912">孟繼洛</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>7 8 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=118">共同302</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=270571&code=20912">查詢</A><BR>
+  <TD>碩博課程, 共同302</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270572
+<td><A href="Curr.jsp?format=-2&code=4905271">教師專業發展</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11040">劉曉芬</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>7 8 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>碩博課程, 共同606</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270575
+<td><A href="Curr.jsp?format=-2&code=4906023">學術論文簡報</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12142">傅遠智</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>7 8 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=383">共同411</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>博碩課程, 全英文授課</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270581
+<td><A href="Curr.jsp?format=-2&code=4906403">技職教育史哲</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11040">劉曉芬</A><BR>
+
+  <TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=118">共同302</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>碩博課程, 日夜合開 共同302</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270582
+<td><A href="Curr.jsp?format=-2&code=4906409">學習心理學</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11212">蔡銘修</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>7 8 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=118">共同302</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>碩博課程, 共同103A</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270584
+<td><A href="Curr.jsp?format=-2&code=4906531">人力資源發展</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11048">林宜玄</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=118">共同302</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=270584&code=11048">查詢</A><BR>
+  <TD>碩博課程(核心課程),  共同302</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270586
+<td><A href="Curr.jsp?format=-2&code=4906555">教育訓練需求評估與規劃</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11049">張仁家</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>7 8 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=119">共同303A</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>碩博課程, 共同303A</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270593
+<td><A href="Curr.jsp?format=-2&code=4906703">科技在教室中的應用</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11212">蔡銘修</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=383">共同411</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>碩博課程</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270595
+<td><A href="Curr.jsp?format=-2&code=4906751">數位學習策略</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11430">楊心怡</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=383">共同411</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>碩博課程(核心課程)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270596
+<td><A href="Curr.jsp?format=-2&code=4906771">網路專題與問題導向學習</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11430">楊心怡</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=383">共同411</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>博碩課程, 全英文授課</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270599
+<td><A href="Curr.jsp?format=-2&code=4906787">數位學習論文評析</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11896">蔡佩珊</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>C D <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=383">共同411</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=270599&code=11896">查詢</A><BR>
+  <TD>碩博課程, 日夜合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270600
+<td><A href="Curr.jsp?format=-2&code=4906873">成人及技職推廣教育</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10485">林俊彥</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>C D <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=119">共同303A</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>碩博課程, 日夜合開 共同303A</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270601
+<td><A href="Curr.jsp?format=-2&code=4906901">台灣經濟變遷</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22020">吳惠林</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=119">共同303A</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>碩博課程, 日夜合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272371
+<td><A href="Curr.jsp?format=-2&code=4906001">論文</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2487">職技職所</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272372
+<td><A href="Curr.jsp?format=-2&code=4906003">專題討論</A>
+<td align=CENTER>2
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2487">職技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11048">林宜玄</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=272372&code=11048">查詢</A><BR>
+  <TD>碩一, 共同302</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272373
+<td><A href="Curr.jsp?format=-2&code=4916007">應用科技專案</A>
+<td align=CENTER>2
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2487">職技職所</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272374
+<td><A href="Curr.jsp?format=-2&code=4905228">技職學校評鑑</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2487">職技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10921">曾淑惠</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>日夜合開,共同303A</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272377
+<td><A href="Curr.jsp?format=-2&code=4905481">技職學校產學合作</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2487">職技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=20885">林騰蛟</A><BR>
+
+  <TD>　<TD>　<TD>C D <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>共同302</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272386
+<td><A href="Curr.jsp?format=-2&code=4906409">學習心理學</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2487">職技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11786">林志哲</A><BR>
+
+  <TD>　<TD>C D <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>共同302</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272390
+<td><A href="Curr.jsp?format=-2&code=4906425">測驗理論與編製</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2487">職技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11786">林志哲</A><BR>
+
+  <TD>　<TD>A B <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>電腦教室</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272392
+<td><A href="Curr.jsp?format=-2&code=4906555">教育訓練需求評估與規劃</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2487">職技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11049">張仁家</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>C D <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>共同302</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272397
+<td><A href="Curr.jsp?format=-2&code=4906703">科技在教室中的應用</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2487">職技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11212">蔡銘修</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>A B <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>電腦教室</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272400
+<td><A href="Curr.jsp?format=-2&code=4906751">數位學習策略</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2487">職技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11430">楊心怡</A><BR>
+
+  <TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>電腦教室</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272403
+<td><A href="Curr.jsp?format=-2&code=4906787">數位學習論文評析</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2487">職技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11896">蔡佩珊</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>C D <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=272403&code=11896">查詢</A><BR>
+  <TD>電腦教室</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272404
+<td><A href="Curr.jsp?format=-2&code=4906873">成人及技職推廣教育</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2487">職技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10485">林俊彥</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>C D <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>共同303A</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272410
+<td><A href="Curr.jsp?format=-2&code=4916671">獨立研究--班級經營</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2487">職技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=21718">林淑珍</A><BR>
+
+  <TD>　<TD>　<TD>C D <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>共同303A</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273278
+<td><A href="Curr.jsp?format=-2&code=4906003">專題討論</A>
+<td align=CENTER>2
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11430">楊心怡</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=118">共同302</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>碩一, 共同302</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273285
+<td><A href="Curr.jsp?format=-2&code=4906531">人力資源發展</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2487">職技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11048">林宜玄</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>C D <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273285&code=11048">查詢</A><BR>
+  <TD>共同302</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273286
+<td><A href="Curr.jsp?format=-2&code=4916015">書報討論</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2487">職技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12142">傅遠智</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>共同411</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273287
+<td><A href="Curr.jsp?format=-2&code=4906403">技職教育史哲</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2487">職技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11040">劉曉芬</A><BR>
+
+  <TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>共同302</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273875
+<td><A href="Curr.jsp?format=-2&code=4907001">博士論文</A>
+<td align=CENTER>4
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273876
+<td><A href="Curr.jsp?format=-2&code=4907003">專題研討</A>
+<td align=CENTER>4
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10921">曾淑惠</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=338">共同303C</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>博一</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273877
+<td><A href="Curr.jsp?format=-2&code=4907021">英文論文寫作</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11212">蔡銘修</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=118">共同302</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273960
+<td><A href="Curr.jsp?format=-2&code=4907003">專題研討</A>
+<td align=CENTER>4
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2450">技職所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11049">張仁家</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=119">共同303A</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>博二</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+
+</TABLE>
+<BR>
+<P><img src="../image/or_ball.gif"></img>各節次上課時間如下：
+<table border = 1>
+<tr align=center><td width="15%">1: 08:10 - 09:00<td width="15%">2: 09:10 - 10:00<td width="15%">3: 10:10 - 11:00<td width="15%">4: 11:10 - 12:00<td width="15%">N: 12:10 - 13:00
+<tr align=center><td>5: 13:10 - 14:00<td>6: 14:10 - 15:00<td>7: 15:10 - 16:00<td>8: 16:10 - 17:00<td>9: 17:10 - 18:00
+<tr align=center><td>A: 18:30 - 19:20<td>B: 19:20 - 20:10<td>C: 20:20 - 21:10<td>D: 21:10 - 22:00<td>　
+</table>
+
+<P>說明：</P>
+<OL>
+<LI>為避免欲查詢之資料量過大而影響速度，請適當地設定查詢條件。</LI>
+<LI>本資料係由本校各教學單位、教務處課務組、進修部教務組、進修學院教務組及計網中心所共同提供！</LI>
+<LI>本資料僅供參考，正式資料仍以教務處、進修部、進修學院所公佈之書面資料為準。</LI>
+</OL>
+</body>
+</HTML>

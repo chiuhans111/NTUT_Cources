@@ -1,0 +1,436 @@
+
+
+
+
+
+
+<HTML>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<TITLE>108學年度 第 2 學期 開課資料查詢結果</TITLE>
+<Script src="https://font.ntut.edu.tw/wfs/js/lib/wfs.js" type="text/javascript" ></script>
+</head>
+
+<body  bgcolor=#ffffdf background="../image/grey918y.gif" text=#003398>
+<H3>108 學年度 第 2 學期 開課資料查詢結果</H3>
+<TABLE border=1>
+  <TR>
+      <TH align=Center>課號</TH>
+      <TH align=Center>課程名稱</TH>
+      <TH align=Center>階段</TH>
+      <TH align=Center>學分</TH>
+      <TH align=Center>時數</TH>
+      <TH align=Center>修</TH>
+      <TH align=Center>班級</TH>
+      <TH align=Center>教師</TH>
+      <TH align=Center>日</TH>
+      <TH align=Center>一</TH>
+      <TH align=Center>二</TH>
+      <TH align=Center>三</TH>
+      <TH align=Center>四</TH>
+      <TH align=Center>五</TH>
+      <TH align=Center>六</TH>
+      <TH align=Center>教室</TH>
+      <TH align=Center>人</TH>
+      <TH align=Center>撤</TH>
+      <TH align=Center>教學<BR>助理</TH>
+      <TH align=Center>授課<BR>語言</TH>
+      <TH align=Center>教學大綱<BR>與進度表</TH>
+      <TH align=Center>備註</TH>
+      <TH align=Center>隨班<BR>附讀</TH>
+      <TH align=Center>實驗<BR>實習</TH>
+  </TR>
+<TR>
+<td>267734
+<td><A href="Curr.jsp?format=-2&code=0460008">教育議題專題</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=78">教育學程</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10921">曾淑惠</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11896">蔡佩珊</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>7 8 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><A href="ShowSyllabus.jsp?snum=267734&code=11896">查詢</A><BR>
+  <TD>103級-107級必選，108級必修</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>267735
+<td><A href="Curr.jsp?format=-2&code=0461101">教育哲學</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=78">教育學程</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11040">劉曉芬</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>267736
+<td><A href="Curr.jsp?format=-2&code=0462105">學習評量</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=78">教育學程</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11786">林志哲</A><BR>
+
+  <TD>　<TD>7 8 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>107級以前師資生得修本課程抵免教育測驗與評量</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>267737
+<td><A href="Curr.jsp?format=-2&code=0463019">班級經營</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=78">教育學程</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12142">傅遠智</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>102級(含)以前選修，103級-108級必修</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>267738
+<td><A href="Curr.jsp?format=-2&code=0463023">土木與建築群教學實習</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=78">教育學程</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11048">林宜玄</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 8 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=267738&code=11048">查詢</A><BR>
+  <TD>第三階段，限師資生修習(合班授課)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>267739
+<td><A href="Curr.jsp?format=-2&code=0463025">化工群教學實習</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=78">教育學程</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23938">陳弘哲</A><BR>
+
+  <TD>　<TD>　<TD>A B C D <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>第三階段，限師資生修習(合班授課)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>267740
+<td><A href="Curr.jsp?format=-2&code=0463027">化學科教學實習</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=78">教育學程</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23938">陳弘哲</A><BR>
+
+  <TD>　<TD>　<TD>A B C D <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>第三階段，限師資生修習(合班授課)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>267741
+<td><A href="Curr.jsp?format=-2&code=0463029">物理科教學實習</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=78">教育學程</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23938">陳弘哲</A><BR>
+
+  <TD>　<TD>　<TD>A B C D <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>第三階段，限師資生修習(合班授課)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>267742
+<td><A href="Curr.jsp?format=-2&code=0463031">動力機械群教學實習</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=78">教育學程</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23938">陳弘哲</A><BR>
+
+  <TD>　<TD>　<TD>A B C D <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>第三階段，限師資生修習(合班授課)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>267743
+<td><A href="Curr.jsp?format=-2&code=0463033">商業與管理群教學實習</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=78">教育學程</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24199">黃麗華</A><BR>
+
+  <TD>　<TD>　<TD>A B C D <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>第三階段，限師資生修習(合班授課)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>267744
+<td><A href="Curr.jsp?format=-2&code=0463035">設計群教學實習</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=78">教育學程</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11048">林宜玄</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 8 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=267744&code=11048">查詢</A><BR>
+  <TD>第三階段，限師資生修習(合班授課)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>267746
+<td><A href="Curr.jsp?format=-2&code=0463039">電機與電子群教學實習</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=78">教育學程</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23938">陳弘哲</A><BR>
+
+  <TD>　<TD>　<TD>A B C D <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>第三階段，限師資生修習(合班授課)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>267747
+<td><A href="Curr.jsp?format=-2&code=0463041">機械群教學實習</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=78">教育學程</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23938">陳弘哲</A><BR>
+
+  <TD>　<TD>　<TD>A B C D <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>第三階段，限師資生修習(合班授課)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>267748
+<td><A href="Curr.jsp?format=-2&code=0463043">英文科教學實習</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=78">教育學程</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11732">林彥良</A><BR>
+
+  <TD>　<TD>　<TD>A B C D <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=267748&code=11732">查詢</A><BR>
+  <TD>第三階段，限師資生修習(合班授課)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>267751
+<td><A href="Curr.jsp?format=-2&code=0462022">青少年發展</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=78">教育學程</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11786">林志哲</A><BR>
+
+  <TD>　<TD>5 6 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>僅限102級(含)以後師資生選修</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273009
+<td><A href="Curr.jsp?format=-2&code=0462101">課程發展與設計</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=78">教育學程</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12142">傅遠智</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>僅限107級(含)以前師資生修習</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273010
+<td><A href="Curr.jsp?format=-2&code=0460003">教育服務學習</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=78">教育學程</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10921">曾淑惠</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11896">蔡佩珊</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><A href="ShowSyllabus.jsp?snum=273010&code=11896">查詢</A><BR>
+  <TD>額外加開，加選請面洽授課教師</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+
+</TABLE>
+<BR>
+<P><img src="../image/or_ball.gif"></img>各節次上課時間如下：
+<table border = 1>
+<tr align=center><td width="15%">1: 08:10 - 09:00<td width="15%">2: 09:10 - 10:00<td width="15%">3: 10:10 - 11:00<td width="15%">4: 11:10 - 12:00<td width="15%">N: 12:10 - 13:00
+<tr align=center><td>5: 13:10 - 14:00<td>6: 14:10 - 15:00<td>7: 15:10 - 16:00<td>8: 16:10 - 17:00<td>9: 17:10 - 18:00
+<tr align=center><td>A: 18:30 - 19:20<td>B: 19:20 - 20:10<td>C: 20:20 - 21:10<td>D: 21:10 - 22:00<td>　
+</table>
+
+<P>說明：</P>
+<OL>
+<LI>為避免欲查詢之資料量過大而影響速度，請適當地設定查詢條件。</LI>
+<LI>本資料係由本校各教學單位、教務處課務組、進修部教務組、進修學院教務組及計網中心所共同提供！</LI>
+<LI>本資料僅供參考，正式資料仍以教務處、進修部、進修學院所公佈之書面資料為準。</LI>
+</OL>
+</body>
+</HTML>

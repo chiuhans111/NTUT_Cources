@@ -1,0 +1,1264 @@
+
+
+
+
+
+
+<HTML>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<TITLE>108學年度 第 2 學期 開課資料查詢結果</TITLE>
+<Script src="https://font.ntut.edu.tw/wfs/js/lib/wfs.js" type="text/javascript" ></script>
+</head>
+
+<body  bgcolor=#ffffdf background="../image/grey918y.gif" text=#003398>
+<H3>108 學年度 第 2 學期 開課資料查詢結果</H3>
+<TABLE border=1>
+  <TR>
+      <TH align=Center>課號</TH>
+      <TH align=Center>課程名稱</TH>
+      <TH align=Center>階段</TH>
+      <TH align=Center>學分</TH>
+      <TH align=Center>時數</TH>
+      <TH align=Center>修</TH>
+      <TH align=Center>班級</TH>
+      <TH align=Center>教師</TH>
+      <TH align=Center>日</TH>
+      <TH align=Center>一</TH>
+      <TH align=Center>二</TH>
+      <TH align=Center>三</TH>
+      <TH align=Center>四</TH>
+      <TH align=Center>五</TH>
+      <TH align=Center>六</TH>
+      <TH align=Center>教室</TH>
+      <TH align=Center>人</TH>
+      <TH align=Center>撤</TH>
+      <TH align=Center>教學<BR>助理</TH>
+      <TH align=Center>授課<BR>語言</TH>
+      <TH align=Center>教學大綱<BR>與進度表</TH>
+      <TH align=Center>備註</TH>
+      <TH align=Center>隨班<BR>附讀</TH>
+      <TH align=Center>實驗<BR>實習</TH>
+  </TR>
+<TR>
+<td>268352
+<td><A href="Curr.jsp?format=-2&code=1004002">體育</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2080">文發四</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269016
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>6
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2201">文發三</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269018
+<td><A href="Curr.jsp?format=-2&code=1419984">博雅核心課程-法治</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2201">文發三</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>7 8 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：通識中心/博雅核心-法治(二)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269019
+<td><A href="Curr.jsp?format=-2&code=1419994">博雅選修課程</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2201">文發三</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269020
+<td><A href="Curr.jsp?format=-2&code=A503025">宗教概論</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2201">文發三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11249">楊琇惠</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269020&code=11249">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269021
+<td><A href="Curr.jsp?format=-2&code=A503026">哲學史（二）</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2201">文發三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11223">楊景德</A><BR>
+
+  <TD>　<TD>7 8 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269022
+<td><A href="Curr.jsp?format=-2&code=A503027">展演藝術與表達</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2201">文發三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11785">王怡惠</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269024
+<td><A href="Curr.jsp?format=-2&code=A503028">文化資產與行政法規</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2201">文發三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12037">陳涵秀</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269549
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>4
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2320">文發二</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269550
+<td><A href="Curr.jsp?format=-2&code=1419988">博雅核心課程-創創</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2320">文發二</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：通識中心/博雅核心-創創(一)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269551
+<td><A href="Curr.jsp?format=-2&code=1419992">博雅選修課程</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2320">文發二</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269552
+<td><A href="Curr.jsp?format=-2&code=14E0001">多元英文</A>
+<td align=CENTER>2
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2320">文發二</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>4 <TD>3 4 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=60">三教503</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：校院級課程/大二多元英文(五)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269553
+<td><A href="Curr.jsp?format=-2&code=A502014">數位媒體製作</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2320">文發二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11731">吳岳錚</A><BR>
+
+  <TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269554
+<td><A href="Curr.jsp?format=-2&code=A502015">社會變遷與發展</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2320">文發二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12034">吳宇凡</A><BR>
+
+  <TD>　<TD>1 2 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269554&code=12034">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269555
+<td><A href="Curr.jsp?format=-2&code=A502016">文化史（二）</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2320">文發二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12037">陳涵秀</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>7 8 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=63">三教506</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269556
+<td><A href="Curr.jsp?format=-2&code=A502017">器物文化</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2320">文發二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10375">葉惠蘭</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=63">三教506</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269557
+<td><A href="Curr.jsp?format=-2&code=A502020">專題與演練</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2320">文發二</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269561
+<td><A href="Curr.jsp?format=-2&code=A502214">書法產業</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2320">文發二</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=71">四教103</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270124
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2440">文發一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23277">王永順</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270125
+<td><A href="Curr.jsp?format=-2&code=1101006">全民國防教育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2440">文發一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11545">徐舜斌</A><BR>
+
+  <TD>　<TD>　<TD>7 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=334">三教301</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270126
+<td><A href="Curr.jsp?format=-2&code=1400027">英文閱讀與聽講練習</A>
+<td align=CENTER>2
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2440">文發一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11809">廖華彥</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>7 8 <TD>5 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=60">三教503</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=270126&code=11809">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270127
+<td><A href="Curr.jsp?format=-2&code=1400099">服務學習</A>
+<td align=CENTER>1
+<td align=CENTER>0.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2440">文發一</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>9 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270128
+<td><A href="Curr.jsp?format=-2&code=1404003">國文</A>
+<td align=CENTER>2
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2440">文發一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23967">關尚智</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>7 8 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=60">三教503</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270129
+<td><A href="Curr.jsp?format=-2&code=1419987">博雅核心課程-社哲</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2440">文發一</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>1 2 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：通識中心/博雅核心-社哲(三)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270130
+<td><A href="Curr.jsp?format=-2&code=A501005">研究方法</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2440">文發一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12034">吳宇凡</A><BR>
+
+  <TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=60">三教503</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=270130&code=12034">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270131
+<td><A href="Curr.jsp?format=-2&code=A501006">文學史（二）</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2440">文發一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23812">陳美妃</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270132
+<td><A href="Curr.jsp?format=-2&code=A501007">美學與藝術史（二）</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2440">文發一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11222">劉秋蘭</A><BR>
+
+  <TD>　<TD>7 8 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=60">三教503</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270133
+<td><A href="Curr.jsp?format=-2&code=A501008">管理學</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2440">文發一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11979">張怡敏</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=60">三教503</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270134
+<td><A href="Curr.jsp?format=-2&code=A501205">台灣茶藝文化</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2440">文發一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24031">吳華陽</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=60">三教503</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270136
+<td><A href="Curr.jsp?format=-2&code=A501208">思想與語言</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2440">文發一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11223">楊景德</A><BR>
+
+  <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=60">三教503</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270139
+<td><A href="Curr.jsp?format=-2&code=A501217">插畫表現技法</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2440">文發一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11731">吳岳錚</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270142
+<td><A href="Curr.jsp?format=-2&code=A501222">藝術的幾何元素</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2440">文發一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12099">吳欣怡</A><BR>
+
+  <TD>　<TD>5 6 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=159">共同614</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=270142&code=12099">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271300
+<td><A href="Curr.jsp?format=-2&code=A505208">量化研究方法</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2468">文發所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23962">汪美伶</A><BR>
+
+  <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=537">共同616</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>大碩合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271301
+<td><A href="Curr.jsp?format=-2&code=A505209">產業發展與文化資產專題</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2468">文發所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11979">張怡敏</A><BR>
+
+  <TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=537">共同616</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>大碩合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271701
+<td><A href="Curr.jsp?format=-2&code=A505002">論文</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2468">文發所</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273294
+<td><A href="Curr.jsp?format=-2&code=A502240">時尚文化與傳統工藝</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2320">文發二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11785">王怡惠</A><BR>
+
+  <TD>　<TD>5 6 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273298
+<td><A href="Curr.jsp?format=-2&code=A503254">陶藝創作</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2201">文發三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11785">王怡惠</A><BR>
+
+  <TD>　<TD>　<TD>N 5 6 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273584
+<td><A href="Curr.jsp?format=-2&code=A501223">日本文化產業與地方創生</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2440">文發一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24095">劉夏如</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>7 8 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273585
+<td><A href="Curr.jsp?format=-2&code=A502243">動態影像新研究法</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2320">文發二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12099">吳欣怡</A><BR>
+
+  <TD>　<TD>　<TD>7 8 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273585&code=12099">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273587
+<td><A href="Curr.jsp?format=-2&code=A502241">檔案策展與加值應用</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2320">文發二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12034">吳宇凡</A><BR>
+
+  <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273587&code=12034">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273588
+<td><A href="Curr.jsp?format=-2&code=A502234">暗房創作</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2201">文發三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24075">簡永彬</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=159">共同614</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273588&code=24075">查詢</A><BR>
+  <TD>須修習上學期「攝影美學實踐講座」通過</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273590
+<td><A href="Curr.jsp?format=-2&code=A503253">金屬工藝應用</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2201">文發三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24055">廖偉淇</A><BR>
+
+  <TD>　<TD>3 4 N <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273591
+<td><A href="Curr.jsp?format=-2&code=A504253">心靈的理論與實踐</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2080">文發四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11223">楊景德</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=537">共同616</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>大碩合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273592
+<td><A href="Curr.jsp?format=-2&code=A504241">量化研究方法</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2080">文發四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23962">汪美伶</A><BR>
+
+  <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=537">共同616</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>大碩合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273593
+<td><A href="Curr.jsp?format=-2&code=A504242">產業發展與文化資產專題</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2080">文發四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11979">張怡敏</A><BR>
+
+  <TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=537">共同616</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>大碩合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273594
+<td><A href="Curr.jsp?format=-2&code=A504233">文創工作與實務</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2080">文發四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12099">吳欣怡</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11249">楊琇惠</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>7 8 9 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=537">共同616</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273594&code=12099">查詢</A><BR><A href="ShowSyllabus.jsp?snum=273594&code=11249">查詢</A><BR>
+  <TD>大碩合開；產業接軌課程</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273595
+<td><A href="Curr.jsp?format=-2&code=A502229">歷史想像與影視史學</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2080">文發四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12034">吳宇凡</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273595&code=12034">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273596
+<td><A href="Curr.jsp?format=-2&code=A505215">心靈的理論與實踐</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2468">文發所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11223">楊景德</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=537">共同616</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>大碩合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273597
+<td><A href="Curr.jsp?format=-2&code=A505216">文化保存與創意實踐</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2468">文發所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12037">陳涵秀</A><BR>
+
+  <TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=537">共同616</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273727
+<td><A href="Curr.jsp?format=-2&code=A503256">臺灣傳統建築彩繪修復與預防性維</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2201">文發三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11731">吳岳錚</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>7 8 9 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=159">共同614</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273728
+<td><A href="Curr.jsp?format=-2&code=A503255">臺灣傳統吉祥圖騰意涵</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2201">文發三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11731">吳岳錚</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=159">共同614</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273729
+<td><A href="Curr.jsp?format=-2&code=A504254">文物賞鑒專題</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2080">文發四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10375">葉惠蘭</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=537">共同616</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>大碩合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273730
+<td><A href="Curr.jsp?format=-2&code=A505217">文創工作與實務</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2468">文發所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12099">吳欣怡</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11249">楊琇惠</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>7 8 9 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=537">共同616</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273730&code=12099">查詢</A><BR><A href="ShowSyllabus.jsp?snum=273730&code=11249">查詢</A><BR>
+  <TD>大碩合開；產業接軌課程</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273731
+<td><A href="Curr.jsp?format=-2&code=A505218">文物賞鑒專題</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2468">文發所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10375">葉惠蘭</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=537">共同616</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>大碩合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+
+</TABLE>
+<BR>
+<P><img src="../image/or_ball.gif"></img>各節次上課時間如下：
+<table border = 1>
+<tr align=center><td width="15%">1: 08:10 - 09:00<td width="15%">2: 09:10 - 10:00<td width="15%">3: 10:10 - 11:00<td width="15%">4: 11:10 - 12:00<td width="15%">N: 12:10 - 13:00
+<tr align=center><td>5: 13:10 - 14:00<td>6: 14:10 - 15:00<td>7: 15:10 - 16:00<td>8: 16:10 - 17:00<td>9: 17:10 - 18:00
+<tr align=center><td>A: 18:30 - 19:20<td>B: 19:20 - 20:10<td>C: 20:20 - 21:10<td>D: 21:10 - 22:00<td>　
+</table>
+
+<P>說明：</P>
+<OL>
+<LI>為避免欲查詢之資料量過大而影響速度，請適當地設定查詢條件。</LI>
+<LI>本資料係由本校各教學單位、教務處課務組、進修部教務組、進修學院教務組及計網中心所共同提供！</LI>
+<LI>本資料僅供參考，正式資料仍以教務處、進修部、進修學院所公佈之書面資料為準。</LI>
+</OL>
+</body>
+</HTML>

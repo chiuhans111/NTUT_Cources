@@ -1,0 +1,465 @@
+
+
+
+
+
+
+<HTML>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<TITLE>108學年度 第 2 學期 開課資料查詢結果</TITLE>
+<Script src="https://font.ntut.edu.tw/wfs/js/lib/wfs.js" type="text/javascript" ></script>
+</head>
+
+<body  bgcolor=#ffffdf background="../image/grey918y.gif" text=#003398>
+<H3>108 學年度 第 2 學期 開課資料查詢結果</H3>
+<TABLE border=1>
+  <TR>
+      <TH align=Center>課號</TH>
+      <TH align=Center>課程名稱</TH>
+      <TH align=Center>階段</TH>
+      <TH align=Center>學分</TH>
+      <TH align=Center>時數</TH>
+      <TH align=Center>修</TH>
+      <TH align=Center>班級</TH>
+      <TH align=Center>教師</TH>
+      <TH align=Center>日</TH>
+      <TH align=Center>一</TH>
+      <TH align=Center>二</TH>
+      <TH align=Center>三</TH>
+      <TH align=Center>四</TH>
+      <TH align=Center>五</TH>
+      <TH align=Center>六</TH>
+      <TH align=Center>教室</TH>
+      <TH align=Center>人</TH>
+      <TH align=Center>撤</TH>
+      <TH align=Center>教學<BR>助理</TH>
+      <TH align=Center>授課<BR>語言</TH>
+      <TH align=Center>教學大綱<BR>與進度表</TH>
+      <TH align=Center>備註</TH>
+      <TH align=Center>隨班<BR>附讀</TH>
+      <TH align=Center>實驗<BR>實習</TH>
+  </TR>
+<TR>
+<td>270996
+<td><A href="Curr.jsp?format=-2&code=6105001">論文</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2459">自動化所</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270997
+<td><A href="Curr.jsp?format=-2&code=6105002">專題討論</A>
+<td align=CENTER>2
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2459">自動化所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11402">蔡舜宏</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=270997&code=11402">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271000
+<td><A href="Curr.jsp?format=-2&code=4005131">人工智能機器學習</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2459">自動化所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11449">林顯易</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271000&code=11449">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271006
+<td><A href="Curr.jsp?format=-2&code=6105023">類神經網路</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2459">自動化所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11449">林顯易</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=40">三教206</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271006&code=11449">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271017
+<td><A href="Curr.jsp?format=-2&code=6105040">電腦運動控制</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2459">自動化所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11077">陳金聖</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=40">三教206</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271026
+<td><A href="Curr.jsp?format=-2&code=6105062">T-S模糊模式專論</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2459">自動化所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11402">蔡舜宏</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=40">三教206</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271026&code=11402">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271029
+<td><A href="Curr.jsp?format=-2&code=6105076">自動化系統設計與實習</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2459">自動化所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11453">林志哲</A><BR>
+
+  <TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271029&code=11453">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271031
+<td><A href="Curr.jsp?format=-2&code=6105079">科技英文寫作</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2459">自動化所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11054">陳文輝</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11683">陳永耀</A><BR>
+
+  <TD>　<TD>6 7 8 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=40">三教206</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271031&code=11054">查詢</A><BR><A href="ShowSyllabus.jsp?snum=271031&code=11683">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271032
+<td><A href="Curr.jsp?format=-2&code=6105085">演化式計算</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2459">自動化所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11127">蔡孟伸</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=40">三教206</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271032&code=11127">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272679
+<td><A href="Curr.jsp?format=-2&code=6105001">論文</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2495">職自動化所</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272680
+<td><A href="Curr.jsp?format=-2&code=6105002">專題討論</A>
+<td align=CENTER>2
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2495">職自動化所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11127">蔡孟伸</A><BR>
+
+  <TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=272680&code=11127">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272688
+<td><A href="Curr.jsp?format=-2&code=6105025">電腦整合實體模型設計</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2495">職自動化所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11453">林志哲</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=272688&code=11453">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273004
+<td><A href="Curr.jsp?format=-2&code=3105179">高等機器人與自動化應用</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2443">電機所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2459">自動化所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2466">電資外生所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2472">機械自動化外生專班</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11007">張文中</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=210">綜科422</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><A href="ShowSyllabus.jsp?snum=273004&code=11007">查詢</A><BR>
+  <TD>電機所、自動化所、IEECS和機械自動化班合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273556
+<td><A href="Curr.jsp?format=-2&code=6105026">圖形識別技術</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2459">自動化所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11402">蔡舜宏</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273556&code=11402">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273558
+<td><A href="Curr.jsp?format=-2&code=6105059">人工智慧</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2459">自動化所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11054">陳文輝</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=40">三教206</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273558&code=11054">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273559
+<td><A href="Curr.jsp?format=-2&code=6105031">自動化光學精密檢測及實習</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2495">職自動化所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11683">陳永耀</A><BR>
+
+  <TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273559&code=11683">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273560
+<td><A href="Curr.jsp?format=-2&code=6105059">人工智慧</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2495">職自動化所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11054">陳文輝</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273560&code=11054">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274045
+<td><A href="Curr.jsp?format=-2&code=6105023">類神經網路</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2495">職自動化所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11449">林顯易</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+
+</TABLE>
+<BR>
+<P><img src="../image/or_ball.gif"></img>各節次上課時間如下：
+<table border = 1>
+<tr align=center><td width="15%">1: 08:10 - 09:00<td width="15%">2: 09:10 - 10:00<td width="15%">3: 10:10 - 11:00<td width="15%">4: 11:10 - 12:00<td width="15%">N: 12:10 - 13:00
+<tr align=center><td>5: 13:10 - 14:00<td>6: 14:10 - 15:00<td>7: 15:10 - 16:00<td>8: 16:10 - 17:00<td>9: 17:10 - 18:00
+<tr align=center><td>A: 18:30 - 19:20<td>B: 19:20 - 20:10<td>C: 20:20 - 21:10<td>D: 21:10 - 22:00<td>　
+</table>
+
+<P>說明：</P>
+<OL>
+<LI>為避免欲查詢之資料量過大而影響速度，請適當地設定查詢條件。</LI>
+<LI>本資料係由本校各教學單位、教務處課務組、進修部教務組、進修學院教務組及計網中心所共同提供！</LI>
+<LI>本資料僅供參考，正式資料仍以教務處、進修部、進修學院所公佈之書面資料為準。</LI>
+</OL>
+</body>
+</HTML>

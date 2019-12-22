@@ -1,0 +1,1467 @@
+
+
+
+
+
+
+<HTML>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<TITLE>108學年度 第 2 學期 開課資料查詢結果</TITLE>
+<Script src="https://font.ntut.edu.tw/wfs/js/lib/wfs.js" type="text/javascript" ></script>
+</head>
+
+<body  bgcolor=#ffffdf background="../image/grey918y.gif" text=#003398>
+<H3>108 學年度 第 2 學期 開課資料查詢結果</H3>
+<TABLE border=1>
+  <TR>
+      <TH align=Center>課號</TH>
+      <TH align=Center>課程名稱</TH>
+      <TH align=Center>階段</TH>
+      <TH align=Center>學分</TH>
+      <TH align=Center>時數</TH>
+      <TH align=Center>修</TH>
+      <TH align=Center>班級</TH>
+      <TH align=Center>教師</TH>
+      <TH align=Center>日</TH>
+      <TH align=Center>一</TH>
+      <TH align=Center>二</TH>
+      <TH align=Center>三</TH>
+      <TH align=Center>四</TH>
+      <TH align=Center>五</TH>
+      <TH align=Center>六</TH>
+      <TH align=Center>教室</TH>
+      <TH align=Center>人</TH>
+      <TH align=Center>撤</TH>
+      <TH align=Center>教學<BR>助理</TH>
+      <TH align=Center>授課<BR>語言</TH>
+      <TH align=Center>教學大綱<BR>與進度表</TH>
+      <TH align=Center>備註</TH>
+      <TH align=Center>隨班<BR>附讀</TH>
+      <TH align=Center>實驗<BR>實習</TH>
+  </TR>
+<TR>
+<td>271600
+<td><A href="Curr.jsp?format=-2&code=1400501">流行文化英文</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22438">郭儀風</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>7 8 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271601
+<td><A href="Curr.jsp?format=-2&code=1400502">新聞英文</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12003">林煜善</A><BR>
+
+  <TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271601&code=12003">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271602
+<td><A href="Curr.jsp?format=-2&code=1400502">新聞英文</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12004">陳昭伶</A><BR>
+
+  <TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271604
+<td><A href="Curr.jsp?format=-2&code=1400505">職場英文溝通</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12005">王伯雅</A><BR>
+
+  <TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271604&code=12005">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271605
+<td><A href="Curr.jsp?format=-2&code=1400505">職場英文溝通</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11421">林家薇</A><BR>
+
+  <TD>　<TD>　<TD>7 8 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271605&code=11421">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271606
+<td><A href="Curr.jsp?format=-2&code=1400507">職場英文寫作</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23248">賀一平</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271606&code=23248">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271607
+<td><A href="Curr.jsp?format=-2&code=1400507">職場英文寫作</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12004">陳昭伶</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271608
+<td><A href="Curr.jsp?format=-2&code=1400520">語文測驗(一)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23852">陳惠芬</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>以多益550分為目標</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271609
+<td><A href="Curr.jsp?format=-2&code=1400520">語文測驗(一)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23852">陳惠芬</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>以多益550分為目標</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271610
+<td><A href="Curr.jsp?format=-2&code=1400520">語文測驗(一)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11912">陳玟心</A><BR>
+
+  <TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271610&code=11912">查詢</A><BR>
+  <TD>以多益550分為目標</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271611
+<td><A href="Curr.jsp?format=-2&code=1400520">語文測驗(一)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11912">陳玟心</A><BR>
+
+  <TD>　<TD>　<TD>7 8 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271611&code=11912">查詢</A><BR>
+  <TD>以多益550分為目標</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271613
+<td><A href="Curr.jsp?format=-2&code=1400521">語文測驗(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12005">王伯雅</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>A B <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271613&code=12005">查詢</A><BR>
+  <TD>以多益750分為目標</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271614
+<td><A href="Curr.jsp?format=-2&code=1400521">語文測驗(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23907">黃希敏</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271614&code=23907">查詢</A><BR>
+  <TD>以多益750分為目標</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271615
+<td><A href="Curr.jsp?format=-2&code=1400521">語文測驗(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24137">白俊恩</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>以多益750分為目標/外師授課</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271617
+<td><A href="Curr.jsp?format=-2&code=1400522">語文測驗(三)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23735">林德倫</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271617&code=23735">查詢</A><BR>
+  <TD>TOEFL iBT/外師授課</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271618
+<td><A href="Curr.jsp?format=-2&code=1400523">語文測驗(四)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11421">林家薇</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271618&code=11421">查詢</A><BR>
+  <TD>以GEPT中級初試為目標</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271619
+<td><A href="Curr.jsp?format=-2&code=1400523">語文測驗(四)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11421">林家薇</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>7 8 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271619&code=11421">查詢</A><BR>
+  <TD>以GEPT中級初試為目標</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271620
+<td><A href="Curr.jsp?format=-2&code=1400524">英文簡報及討論</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22438">郭儀風</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271621
+<td><A href="Curr.jsp?format=-2&code=1400526">基礎英文聽力與詞彙</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11421">林家薇</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271621&code=11421">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271624
+<td><A href="Curr.jsp?format=-2&code=1400502">新聞英文</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12003">林煜善</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271624&code=12003">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273497
+<td><A href="Curr.jsp?format=-2&code=14E1009">基礎英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2155">大二多元英文(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=21727">林嘉彤</A><BR>
+
+  <TD>　<TD>3 4 <TD>5 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>初級 (Elementary)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273498
+<td><A href="Curr.jsp?format=-2&code=14E1010">多媒體英文</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2155">大二多元英文(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24110">吳景龍</A><BR>
+
+  <TD>　<TD>3 4 <TD>5 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273498&code=24110">查詢</A><BR>
+  <TD>初級 (Elementary)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273499
+<td><A href="Curr.jsp?format=-2&code=14E2001">英文短篇小說選讀</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2155">大二多元英文(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11809">廖華彥</A><BR>
+
+  <TD>　<TD>3 4 <TD>5 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273499&code=11809">查詢</A><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273500
+<td><A href="Curr.jsp?format=-2&code=14E2018">中級英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2155">大二多元英文(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11538">葉采青</A><BR>
+
+  <TD>　<TD>3 4 <TD>5 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273501
+<td><A href="Curr.jsp?format=-2&code=14E2002">視覺文化與英文</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2155">大二多元英文(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11082">陳怡倩</A><BR>
+
+  <TD>　<TD>3 4 <TD>5 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273501&code=11082">查詢</A><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273502
+<td><A href="Curr.jsp?format=-2&code=14E2015">語文測驗</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2155">大二多元英文(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11421">林家薇</A><BR>
+
+  <TD>　<TD>3 4 <TD>5 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273502&code=11421">查詢</A><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273503
+<td><A href="Curr.jsp?format=-2&code=14E3005">網路媒體英語</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2155">大二多元英文(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12092">袁慧君</A><BR>
+
+  <TD>　<TD>3 4 <TD>5 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273503&code=12092">查詢</A><BR>
+  <TD>高級 (Advanced)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273504
+<td><A href="Curr.jsp?format=-2&code=14E3017">進階英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2155">大二多元英文(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24033">葉尚芳</A><BR>
+
+  <TD>　<TD>3 4 <TD>5 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273504&code=24033">查詢</A><BR>
+  <TD>高級 (Advanced)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273505
+<td><A href="Curr.jsp?format=-2&code=14E2018">中級英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2155">大二多元英文(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23100">夏珮玲</A><BR>
+
+  <TD>　<TD>3 4 <TD>5 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273505&code=23100">查詢</A><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273506
+<td><A href="Curr.jsp?format=-2&code=14E1001">基礎新聞英語</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2156">大二多元英文(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12092">袁慧君</A><BR>
+
+  <TD>　<TD>5 6 <TD>　<TD>3 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273506&code=12092">查詢</A><BR>
+  <TD>初級 (Elementary)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273507
+<td><A href="Curr.jsp?format=-2&code=14E1009">基礎英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2156">大二多元英文(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12177">劉慧雯</A><BR>
+
+  <TD>　<TD>5 6 <TD>　<TD>3 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>初級 (Elementary)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273508
+<td><A href="Curr.jsp?format=-2&code=14E2005">電影英語</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2156">大二多元英文(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24107">王凡</A><BR>
+
+  <TD>　<TD>5 6 <TD>　<TD>3 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273509
+<td><A href="Curr.jsp?format=-2&code=14E2018">中級英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2156">大二多元英文(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24109">陳聿寬</A><BR>
+
+  <TD>　<TD>5 6 <TD>　<TD>3 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273510
+<td><A href="Curr.jsp?format=-2&code=14E2003">新聞英語</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2156">大二多元英文(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11421">林家薇</A><BR>
+
+  <TD>　<TD>5 6 <TD>　<TD>3 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273510&code=11421">查詢</A><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273511
+<td><A href="Curr.jsp?format=-2&code=14E2001">英文短篇小說選讀</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2156">大二多元英文(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10465">余盛延</A><BR>
+
+  <TD>　<TD>5 6 <TD>　<TD>3 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273512
+<td><A href="Curr.jsp?format=-2&code=14E3014">進階專業英文-機電</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2156">大二多元英文(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11967">郭政淳</A><BR>
+
+  <TD>　<TD>5 6 <TD>　<TD>3 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>高級 (Advanced)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273513
+<td><A href="Curr.jsp?format=-2&code=14E3017">進階英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2156">大二多元英文(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12179">陳玉敏</A><BR>
+
+  <TD>　<TD>5 6 <TD>　<TD>3 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273513&code=12179">查詢</A><BR>
+  <TD>高級 (Advanced)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273514
+<td><A href="Curr.jsp?format=-2&code=14E2018">中級英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2156">大二多元英文(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11809">廖華彥</A><BR>
+
+  <TD>　<TD>5 6 <TD>　<TD>3 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273514&code=11809">查詢</A><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273515
+<td><A href="Curr.jsp?format=-2&code=14E2018">中級英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2156">大二多元英文(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24112">章慧琴</A><BR>
+
+  <TD>　<TD>5 6 <TD>　<TD>3 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273516
+<td><A href="Curr.jsp?format=-2&code=14E1009">基礎英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2157">大二多元英文(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22285">廖益輝</A><BR>
+
+  <TD>　<TD>7 8 <TD>6 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>初級 (Elementary)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273517
+<td><A href="Curr.jsp?format=-2&code=14E1010">多媒體英文</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2157">大二多元英文(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24110">吳景龍</A><BR>
+
+  <TD>　<TD>7 8 <TD>6 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273517&code=24110">查詢</A><BR>
+  <TD>初級 (Elementary)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273519
+<td><A href="Curr.jsp?format=-2&code=14E2008">文法寫作及國際時事</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2157">大二多元英文(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11421">林家薇</A><BR>
+
+  <TD>　<TD>7 8 <TD>6 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273519&code=11421">查詢</A><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273520
+<td><A href="Curr.jsp?format=-2&code=14E2018">中級英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2157">大二多元英文(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11538">葉采青</A><BR>
+
+  <TD>　<TD>7 8 <TD>6 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273521
+<td><A href="Curr.jsp?format=-2&code=14E2015">語文測驗</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2157">大二多元英文(三)</A><BR>
+
+<td>　
+  <TD>　<TD>7 8 <TD>6 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273522
+<td><A href="Curr.jsp?format=-2&code=14E3017">進階英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2157">大二多元英文(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11227">葛瑞斐</A><BR>
+
+  <TD>　<TD>7 8 <TD>6 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273522&code=11227">查詢</A><BR>
+  <TD>高級 (Advanced)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273523
+<td><A href="Curr.jsp?format=-2&code=14E3018">英文電影研究</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2157">大二多元英文(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11092">黃如瑩</A><BR>
+
+  <TD>　<TD>7 8 <TD>6 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>高級 (Advanced)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273524
+<td><A href="Curr.jsp?format=-2&code=14E2018">中級英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2157">大二多元英文(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22436">李信明</A><BR>
+
+  <TD>　<TD>7 8 <TD>6 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273524&code=22436">查詢</A><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273525
+<td><A href="Curr.jsp?format=-2&code=14E1009">基礎英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2158">大二多元英文(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12004">陳昭伶</A><BR>
+
+  <TD>　<TD>　<TD>8 <TD>1 2 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>初級 (Elementary)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273526
+<td><A href="Curr.jsp?format=-2&code=14E2003">新聞英語</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2158">大二多元英文(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24140">李智堯</A><BR>
+
+  <TD>　<TD>　<TD>8 <TD>1 2 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273526&code=24140">查詢</A><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273527
+<td><A href="Curr.jsp?format=-2&code=14E2018">中級英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2158">大二多元英文(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24112">章慧琴</A><BR>
+
+  <TD>　<TD>　<TD>8 <TD>1 2 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273528
+<td><A href="Curr.jsp?format=-2&code=14E2001">英文短篇小說選讀</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2158">大二多元英文(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10465">余盛延</A><BR>
+
+  <TD>　<TD>　<TD>8 <TD>1 2 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273529
+<td><A href="Curr.jsp?format=-2&code=14E3019">全球議題與趨勢</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2158">大二多元英文(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24242">林宜樺</A><BR>
+
+  <TD>　<TD>　<TD>8 <TD>1 2 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273529&code=24242">查詢</A><BR>
+  <TD>高級 (Advanced)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273530
+<td><A href="Curr.jsp?format=-2&code=14E3017">進階英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2158">大二多元英文(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12179">陳玉敏</A><BR>
+
+  <TD>　<TD>　<TD>8 <TD>1 2 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273530&code=12179">查詢</A><BR>
+  <TD>高級 (Advanced)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273531
+<td><A href="Curr.jsp?format=-2&code=14E2018">中級英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2158">大二多元英文(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22291">喻沐英</A><BR>
+
+  <TD>　<TD>　<TD>8 <TD>1 2 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273532
+<td><A href="Curr.jsp?format=-2&code=14E1009">基礎英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2159">大二多元英文(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11809">廖華彥</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>4 <TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>初級 (Elementary)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273533
+<td><A href="Curr.jsp?format=-2&code=14E2003">新聞英語</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2159">大二多元英文(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11436">蔡逸萍</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>4 <TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273534
+<td><A href="Curr.jsp?format=-2&code=14E2013">專業英文-人文</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2159">大二多元英文(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11912">陳玟心</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>4 <TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273534&code=11912">查詢</A><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273535
+<td><A href="Curr.jsp?format=-2&code=14E2018">中級英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2159">大二多元英文(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24109">陳聿寬</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>4 <TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273536
+<td><A href="Curr.jsp?format=-2&code=14E3017">進階英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2159">大二多元英文(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11589">施欣文</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>4 <TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>高級 (Advanced)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273537
+<td><A href="Curr.jsp?format=-2&code=14E2018">中級英文閱讀與字彙(二)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2159">大二多元英文(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23854">卓建宏</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>4 <TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273564
+<td><A href="Curr.jsp?format=-2&code=14E2003">新聞英語</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2157">大二多元英文(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11082">陳怡倩</A><BR>
+
+  <TD>　<TD>7 8 <TD>6 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273564&code=11082">查詢</A><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273885
+<td><A href="Curr.jsp?format=-2&code=14E2006">文法寫作及電影</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2155">大二多元英文(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12003">林煜善</A><BR>
+
+  <TD>　<TD>3 4 <TD>5 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273885&code=12003">查詢</A><BR>
+  <TD>中級 (Intermediate)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274023
+<td><A href="Curr.jsp?format=-2&code=1400522">語文測驗(三)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23735">林德倫</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>IELTS；外師授課</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274024
+<td><A href="Curr.jsp?format=-2&code=1400520">語文測驗(一)</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2038">專業職場英文銜接計畫</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12092">袁慧君</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274024&code=12092">查詢</A><BR>
+  <TD>以多益550分為目標</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+
+</TABLE>
+<BR>
+<P><img src="../image/or_ball.gif"></img>各節次上課時間如下：
+<table border = 1>
+<tr align=center><td width="15%">1: 08:10 - 09:00<td width="15%">2: 09:10 - 10:00<td width="15%">3: 10:10 - 11:00<td width="15%">4: 11:10 - 12:00<td width="15%">N: 12:10 - 13:00
+<tr align=center><td>5: 13:10 - 14:00<td>6: 14:10 - 15:00<td>7: 15:10 - 16:00<td>8: 16:10 - 17:00<td>9: 17:10 - 18:00
+<tr align=center><td>A: 18:30 - 19:20<td>B: 19:20 - 20:10<td>C: 20:20 - 21:10<td>D: 21:10 - 22:00<td>　
+</table>
+
+<P>說明：</P>
+<OL>
+<LI>為避免欲查詢之資料量過大而影響速度，請適當地設定查詢條件。</LI>
+<LI>本資料係由本校各教學單位、教務處課務組、進修部教務組、進修學院教務組及計網中心所共同提供！</LI>
+<LI>本資料僅供參考，正式資料仍以教務處、進修部、進修學院所公佈之書面資料為準。</LI>
+</OL>
+</body>
+</HTML>

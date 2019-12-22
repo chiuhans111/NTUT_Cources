@@ -1,0 +1,2062 @@
+
+
+
+
+
+
+<HTML>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<TITLE>108學年度 第 2 學期 開課資料查詢結果</TITLE>
+<Script src="https://font.ntut.edu.tw/wfs/js/lib/wfs.js" type="text/javascript" ></script>
+</head>
+
+<body  bgcolor=#ffffdf background="../image/grey918y.gif" text=#003398>
+<H3>108 學年度 第 2 學期 開課資料查詢結果</H3>
+<TABLE border=1>
+  <TR>
+      <TH align=Center>課號</TH>
+      <TH align=Center>課程名稱</TH>
+      <TH align=Center>階段</TH>
+      <TH align=Center>學分</TH>
+      <TH align=Center>時數</TH>
+      <TH align=Center>修</TH>
+      <TH align=Center>班級</TH>
+      <TH align=Center>教師</TH>
+      <TH align=Center>日</TH>
+      <TH align=Center>一</TH>
+      <TH align=Center>二</TH>
+      <TH align=Center>三</TH>
+      <TH align=Center>四</TH>
+      <TH align=Center>五</TH>
+      <TH align=Center>六</TH>
+      <TH align=Center>教室</TH>
+      <TH align=Center>人</TH>
+      <TH align=Center>撤</TH>
+      <TH align=Center>教學<BR>助理</TH>
+      <TH align=Center>授課<BR>語言</TH>
+      <TH align=Center>教學大綱<BR>與進度表</TH>
+      <TH align=Center>備註</TH>
+      <TH align=Center>隨班<BR>附讀</TH>
+      <TH align=Center>實驗<BR>實習</TH>
+  </TR>
+<TR>
+<td>271476
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>1
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=79">大學女生體育</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11172">林威玲</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>適應體育</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271477
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=447">體育專項(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10627">安振吉</A><BR>
+
+  <TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271477&code=10627">查詢</A><BR>
+  <TD>桌球A</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271478
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=447">體育專項(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11459">黃耀宗</A><BR>
+
+  <TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271478&code=11459">查詢</A><BR>
+  <TD>羽球A</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271479
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=447">體育專項(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10664">黎玉東</A><BR>
+
+  <TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>排球A</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271480
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=447">體育專項(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11081">蔣憶德</A><BR>
+
+  <TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271480&code=11081">查詢</A><BR>
+  <TD>籃球A</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271481
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=447">體育專項(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11550">陳東韋</A><BR>
+
+  <TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271481&code=11550">查詢</A><BR>
+  <TD>網球A</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271482
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=447">體育專項(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24164">張桂菱</A><BR>
+
+  <TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271482&code=24164">查詢</A><BR>
+  <TD>肢體美學A</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271483
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=447">體育專項(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11829">周峻忠</A><BR>
+
+  <TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271483&code=11829">查詢</A><BR>
+  <TD>體適能A</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271484
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=579">體育專項(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10627">安振吉</A><BR>
+
+  <TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271484&code=10627">查詢</A><BR>
+  <TD>桌球B</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271485
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=579">體育專項(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11459">黃耀宗</A><BR>
+
+  <TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271485&code=11459">查詢</A><BR>
+  <TD>羽球B</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271486
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=579">體育專項(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10664">黎玉東</A><BR>
+
+  <TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>排球B</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271487
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=579">體育專項(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11081">蔣憶德</A><BR>
+
+  <TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271487&code=11081">查詢</A><BR>
+  <TD>籃球B</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271488
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=579">體育專項(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11550">陳東韋</A><BR>
+
+  <TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271488&code=11550">查詢</A><BR>
+  <TD>網球B</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271489
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=579">體育專項(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24164">張桂菱</A><BR>
+
+  <TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271489&code=24164">查詢</A><BR>
+  <TD>身心美學B</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271490
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=579">體育專項(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11829">周峻忠</A><BR>
+
+  <TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271490&code=11829">查詢</A><BR>
+  <TD>體適能B</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271491
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=580">體育專項(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10627">安振吉</A><BR>
+
+  <TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271491&code=10627">查詢</A><BR>
+  <TD>桌球C</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271492
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=580">體育專項(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10365">張資榮</A><BR>
+
+  <TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>網球C</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271493
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=580">體育專項(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24093">徐煒杰</A><BR>
+
+  <TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>體適能C</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271494
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=580">體育專項(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12091">張文馨</A><BR>
+
+  <TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271494&code=12091">查詢</A><BR>
+  <TD>排球C</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271495
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=580">體育專項(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10824">豐東洋</A><BR>
+
+  <TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271495&code=10824">查詢</A><BR>
+  <TD>羽球C</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271496
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=580">體育專項(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10664">黎玉東</A><BR>
+
+  <TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>太極拳推手入門A</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271497
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=580">體育專項(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10390">郭正煜</A><BR>
+
+  <TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271497&code=10390">查詢</A><BR>
+  <TD>籃球C</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271498
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=580">體育專項(三)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23762">任兆亮</A><BR>
+
+  <TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271498&code=23762">查詢</A><BR>
+  <TD>撞球A</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271499
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=581">體育專項(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10627">安振吉</A><BR>
+
+  <TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271499&code=10627">查詢</A><BR>
+  <TD>桌球D</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271500
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=581">體育專項(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10365">張資榮</A><BR>
+
+  <TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>網球D</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271501
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=581">體育專項(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12091">張文馨</A><BR>
+
+  <TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271501&code=12091">查詢</A><BR>
+  <TD>排球D</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271502
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=581">體育專項(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10824">豐東洋</A><BR>
+
+  <TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271502&code=10824">查詢</A><BR>
+  <TD>羽球D</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271503
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=581">體育專項(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22881">黃明雪</A><BR>
+
+  <TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>體適能D</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271504
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=581">體育專項(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10390">郭正煜</A><BR>
+
+  <TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271504&code=10390">查詢</A><BR>
+  <TD>籃球D</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271505
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=581">體育專項(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23762">任兆亮</A><BR>
+
+  <TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271505&code=23762">查詢</A><BR>
+  <TD>撞球B</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271506
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=581">體育專項(四)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10664">黎玉東</A><BR>
+
+  <TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>太極拳推手入門B</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271507
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=582">體育專項(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10824">豐東洋</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271507&code=10824">查詢</A><BR>
+  <TD>體適能E</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271508
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=582">體育專項(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10365">張資榮</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>羽球E</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271509
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=582">體育專項(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11081">蔣憶德</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271509&code=11081">查詢</A><BR>
+  <TD>籃球E</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271510
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=582">體育專項(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10664">黎玉東</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>太極拳推手入門C</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271511
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=582">體育專項(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11550">陳東韋</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271511&code=11550">查詢</A><BR>
+  <TD>網球E</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271512
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=582">體育專項(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10627">安振吉</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271512&code=10627">查詢</A><BR>
+  <TD>桌球E</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271513
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=582">體育專項(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10287">陸志成</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271513&code=10287">查詢</A><BR>
+  <TD>足球A</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271514
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=582">體育專項(五)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12091">張文馨</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271514&code=12091">查詢</A><BR>
+  <TD>排球E</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271515
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=583">體育專項(六)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10824">豐東洋</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271515&code=10824">查詢</A><BR>
+  <TD>體適能F</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271516
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=583">體育專項(六)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10365">張資榮</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>羽球F</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271517
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=583">體育專項(六)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11081">蔣憶德</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271517&code=11081">查詢</A><BR>
+  <TD>籃球F</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271518
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=583">體育專項(六)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10664">黎玉東</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>太極拳推手入門 D</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271519
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=583">體育專項(六)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11550">陳東韋</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271519&code=11550">查詢</A><BR>
+  <TD>網球F</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271520
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=583">體育專項(六)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10697">林惟鐘</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271520&code=10697">查詢</A><BR>
+  <TD>桌球F</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271521
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=583">體育專項(六)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10287">陸志成</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271521&code=10287">查詢</A><BR>
+  <TD>足球B</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271522
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=583">體育專項(六)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12091">張文馨</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271522&code=12091">查詢</A><BR>
+  <TD>排球F</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271523
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=584">體育專項(七)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10697">林惟鐘</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271523&code=10697">查詢</A><BR>
+  <TD>桌球G</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271524
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=584">體育專項(七)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10365">張資榮</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>羽球G</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271525
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=584">體育專項(七)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10390">郭正煜</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271525&code=10390">查詢</A><BR>
+  <TD>籃球G</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271526
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=584">體育專項(七)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11172">林威玲</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>肢體美學C</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271527
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=584">體育專項(七)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10287">陸志成</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271527&code=10287">查詢</A><BR>
+  <TD>足球C</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271528
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=584">體育專項(七)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11550">陳東韋</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271528&code=11550">查詢</A><BR>
+  <TD>網球G</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271529
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=584">體育專項(七)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10824">豐東洋</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271529&code=10824">查詢</A><BR>
+  <TD>體適能G</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271530
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=584">體育專項(七)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12091">張文馨</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271530&code=12091">查詢</A><BR>
+  <TD>排球G</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271531
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=585">體育專項(八)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10697">林惟鐘</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271531&code=10697">查詢</A><BR>
+  <TD>桌球H</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271532
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=585">體育專項(八)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10365">張資榮</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>羽球H</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271533
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=585">體育專項(八)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10390">郭正煜</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271533&code=10390">查詢</A><BR>
+  <TD>籃球H</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271534
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=585">體育專項(八)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11172">林威玲</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>身心美學D</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271535
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=585">體育專項(八)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10287">陸志成</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271535&code=10287">查詢</A><BR>
+  <TD>足球D</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271536
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=585">體育專項(八)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11550">陳東韋</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271536&code=11550">查詢</A><BR>
+  <TD>網球H</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271537
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=585">體育專項(八)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10824">豐東洋</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271537&code=10824">查詢</A><BR>
+  <TD>體適能H</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271538
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=585">體育專項(八)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12091">張文馨</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271538&code=12091">查詢</A><BR>
+  <TD>排球H</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271539
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2036">體育專項(九)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23654">簡名豪</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>6 7 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>籃球I</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271540
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2036">體育專項(九)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23949">林偉達</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>6 7 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>桌球I</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271541
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2036">體育專項(九)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11172">林威玲</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>6 7 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>肢體美學E</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271542
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2036">體育專項(九)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11829">周峻忠</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>6 7 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271542&code=11829">查詢</A><BR>
+  <TD>網球I</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271543
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2036">體育專項(九)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24136">陳家信</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>6 7 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271543&code=24136">查詢</A><BR>
+  <TD>體適能I</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271544
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2036">體育專項(九)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22881">黃明雪</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>6 7 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>排球G</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271545
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>3
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2036">體育專項(九)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11459">黃耀宗</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>6 7 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271545&code=11459">查詢</A><BR>
+  <TD>羽球I</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271546
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2037">體育專項(十)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23654">簡名豪</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>籃球J</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271547
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2037">體育專項(十)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23949">林偉達</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>桌球J</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271548
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2037">體育專項(十)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11172">林威玲</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>身心美學F</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271549
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2037">體育專項(十)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11829">周峻忠</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271549&code=11829">查詢</A><BR>
+  <TD>網球J</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271550
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2037">體育專項(十)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24136">陳家信</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271550&code=24136">查詢</A><BR>
+  <TD>體適能J</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271551
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2037">體育專項(十)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22881">黃明雪</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>排球H</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271552
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>5
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2037">體育專項(十)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11459">黃耀宗</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271552&code=11459">查詢</A><BR>
+  <TD>羽球J</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271553
+<td><A href="Curr.jsp?format=-2&code=1004001">體育</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=158">大學體育選修</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10697">林惟鐘</A><BR>
+
+  <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271553&code=10697">查詢</A><BR>
+  <TD>桌球(畢)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271554
+<td><A href="Curr.jsp?format=-2&code=1004001">體育</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=158">大學體育選修</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10664">黎玉東</A><BR>
+
+  <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271554&code=10664">查詢</A><BR>
+  <TD>排球(畢)/須修過2個學期以上排球課</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271555
+<td><A href="Curr.jsp?format=-2&code=1004001">體育</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=158">大學體育選修</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10390">郭正煜</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>1 2 
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271555&code=10390">查詢</A><BR>
+  <TD>籃球A(畢)/組隊方式選課，請洽授課教師，分機3305</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271556
+<td><A href="Curr.jsp?format=-2&code=1004001">體育</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=158">大學體育選修</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10390">郭正煜</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271556&code=10390">查詢</A><BR>
+  <TD>籃球B(畢)/組隊方式選課，請洽授課教師，分機3305</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273614
+<td><A href="Curr.jsp?format=-2&code=1003002">體育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=347">職體育選項(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23950">陳皆榮</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>A B <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>桌球甲，上限30</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273615
+<td><A href="Curr.jsp?format=-2&code=1003002">體育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=347">職體育選項(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23942">沈啟賓</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>A B <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>桌球乙，上限30</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273616
+<td><A href="Curr.jsp?format=-2&code=1003002">體育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=347">職體育選項(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=21902">徐台閣</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>A B <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273616&code=21902">查詢</A><BR>
+  <TD>體適能甲，上限30</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273617
+<td><A href="Curr.jsp?format=-2&code=1003002">體育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=347">職體育選項(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=21511">余清芳</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>A B <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273617&code=21511">查詢</A><BR>
+  <TD>排球甲，上限30</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273618
+<td><A href="Curr.jsp?format=-2&code=1003002">體育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=347">職體育選項(一)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23279">林正仰</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>A B <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>羽球甲，上限30</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273619
+<td><A href="Curr.jsp?format=-2&code=1003002">體育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=586">職體育選項(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23950">陳皆榮</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>C D <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>桌球丙，上限40</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273620
+<td><A href="Curr.jsp?format=-2&code=1003002">體育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=586">職體育選項(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23942">沈啟賓</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>C D <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>桌球丁，上限40</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273621
+<td><A href="Curr.jsp?format=-2&code=1003002">體育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=586">職體育選項(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=21902">徐台閣</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>C D <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273621&code=21902">查詢</A><BR>
+  <TD>體適能乙，上限40</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273622
+<td><A href="Curr.jsp?format=-2&code=1003002">體育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=586">職體育選項(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=21511">余清芳</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>C D <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273622&code=21511">查詢</A><BR>
+  <TD>排球乙，上限40</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273623
+<td><A href="Curr.jsp?format=-2&code=1003002">體育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=586">職體育選項(二)</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23279">林正仰</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>C D <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>羽球乙，上限40</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+
+</TABLE>
+<BR>
+<P><img src="../image/or_ball.gif"></img>各節次上課時間如下：
+<table border = 1>
+<tr align=center><td width="15%">1: 08:10 - 09:00<td width="15%">2: 09:10 - 10:00<td width="15%">3: 10:10 - 11:00<td width="15%">4: 11:10 - 12:00<td width="15%">N: 12:10 - 13:00
+<tr align=center><td>5: 13:10 - 14:00<td>6: 14:10 - 15:00<td>7: 15:10 - 16:00<td>8: 16:10 - 17:00<td>9: 17:10 - 18:00
+<tr align=center><td>A: 18:30 - 19:20<td>B: 19:20 - 20:10<td>C: 20:20 - 21:10<td>D: 21:10 - 22:00<td>　
+</table>
+
+<P>說明：</P>
+<OL>
+<LI>為避免欲查詢之資料量過大而影響速度，請適當地設定查詢條件。</LI>
+<LI>本資料係由本校各教學單位、教務處課務組、進修部教務組、進修學院教務組及計網中心所共同提供！</LI>
+<LI>本資料僅供參考，正式資料仍以教務處、進修部、進修學院所公佈之書面資料為準。</LI>
+</OL>
+</body>
+</HTML>

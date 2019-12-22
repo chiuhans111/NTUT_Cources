@@ -1,0 +1,1360 @@
+
+
+
+
+
+
+<HTML>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<TITLE>108學年度 第 2 學期 開課資料查詢結果</TITLE>
+<Script src="https://font.ntut.edu.tw/wfs/js/lib/wfs.js" type="text/javascript" ></script>
+</head>
+
+<body  bgcolor=#ffffdf background="../image/grey918y.gif" text=#003398>
+<H3>108 學年度 第 2 學期 開課資料查詢結果</H3>
+<TABLE border=1>
+  <TR>
+      <TH align=Center>課號</TH>
+      <TH align=Center>課程名稱</TH>
+      <TH align=Center>階段</TH>
+      <TH align=Center>學分</TH>
+      <TH align=Center>時數</TH>
+      <TH align=Center>修</TH>
+      <TH align=Center>班級</TH>
+      <TH align=Center>教師</TH>
+      <TH align=Center>日</TH>
+      <TH align=Center>一</TH>
+      <TH align=Center>二</TH>
+      <TH align=Center>三</TH>
+      <TH align=Center>四</TH>
+      <TH align=Center>五</TH>
+      <TH align=Center>六</TH>
+      <TH align=Center>教室</TH>
+      <TH align=Center>人</TH>
+      <TH align=Center>撤</TH>
+      <TH align=Center>教學<BR>助理</TH>
+      <TH align=Center>授課<BR>語言</TH>
+      <TH align=Center>教學大綱<BR>與進度表</TH>
+      <TH align=Center>備註</TH>
+      <TH align=Center>隨班<BR>附讀</TH>
+      <TH align=Center>實驗<BR>實習</TH>
+  </TR>
+<TR>
+<td>268366
+<td><A href="Curr.jsp?format=-2&code=1004002">體育</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">☆</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2082">互動四</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268367
+<td><A href="Curr.jsp?format=-2&code=AC14001">專題設計(M)</A>
+<td align=CENTER>2
+<td align=CENTER>4.0
+<td align=CENTER>8
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2082">互動四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23470">王明道</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23647">宋恆</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10666">李來春</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23246">洪兆宣</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=22805">葛毓茜</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=24017">謝適鴻</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11969">韓秉軒</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23573">簡明哲</A><BR>
+
+  <TD>　<TD>　<TD>5 6 7 8 <TD>　<TD>5 6 7 8 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=532">光華館410</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=268367&code=23470">查詢</A><BR><BR><BR><BR><BR><BR><A href="ShowSyllabus.jsp?snum=268367&code=11969">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268367&code=23573">查詢</A><BR>
+  <TD>限本系媒體設計組必修,請同學勿選錯組別!!</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268368
+<td><A href="Curr.jsp?format=-2&code=AC24001">專題設計(V)</A>
+<td align=CENTER>2
+<td align=CENTER>4.0
+<td align=CENTER>8
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2082">互動四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23470">王明道</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23647">宋恆</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10666">李來春</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23246">洪兆宣</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=22805">葛毓茜</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=24017">謝適鴻</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11969">韓秉軒</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23573">簡明哲</A><BR>
+
+  <TD>　<TD>　<TD>5 6 7 8 <TD>　<TD>5 6 7 8 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=532">光華館410</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=268368&code=23470">查詢</A><BR><BR><BR><BR><BR><BR><A href="ShowSyllabus.jsp?snum=268368&code=11969">查詢</A><BR><A href="ShowSyllabus.jsp?snum=268368&code=23573">查詢</A><BR>
+  <TD>限本系視覺傳達設計組必修,請同學勿選錯組別!!</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>268369
+<td><A href="Curr.jsp?format=-2&code=AC04503">設計創業與管理</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2082">互動四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10666">李來春</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=532">光華館410</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>修課人數上限30人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269058
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>6
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2203">互動三</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269060
+<td><A href="Curr.jsp?format=-2&code=1419995">博雅選修課程</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2203">互動三</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269061
+<td><A href="Curr.jsp?format=-2&code=AC13002">互動設計創作(二) (M)</A>
+<td align=CENTER>1
+<td align=CENTER>4.0
+<td align=CENTER>8
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2203">互動三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11393">吳可久</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=22926">李明道</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23817">林筱玫</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23572">張群儀</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=22936">楊佳璋</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23120">薛方杰</A><BR>
+
+  <TD>　<TD>5 6 7 8 <TD>　<TD>　<TD>1 2 3 4 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=509">光華館403</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR><BR><A href="ShowSyllabus.jsp?snum=269061&code=23572">查詢</A><BR><BR><BR>
+  <TD>限本系媒體設計組必修,請同學勿選錯組別!!</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269062
+<td><A href="Curr.jsp?format=-2&code=AC23002">互動設計創作(二) (V)</A>
+<td align=CENTER>1
+<td align=CENTER>4.0
+<td align=CENTER>8
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2203">互動三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11393">吳可久</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=22926">李明道</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23817">林筱玫</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23572">張群儀</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=22936">楊佳璋</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23120">薛方杰</A><BR>
+
+  <TD>　<TD>5 6 7 8 <TD>　<TD>　<TD>1 2 3 4 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=509">光華館403</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR><BR><A href="ShowSyllabus.jsp?snum=269062&code=23572">查詢</A><BR><BR><BR>
+  <TD>限本系視覺傳達設計組必修,請同學勿選錯組別!!</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269069
+<td><A href="Curr.jsp?format=-2&code=AC03512">擴增實境應用與設計</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2203">互動三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23869">盧俊諺</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11969">韓秉軒</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=509">光華館403</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><A href="ShowSyllabus.jsp?snum=269069&code=11969">查詢</A><BR>
+  <TD>限本系生&第二專長(A)修,限50人,需自備筆電</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269071
+<td><A href="Curr.jsp?format=-2&code=AC03515">設計運算思維</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2203">互動三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11393">吳可久</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10666">李來春</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11463">范政揆</A><BR>
+
+  <TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=509">光華館403</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR><BR>
+  <TD>限本系生&第二專長(B)修,限50人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269074
+<td><A href="Curr.jsp?format=-2&code=AC13507">多媒體技術與應用2</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2203">互動三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24241">林廷宇</A><BR>
+
+  <TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=526">光華館405</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269074&code=24241">查詢</A><BR>
+  <TD>限本系生,媒體設計組選修,限70人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269075
+<td><A href="Curr.jsp?format=-2&code=AC23503">企業識別系統</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2203">互動三</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23676">張瑞光</A><BR>
+
+  <TD>　<TD>　<TD>8 9 A <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=509">光華館403</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>限本系生,視覺傳達設計組選修,限50人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269584
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>4
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2322">互動二</A><BR>
+
+<td>　
+  <TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269585
+<td><A href="Curr.jsp?format=-2&code=1419987">博雅核心課程-社哲</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2322">互動二</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>1 2 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：通識中心/博雅核心-社哲(三)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269586
+<td><A href="Curr.jsp?format=-2&code=1419992">博雅選修課程</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2322">互動二</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269587
+<td><A href="Curr.jsp?format=-2&code=14E0001">多元英文</A>
+<td align=CENTER>2
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2322">互動二</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>4 <TD>3 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：校院級課程/大二多元英文(五)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269588
+<td><A href="Curr.jsp?format=-2&code=AC02003">設計心理學</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2322">互動二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11334">陳圳卿</A><BR>
+
+  <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>請排大教室,限本系生&第二專長(B)修,限85人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269589
+<td><A href="Curr.jsp?format=-2&code=AC02004">互動程式設計II</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2322">互動二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23368">曾吉弘</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>8 9 A <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=526">光華館405</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>限本系生修,上限74人(含微學程*2名)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269590
+<td><A href="Curr.jsp?format=-2&code=AC12003">創意設計(二) (M)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>8
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2322">互動二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23680">吳國禎</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23816">胡縉祥</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11334">陳圳卿</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23397">楊宙航</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23869">盧俊諺</A><BR>
+
+  <TD>　<TD>　<TD>5 6 7 8 <TD>　<TD>　<TD>1 2 3 4 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=527">光華館406</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR><BR><BR><BR>
+  <TD>限本系媒體設計組必修,請勿選錯!!(新聘教師)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269591
+<td><A href="Curr.jsp?format=-2&code=AC22003">創意設計(二) (V)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>8
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2322">互動二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23680">吳國禎</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23816">胡縉祥</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11334">陳圳卿</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23397">楊宙航</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23869">盧俊諺</A><BR>
+
+  <TD>　<TD>　<TD>5 6 7 8 <TD>　<TD>　<TD>1 2 3 4 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=527">光華館406</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR><BR><BR><BR>
+  <TD>限本系視覺傳達設計組必修,請勿選錯!!(新聘教師)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269592
+<td><A href="Curr.jsp?format=-2&code=C300001">設計實作</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2322">互動二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11730">葛如鈞</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>請排大教室,限本系生,修課上限85人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269594
+<td><A href="Curr.jsp?format=-2&code=AC02504">數位音樂創作</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2322">互動二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11533">鄭建文</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=526">光華館405</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269594&code=11533">查詢</A><BR>
+  <TD>修課上限50人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269597
+<td><A href="Curr.jsp?format=-2&code=AC02509">虛擬實境全景影片實作</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2322">互動二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11969">韓秉軒</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>8 9 A <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=536">光華館411</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=269597&code=11969">查詢</A><BR>
+  <TD>限本系生&第二專長(A)修,限18人(不開放外系)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>269599
+<td><A href="Curr.jsp?format=-2&code=AC12504">電腦動畫II</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2322">互動二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11680">龍祈澔</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>8 9 A <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=526">光華館405</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>限本系生&第二專長(A)修,限50人(需先修過電腦動畫I)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270160
+<td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2442">互動一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23940">王敏憲</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270161
+<td><A href="Curr.jsp?format=-2&code=1101006">全民國防教育</A>
+<td align=CENTER>2
+<td align=CENTER>0.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2442">互動一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11895">施欽富</A><BR>
+
+  <TD>　<TD>　<TD>2 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=333">三教201</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270162
+<td><A href="Curr.jsp?format=-2&code=1400027">英文閱讀與聽講練習</A>
+<td align=CENTER>2
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2442">互動一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11912">陳玟心</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>7 8 <TD>5 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=270162&code=11912">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270163
+<td><A href="Curr.jsp?format=-2&code=1400099">服務學習</A>
+<td align=CENTER>1
+<td align=CENTER>0.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2442">互動一</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>9 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270164
+<td><A href="Curr.jsp?format=-2&code=1404003">國文</A>
+<td align=CENTER>2
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2442">互動一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23484">王慧燕</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270165
+<td><A href="Curr.jsp?format=-2&code=1419984">博雅核心課程-法治</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2442">互動一</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>7 8 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：通識中心/博雅核心-法治(二)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270166
+<td><A href="Curr.jsp?format=-2&code=1419988">博雅核心課程-創創</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2442">互動一</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請選：通識中心/博雅核心-創創(一)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270167
+<td><A href="Curr.jsp?format=-2&code=AC01008">基本設計(二)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>8
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2442">互動一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23405">莊育鯉</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23574">黃宗偉</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11533">鄭建文</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=23403">盧育群</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11680">龍祈澔</A><BR>
+
+  <TD>　<TD>5 6 7 8 <TD>　<TD>　<TD>6 7 8 9 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=510">光華館404</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=270167&code=23405">查詢</A><BR><BR><A href="ShowSyllabus.jsp?snum=270167&code=11533">查詢</A><BR><BR><BR>
+  <TD>限本系生,轉/復學生需先修過_基本設計(一)才能修此課</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270168
+<td><A href="Curr.jsp?format=-2&code=AC12001">互動媒體腳本企劃</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2438">創意一</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2442">互動一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11730">葛如鈞</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>9 A <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>請排大教室,創意一合開,第2專長(A)修,限85人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270169
+<td><A href="Curr.jsp?format=-2&code=AC21001">色彩學</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2442">互動一</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>請排大教室,限本系生,限75人,新聘教師</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270170
+<td><A href="Curr.jsp?format=-2&code=C300003">程式設計入門</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2442">互動一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11969">韓秉軒</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=526">光華館405</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=270170&code=11969">查詢</A><BR>
+  <TD>限本系生,75人上限,需自帶筆電</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270171
+<td><A href="Curr.jsp?format=-2&code=AC01503">進階設計素描</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2442">互動一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23576">傅斌暉</A><BR>
+
+  <TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=510">光華館404</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>限本系生,限35人(106學年開設)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270174
+<td><A href="Curr.jsp?format=-2&code=AC01506">互動音像設計</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2442">互動一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11533">鄭建文</A><BR>
+
+  <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=526">光華館405</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=270174&code=11533">查詢</A><BR>
+  <TD>修課上限35人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270177
+<td><A href="Curr.jsp?format=-2&code=AC21502">基礎電腦輔助設計(二)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2442">互動一</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11680">龍祈澔</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>8 9 A <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=526">光華館405</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>視覺傳達設計組選修,第二專長(A)修,限50人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271348
+<td><A href="Curr.jsp?format=-2&code=AC05004">研究方法（二）</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2471">互動所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11393">吳可久</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=503">六教B216</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>限本系生,修課上限21人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271349
+<td><A href="Curr.jsp?format=-2&code=AC05005">互動媒體設計專題（二）</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2471">互動所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11494">王聖銘</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11730">葛如鈞</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11633">戴楠青</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=503">六教B216</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><BR><BR>
+  <TD>限本系生,修課上限21人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271356
+<td><A href="Curr.jsp?format=-2&code=AC05221">互動技術之服務設計</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2457">資工所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2471">互動所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2474">互動與創新外生專班</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2478">設計博所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11494">王聖銘</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><BR>
+  <TD>請排二教102or103/限20人/日碩&外生碩&資工系&設計博</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271359
+<td><A href="Curr.jsp?format=-2&code=AC05225">使用者經驗設計與評量</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2471">互動所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11494">王聖銘</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>使用設計603室,日碩&設計博合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271360
+<td><A href="Curr.jsp?format=-2&code=AC05226">數位媒材與感知研究</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2471">互動所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11633">戴楠青</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>請排光華409室,限12人,日職合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271361
+<td><A href="Curr.jsp?format=-2&code=AC05227">高動態範圍影像</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2471">互動所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2474">互動與創新外生專班</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2478">設計博所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11633">戴楠青</A><BR>
+
+  <TD>　<TD>A B <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><BR>
+  <TD>請排光華409室,限12人,日碩&職碩&外生碩&設計博合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271362
+<td><A href="Curr.jsp?format=-2&code=AC05230">設計研究</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2471">互動所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2474">互動與創新外生專班</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2478">設計博所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11633">戴楠青</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=546">國百館402</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><BR>
+  <TD>限15人,外生碩.&日碩班&設計博合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271363
+<td><A href="Curr.jsp?format=-2&code=AC05231">設計思考與資料科學</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2471">互動所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2474">互動與創新外生專班</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2478">設計博所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11494">王聖銘</A><BR>
+
+  <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=546">國百館402</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><BR>
+  <TD>限15人,外生碩.&日碩班合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271366
+<td><A href="Curr.jsp?format=-2&code=AC06202">認知心理學</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2471">互動所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23133">盧禎慧</A><BR>
+
+  <TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>請排三教511室,限22人修課</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271699
+<td><A href="Curr.jsp?format=-2&code=AC06001">論文</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2471">互動所</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>碩二生上下學期需各選過一次</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272764
+<td><A href="Curr.jsp?format=-2&code=AC05104">研究方法（二）</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2499">職互動所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11393">吳可久</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>請排進修部教室</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272765
+<td><A href="Curr.jsp?format=-2&code=AC05105">互動媒體設計專題（二）</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2499">職互動所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11730">葛如鈞</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11533">鄭建文</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11680">龍祈澔</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>B C D <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><A href="ShowSyllabus.jsp?snum=272765&code=11533">查詢</A><BR><BR>
+  <TD>請排進修部教室</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272766
+<td><A href="Curr.jsp?format=-2&code=AC05226">數位媒材與感知研究</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2499">職互動所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11633">戴楠青</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>請排光華409室,上限5人,日職合開</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272771
+<td><A href="Curr.jsp?format=-2&code=AC05314">人機介面設計</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2499">職互動所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11334">陳圳卿</A><BR>
+
+  <TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>請排進修部教室,修課上限30人,日職合開</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273300
+<td><A href="Curr.jsp?format=-2&code=AC05227">高動態範圍影像</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2499">職互動所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11633">戴楠青</A><BR>
+
+  <TD>　<TD>A B <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><BR>
+  <TD>請排光華409室,上限5人,日碩&職碩&外生碩&設計博合開</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273579
+<td><A href="Curr.jsp?format=-2&code=AC13507">多媒體技術與應用2</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2322">互動二</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=24240">郭龍</A><BR>
+
+  <TD>　<TD>8 9 A <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=526">光華館405</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>限本系生,修課上限70人(不開放外系)</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273581
+<td><A href="Curr.jsp?format=-2&code=AC05309">擴增實境的應用實務</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2499">職互動所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10666">李來春</A><BR>
+
+  <TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>請排進修部教室,修課上限30人</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273651
+<td><A href="Curr.jsp?format=-2&code=AC06201">人機介面設計</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2471">互動所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11334">陳圳卿</A><BR>
+
+  <TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=451">六教726</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>使用進修部排課教室,限30人,日職合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+
+</TABLE>
+<BR>
+<P><img src="../image/or_ball.gif"></img>各節次上課時間如下：
+<table border = 1>
+<tr align=center><td width="15%">1: 08:10 - 09:00<td width="15%">2: 09:10 - 10:00<td width="15%">3: 10:10 - 11:00<td width="15%">4: 11:10 - 12:00<td width="15%">N: 12:10 - 13:00
+<tr align=center><td>5: 13:10 - 14:00<td>6: 14:10 - 15:00<td>7: 15:10 - 16:00<td>8: 16:10 - 17:00<td>9: 17:10 - 18:00
+<tr align=center><td>A: 18:30 - 19:20<td>B: 19:20 - 20:10<td>C: 20:20 - 21:10<td>D: 21:10 - 22:00<td>　
+</table>
+
+<P>說明：</P>
+<OL>
+<LI>為避免欲查詢之資料量過大而影響速度，請適當地設定查詢條件。</LI>
+<LI>本資料係由本校各教學單位、教務處課務組、進修部教務組、進修學院教務組及計網中心所共同提供！</LI>
+<LI>本資料僅供參考，正式資料仍以教務處、進修部、進修學院所公佈之書面資料為準。</LI>
+</OL>
+</body>
+</HTML>

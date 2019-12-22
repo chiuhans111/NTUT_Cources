@@ -1,0 +1,590 @@
+
+
+
+
+
+
+<HTML>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<TITLE>108學年度 第 2 學期 開課資料查詢結果</TITLE>
+<Script src="https://font.ntut.edu.tw/wfs/js/lib/wfs.js" type="text/javascript" ></script>
+</head>
+
+<body  bgcolor=#ffffdf background="../image/grey918y.gif" text=#003398>
+<H3>108 學年度 第 2 學期 開課資料查詢結果</H3>
+<TABLE border=1>
+  <TR>
+      <TH align=Center>課號</TH>
+      <TH align=Center>課程名稱</TH>
+      <TH align=Center>階段</TH>
+      <TH align=Center>學分</TH>
+      <TH align=Center>時數</TH>
+      <TH align=Center>修</TH>
+      <TH align=Center>班級</TH>
+      <TH align=Center>教師</TH>
+      <TH align=Center>日</TH>
+      <TH align=Center>一</TH>
+      <TH align=Center>二</TH>
+      <TH align=Center>三</TH>
+      <TH align=Center>四</TH>
+      <TH align=Center>五</TH>
+      <TH align=Center>六</TH>
+      <TH align=Center>教室</TH>
+      <TH align=Center>人</TH>
+      <TH align=Center>撤</TH>
+      <TH align=Center>教學<BR>助理</TH>
+      <TH align=Center>授課<BR>語言</TH>
+      <TH align=Center>教學大綱<BR>與進度表</TH>
+      <TH align=Center>備註</TH>
+      <TH align=Center>隨班<BR>附讀</TH>
+      <TH align=Center>實驗<BR>實習</TH>
+  </TR>
+<TR>
+<td>270800
+<td><A href="Curr.jsp?format=-2&code=5807001">論文</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2456">創新所</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>碩二同學務必於畢業前修滿兩門論文</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270801
+<td><A href="Curr.jsp?format=-2&code=5816202">專題討論（二）</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2456">創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11004">王鴻祥</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=12035">李易叡</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11463">范政揆</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11578">張若菡</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10433">陳文印</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11275">陳殿禮</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10971">彭瑞玟</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11078">黃啟梧</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11079">黃銘智</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11540">鄭孟淙</A><BR>
+
+  <TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=387">設計106</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=270801&code=11004">查詢</A><BR><A href="ShowSyllabus.jsp?snum=270801&code=12035">查詢</A><BR><BR><BR><BR><BR><BR><BR><A href="ShowSyllabus.jsp?snum=270801&code=11079">查詢</A><BR><A href="ShowSyllabus.jsp?snum=270801&code=11540">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270832
+<td><A href="Curr.jsp?format=-2&code=5806039">設計領導與策略</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2456">創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10433">陳文印</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=389">設計207</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>設計博和創新所合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270833
+<td><A href="Curr.jsp?format=-2&code=5806041">統計學</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2456">創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22749">吳世光</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=309">設計301</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=270833&code=22749">查詢</A><BR>
+  <TD>選課人數上限40人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270857
+<td><A href="Curr.jsp?format=-2&code=5807030">數位化設計專案研究(一)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2456">創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11079">黃銘智</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=392">設計306</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=270857&code=11079">查詢</A><BR>
+  <TD>日職合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>270895
+<td><A href="Curr.jsp?format=-2&code=5826205">使用者導向設計與跨專業合作創新</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2456">創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=21840">梁又照</A><BR>
+
+  <TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>工設三四與日職碩合開；一教1F教室；選課人數上限10人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271654
+<td><A href="Curr.jsp?format=-2&code=5806004">創新設計思維</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2456">創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10433">陳文印</A><BR>
+
+  <TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=389">設計207</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271655
+<td><A href="Curr.jsp?format=-2&code=5825208">日本設計研究</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2456">創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11540">鄭孟淙</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=389">設計207</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271655&code=11540">查詢</A><BR>
+  <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271656
+<td><A href="Curr.jsp?format=-2&code=5825218">創新講座-創意與創新思維(一)</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>1
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2456">創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11275">陳殿禮</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>A <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>工設四、日碩合開；創新創業；選課人數上限60人</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271657
+<td><A href="Curr.jsp?format=-2&code=5805008">設計思潮研究</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2456">創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11004">王鴻祥</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=139">設計603</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271657&code=11004">查詢</A><BR>
+  <TD>日職合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271658
+<td><A href="Curr.jsp?format=-2&code=5807067">仿生設計專題討論</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2456">創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11004">王鴻祥</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=139">設計603</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271658&code=11004">查詢</A><BR>
+  <TD>日職合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271659
+<td><A href="Curr.jsp?format=-2&code=5807042">進階整合設計研究與實務專題(二)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2456">創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10971">彭瑞玟</A><BR>
+
+  <TD>　<TD>9 A B C <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=389">設計207</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>日職合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>271660
+<td><A href="Curr.jsp?format=-2&code=5806031">同步工程研究</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2456">創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11079">黃銘智</A><BR>
+
+  <TD>　<TD>A B C D <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=309">設計301</A><BR>
+
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=271660&code=11079">查詢</A><BR>
+  <TD>日職合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272577
+<td><A href="Curr.jsp?format=-2&code=5806003">專題討論(二)</A>
+<td align=CENTER>1
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2493">職創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11004">王鴻祥</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10433">陳文印</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11275">陳殿禮</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=10971">彭瑞玟</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11078">黃啟梧</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11079">黃銘智</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11540">鄭孟淙</A><BR>
+
+  <TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=272577&code=11004">查詢</A><BR><BR><BR><BR><BR><A href="ShowSyllabus.jsp?snum=272577&code=11079">查詢</A><BR><A href="ShowSyllabus.jsp?snum=272577&code=11540">查詢</A><BR>
+  <TD>設計106</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272578
+<td><A href="Curr.jsp?format=-2&code=5807001">論文</A>
+<td align=CENTER>2
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2493">職創新所</A><BR>
+
+<td>　
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center>　
+  <TD>碩二同學務必於畢業前修滿兩門論文</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272606
+<td><A href="Curr.jsp?format=-2&code=5807004">創新管理</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2493">職創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10433">陳文印</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>設計207</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272625
+<td><A href="Curr.jsp?format=-2&code=5807030">數位化設計專案研究(一)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2493">職創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11079">黃銘智</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=272625&code=11079">查詢</A><BR>
+  <TD>日職合開；設計306</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>272647
+<td><A href="Curr.jsp?format=-2&code=5826205">使用者導向設計與跨專業合作創新</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2493">職創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=21840">梁又照</A><BR>
+
+  <TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>工設三四與日職碩合開；一教1F教室；選課人數上限10人</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273037
+<td><A href="Curr.jsp?format=-2&code=5805008">設計思潮研究</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2493">職創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11004">王鴻祥</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273037&code=11004">查詢</A><BR>
+  <TD>日職合開；設計603</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273038
+<td><A href="Curr.jsp?format=-2&code=5807067">仿生設計專題討論</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2493">職創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11004">王鴻祥</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273038&code=11004">查詢</A><BR>
+  <TD>日職合開；設計603</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273039
+<td><A href="Curr.jsp?format=-2&code=5807042">進階整合設計研究與實務專題(二)</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2493">職創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10971">彭瑞玟</A><BR>
+
+  <TD>　<TD>9 A B C <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR>
+  <TD>日職合開；設計207</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273040
+<td><A href="Curr.jsp?format=-2&code=5806031">同步工程研究</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>4
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2493">職創新所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11079">黃銘智</A><BR>
+
+  <TD>　<TD>A B C D <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273040&code=11079">查詢</A><BR>
+  <TD>日職合開；設計301</TD>
+<td align=CENTER>是</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273044
+<td><A href="Curr.jsp?format=-2&code=5807070">兒童發展及遊戲介入研究</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2456">創新所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2478">設計博所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12035">李易叡</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>0</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=273044&code=12035">查詢</A><BR>
+  <TD>創新所與設計博合開 (英語授課)；請排教務處一般教室</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+
+</TABLE>
+<BR>
+<P><img src="../image/or_ball.gif"></img>各節次上課時間如下：
+<table border = 1>
+<tr align=center><td width="15%">1: 08:10 - 09:00<td width="15%">2: 09:10 - 10:00<td width="15%">3: 10:10 - 11:00<td width="15%">4: 11:10 - 12:00<td width="15%">N: 12:10 - 13:00
+<tr align=center><td>5: 13:10 - 14:00<td>6: 14:10 - 15:00<td>7: 15:10 - 16:00<td>8: 16:10 - 17:00<td>9: 17:10 - 18:00
+<tr align=center><td>A: 18:30 - 19:20<td>B: 19:20 - 20:10<td>C: 20:20 - 21:10<td>D: 21:10 - 22:00<td>　
+</table>
+
+<P>說明：</P>
+<OL>
+<LI>為避免欲查詢之資料量過大而影響速度，請適當地設定查詢條件。</LI>
+<LI>本資料係由本校各教學單位、教務處課務組、進修部教務組、進修學院教務組及計網中心所共同提供！</LI>
+<LI>本資料僅供參考，正式資料仍以教務處、進修部、進修學院所公佈之書面資料為準。</LI>
+</OL>
+</body>
+</HTML>
