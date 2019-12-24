@@ -54,11 +54,11 @@
   <TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=451">六教726</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271226&code=23009">查詢</A><BR>
   <TD>IMBA&IMFI 張志揚老師(新聘)</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -76,7 +76,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=451">六教726</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -99,7 +99,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=451">六教726</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -122,11 +122,11 @@
   <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=488">科研大樓735</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271230&code=11537">查詢</A><BR>
   <TD>IMBA&IMFI,Max.20 (科研大樓735室)</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -170,7 +170,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=451">六教726</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -240,7 +240,7 @@
   <TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=451">六教726</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -268,7 +268,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271395&code=10584">查詢</A><BR><A href="ShowSyllabus.jsp?snum=271395&code=11429">查詢</A><BR>
   <TD>IMBA&IMFI 吳忠敏老師1學分 吳斯偉老師2學分</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -359,7 +359,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273050&code=12101">查詢</A><BR>
   <TD>IMBA&IMFI,Max.30</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -403,7 +403,7 @@
   <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=451">六教726</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語

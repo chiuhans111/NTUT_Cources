@@ -136,7 +136,7 @@
 <td>　
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>49</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -158,7 +158,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>50</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -181,7 +181,7 @@
 
   <TD>　<TD>　<TD>6 7 8 <TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>44</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -203,7 +203,7 @@
 
   <TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>42</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -225,7 +225,7 @@
 
   <TD>　<TD>1 <TD>　<TD>5 6 <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>14</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -331,7 +331,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>1 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>29</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -355,7 +355,7 @@
   <TD>　<TD>　<TD>1 2 <TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=28">二教303</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>36</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -377,7 +377,7 @@
 
   <TD>　<TD>2 <TD>　<TD>5 6 <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>29</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -399,7 +399,7 @@
 
   <TD>　<TD>　<TD>9 <TD>7 8 <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>29</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -421,7 +421,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>45</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -444,11 +444,11 @@
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>4 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=333">三教201</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>44</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269942&code=11895">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -490,11 +490,11 @@
 
   <TD>　<TD>　<TD>　<TD>9 <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>45</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269944&code=11895">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -513,7 +513,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=24">二教206</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>45</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -557,7 +557,7 @@
   <TD>　<TD>　<TD>8 <TD>6 7 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=24">二教206</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>45</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -580,7 +580,7 @@
   <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=24">二教206</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>45</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -601,8 +601,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11234">何文章</A><BR>
 
   <TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=524">億光0712</A><BR>
+
+  <TD align=Center>45</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -625,7 +626,7 @@
   <TD>　<TD>8 9 <TD>6 <TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=24">二教206</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>45</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -648,7 +649,7 @@
   <TD>　<TD>　<TD>　<TD>5 <TD>7 8 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=24">二教206</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>45</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -670,7 +671,7 @@
 
   <TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>45</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -691,7 +692,7 @@
 <td>　
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>8</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -735,7 +736,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -758,7 +759,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -780,7 +781,7 @@
 
   <TD>　<TD>　<TD>6 7 8 <TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>7</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -803,7 +804,7 @@
 
   <TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -826,7 +827,7 @@
 
   <TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -848,7 +849,7 @@
 
   <TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>6</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -869,7 +870,7 @@
 <td>　
   <TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1084,7 +1085,7 @@
 <td>　
   <TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>9</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1105,7 +1106,7 @@
 <td>　
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>5</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1127,7 +1128,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1149,7 +1150,7 @@
 
   <TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -1171,7 +1172,7 @@
 
   <TD>　<TD>6 7 8 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1193,7 +1194,7 @@
 
   <TD>　<TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1236,7 +1237,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>8 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1258,7 +1259,7 @@
 
   <TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1280,7 +1281,7 @@
 
   <TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1302,7 +1303,7 @@
 
   <TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1327,7 +1328,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>22</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1351,7 +1352,7 @@
 
   <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>40</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1374,7 +1375,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>34</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1418,7 +1419,7 @@
 
   <TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1440,7 +1441,7 @@
 
   <TD>　<TD>6 7 8 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>5</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1465,7 +1466,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>23</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1491,7 +1492,7 @@
 
   <TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>78</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1513,7 +1514,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>6</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1535,7 +1536,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>10</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1556,7 +1557,7 @@
 <td>　
   <TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1578,7 +1579,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>A B <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>19</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1687,7 +1688,7 @@
 
   <TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>5</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1709,7 +1710,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1731,7 +1732,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1759,6 +1760,54 @@
 <td align=CENTER>　
 <td align=center><BR>
   <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274255
+<td><A href="Curr.jsp?format=-2&code=4404003">電動車機電整合工程師能力培育</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1005">產業接軌課程(大)</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2070">車輛四</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12143">陳斌豪</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11321">黃秀英</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>2 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>11</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274255&code=12143">查詢</A><BR><A href="ShowSyllabus.jsp?snum=274255&code=11321">查詢</A><BR>
+  <TD>2/20上課,為配合IPAS考試時間,3小時/週,共12週</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>274256
+<td><A href="Curr.jsp?format=-2&code=4406003">電動車機電整合工程師能力培育</A>
+<td align=CENTER>1
+<td align=CENTER>2.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=1569">產業接軌課程(研)</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2448">車輛所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12143">陳斌豪</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11321">黃秀英</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>2 4 <TD>　<TD>　
+<td>　
+  <TD align=Center>1</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><A href="ShowSyllabus.jsp?snum=274256&code=12143">查詢</A><BR><A href="ShowSyllabus.jsp?snum=274256&code=11321">查詢</A><BR>
+  <TD>2/20上課,為配合IPAS考試時間,3小時/週,共12週</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>

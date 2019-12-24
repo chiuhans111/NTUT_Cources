@@ -75,7 +75,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=61">三教504</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -162,7 +162,7 @@
   <TD>　<TD>　<TD>　<TD>6 7 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=277">紡織二樓_1</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>30</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -183,7 +183,7 @@
 <td>　
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>30</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -205,7 +205,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>1 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>30</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -227,7 +227,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 8 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>13</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -250,7 +250,7 @@
   <TD>　<TD>6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=61">三教504</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>10</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -291,8 +291,7 @@
 
 <td>　
   <TD>　<TD>　<TD>8 <TD>1 2 <TD>　<TD>　<TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=62">三教505</A><BR>
-
+<td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -316,7 +315,7 @@
   <TD>　<TD>　<TD>1 2 <TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=277">紡織二樓_1</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>42</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -339,7 +338,7 @@
   <TD>　<TD>9 <TD>　<TD>　<TD>　<TD>7 8 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=277">紡織二樓_1</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>43</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -362,7 +361,7 @@
   <TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=61">三教504</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>43</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -385,7 +384,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=277">紡織二樓_1</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>43</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -407,7 +406,7 @@
 
   <TD>　<TD>　<TD>　<TD>7 8 9 A <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>24</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -429,7 +428,7 @@
 
   <TD>　<TD>5 6 7 8 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>33</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -451,7 +450,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>1 2 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>28</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -473,7 +472,7 @@
   <TD>　<TD>　<TD>　<TD>6 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=335">三教401</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>28</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -494,7 +493,7 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12005">王伯雅</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>8 <TD>3 4 <TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=21">二教203</A><BR>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=427">六教325</A><BR>
 <A href="Croom.jsp?format=-3&year=108&sem=2&code=11">一教303</A><BR>
 
   <TD align=Center>0</TD>
@@ -519,7 +518,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>9 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>28</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -542,7 +541,7 @@
   <TD>　<TD>　<TD>　<TD>7 8 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=61">三教504</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>27</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -586,7 +585,7 @@
   <TD>　<TD>　<TD>　<TD>2 <TD>3 4 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=61">三教504</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>28</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -609,7 +608,7 @@
   <TD>　<TD>5 6 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=277">紡織二樓_1</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>28</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -631,7 +630,7 @@
 
   <TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>12</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -655,7 +654,7 @@
   <TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=277">紡織二樓_1</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>56</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -677,7 +676,7 @@
 
   <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>28</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -700,7 +699,7 @@
   <TD>　<TD>　<TD>　<TD>5 <TD>6 7 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=277">紡織二樓_1</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>28</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -722,7 +721,7 @@
 
   <TD>　<TD>　<TD>　<TD>2 3 4 N <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>25</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -743,8 +742,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11975">魏暘</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=62">三教505</A><BR>
+
+  <TD align=Center>42</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -772,7 +772,7 @@
 <td>　
   <TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>40</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -794,7 +794,7 @@
 
   <TD>　<TD>7 8 9 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>24</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -863,7 +863,7 @@
   <TD>　<TD>　<TD>　<TD>5 <TD>　<TD>3 4 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=62">三教505</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>22</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -886,7 +886,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=109">紡織二樓_2</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>24</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -909,7 +909,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>8 9 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=62">三教505</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>21</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -932,7 +932,7 @@
   <TD>　<TD>3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=109">紡織二樓_2</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>14</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -955,7 +955,7 @@
   <TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=337">紡織一樓</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>15</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -978,7 +978,7 @@
   <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=277">紡織二樓_1</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>35</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1001,7 +1001,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=277">紡織二樓_1</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>42</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1023,7 +1023,7 @@
 
   <TD>　<TD>5 <TD>　<TD>　<TD>7 8 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>9</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　

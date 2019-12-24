@@ -54,7 +54,7 @@
   <TD>　<TD>　<TD>　<TD>5 6 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=87">五教303</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>9</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -77,7 +77,7 @@
   <TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=87">五教303</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>9</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -101,7 +101,7 @@
   <TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=87">五教303</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>7</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -125,7 +125,7 @@
   <TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=87">五教303</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -173,7 +173,7 @@
   <TD>　<TD>　<TD>　<TD>7 8 9 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=87">五教303</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>34</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -196,7 +196,7 @@
   <TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=45">三教302</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -242,7 +242,7 @@
 
   <TD>　<TD>　<TD>6 7 8 <TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>10</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -269,7 +269,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271460&code=11165">查詢</A><BR>
   <TD>EOMP和生化所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -309,7 +309,7 @@
   <TD>　<TD>　<TD>7 8 9 <TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=45">三教302</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　

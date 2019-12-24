@@ -81,7 +81,7 @@
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><A href="ShowSyllabus.jsp?snum=270630&code=10450">琩高</A><BR><A href="ShowSyllabus.jsp?snum=270630&code=11014">琩高</A><BR><BR><A href="ShowSyllabus.jsp?snum=270630&code=11080">琩高</A><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270630&code=10450">琩高</A><BR><A href="ShowSyllabus.jsp?snum=270630&code=11014">琩高</A><BR><A href="ShowSyllabus.jsp?snum=270630&code=12078">琩高</A><BR><A href="ShowSyllabus.jsp?snum=270630&code=11080">琩高</A><BR>
   <TD></TD>
 <td align=CENTER></TD>
 <td align=CENTER></TD>
@@ -101,7 +101,7 @@
 
   <TD><TD><TD><TD>6 7 8 9 <TD><TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -125,7 +125,7 @@
 
   <TD><TD><TD><TD>6 7 8 9 <TD><TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -151,7 +151,7 @@
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270645&code=12078">琩高</A><BR>
   <TD>縱の常┮秨</TD>
 <td align=CENTER></TD>
 <td align=CENTER></TD>
@@ -170,7 +170,7 @@
 
   <TD><TD><TD><TD><TD>5 6 7 <TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -192,7 +192,7 @@
 
   <TD><TD><TD><TD><TD>2 3 4 <TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -214,7 +214,7 @@
 
   <TD><TD><TD><TD><TD><TD>2 3 4 <TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -237,7 +237,7 @@
 
   <TD><TD><TD>A B C <TD><TD><TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -258,7 +258,7 @@
 <td>
   <TD><TD><TD><TD><TD><TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>6</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -280,7 +280,7 @@
 
   <TD><TD>A B C <TD><TD><TD><TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>5</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -302,7 +302,7 @@
 
   <TD><TD>A B C <TD><TD><TD><TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>8</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -324,7 +324,7 @@
 
   <TD><TD><TD><TD><TD>A B C <TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>6</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -346,7 +346,7 @@
 
   <TD><TD><TD><TD>A B C <TD><TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>11</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -368,7 +368,7 @@
 
   <TD><TD><TD>A B C <TD><TD><TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>7</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -413,7 +413,7 @@
 
   <TD><TD><TD><TD>2 3 4 <TD><TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -523,7 +523,7 @@
 
   <TD><TD><TD><TD><TD>2 3 4 <TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -550,7 +550,7 @@
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273925&code=12144">琩高</A><BR><BR>
   <TD>縱籔戮常┮秨</TD>
 <td align=CENTER>琌</TD>
 <td align=CENTER></TD>

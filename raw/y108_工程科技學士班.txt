@@ -55,7 +55,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>7 8 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=37">三教203</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>53</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -79,7 +79,7 @@
   <TD>　<TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=277">紡織二樓_1</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>56</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -101,7 +101,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>40</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -124,11 +124,11 @@
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=333">三教201</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>40</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270056&code=11941">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -146,7 +146,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>8 <TD>3 4 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=11">一教303</A><BR>
-<A href="Croom.jsp?format=-3&year=108&sem=2&code=72">四教201</A><BR>
+<A href="Croom.jsp?format=-3&year=108&sem=2&code=50">三教309</A><BR>
 
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
@@ -170,7 +170,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>9 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>40</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -193,7 +193,7 @@
   <TD>　<TD>5 6 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=72">四教201</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>40</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -237,7 +237,7 @@
   <TD>　<TD>　<TD>2 <TD>　<TD>6 7 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=43">三教209</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>40</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -261,7 +261,7 @@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=72">四教201</A><BR>
 <A href="Croom.jsp?format=-3&year=108&sem=2&code=43">三教209</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>40</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -282,8 +282,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11495">施坤龍</A><BR>
 
   <TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=522">億光0612</A><BR>
+
+  <TD align=Center>40</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -306,7 +307,7 @@
   <TD>　<TD>1 <TD>　<TD>　<TD>1 2 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=72">四教201</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>40</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -330,7 +331,7 @@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=231">化學103</A><BR>
 <A href="Croom.jsp?format=-3&year=108&sem=2&code=472">科研大樓332</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>40</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -353,7 +354,7 @@
   <TD>　<TD>　<TD>　<TD>3 4 <TD>5 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=72">四教201</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>25</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -374,7 +375,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10843">張哲豪</A><BR>
 
   <TD>　<TD>5 6 <TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=32">二教307</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -419,7 +421,7 @@
 
   <TD>　<TD>7 8 9 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>28</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語

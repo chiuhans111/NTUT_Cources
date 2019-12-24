@@ -54,7 +54,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -79,7 +79,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>13</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -102,8 +102,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11633">戴楠青</A><BR>
 
   <TD>　<TD>A B <TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=512">光華館409</A><BR>
+
+  <TD align=Center>7</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -128,7 +129,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=546">國百館402</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>11</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -153,7 +154,7 @@
   <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=546">國百館402</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -177,7 +178,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=546">國百館402</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>9</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -203,7 +204,7 @@
   <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=139">設計603</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -226,7 +227,7 @@
 
   <TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -249,7 +250,7 @@
   <TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=139">設計603</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -297,7 +298,7 @@
   <TD>　<TD>　<TD>　<TD>1 2 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=139">設計603</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>5</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -341,7 +342,7 @@
 
   <TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -433,7 +434,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=139">設計603</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>6</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　

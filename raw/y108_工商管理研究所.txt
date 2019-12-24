@@ -41,216 +41,6 @@
       <TH align=Center>實驗<BR>實習</TH>
   </TR>
 <TR>
-<td>271418
-<td><A href="Curr.jsp?format=-2&code=7407003">書報討論</A>
-<td align=CENTER>2
-<td align=CENTER>1.0
-<td align=CENTER>2
-<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2477">管理博所</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>271419
-<td><A href="Curr.jsp?format=-2&code=5707004">國際企業理論研討</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2477">管理博所</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>271420
-<td><A href="Curr.jsp?format=-2&code=5707005">組織管理理論研討</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2477">管理博所</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>271421
-<td><A href="Curr.jsp?format=-2&code=5707006">財務理論研討</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2477">管理博所</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>271422
-<td><A href="Curr.jsp?format=-2&code=5707007">策略理論研討</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2477">管理博所</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>271423
-<td><A href="Curr.jsp?format=-2&code=5707010">行銷理論研討</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2477">管理博所</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>271424
-<td><A href="Curr.jsp?format=-2&code=5707011">行銷專題研討</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2477">管理博所</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>271425
-<td><A href="Curr.jsp?format=-2&code=7407004">進階職場專業英文</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2477">管理博所</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>271426
-<td><A href="Curr.jsp?format=-2&code=7407006">資訊系統：策略與分析</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2477">管理博所</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>271427
-<td><A href="Curr.jsp?format=-2&code=7407007">行銷管理研討</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2477">管理博所</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
 <td>271713
 <td><A href="Curr.jsp?format=-2&code=7407001">博士論文</A>
 <td align=CENTER>2
@@ -285,11 +75,11 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>26</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273097&code=12096">查詢</A><BR>
   <TD>全英文上課/管理博班和工管所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -308,11 +98,11 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>15</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273102&code=11051">查詢</A><BR>
   <TD>工管大四20碩班15合開/管理博班和工管所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -331,7 +121,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>5</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -354,11 +144,11 @@
 
   <TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273106&code=10504">查詢</A><BR>
   <TD>管理博班和工管所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -377,7 +167,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>18</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -421,7 +211,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -443,12 +233,36 @@
 
   <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273797&code=10584">查詢</A><BR>
   <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273918
+<td><A href="Curr.jsp?format=-2&code=7407003">書報討論</A>
+<td align=CENTER>2
+<td align=CENTER>1.0
+<td align=CENTER>2
+<td align=CENTER><A href="Cprog.jsp?format=-5">▲</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2445">工管所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2477">管理博所</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10632">邱垂昱</A><BR>
+<A href="Teach.jsp?format=-3&year=108&sem=2&code=11396">陳育威</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
+<td>　
+  <TD align=Center>13</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>　
+<td align=center><BR><A href="ShowSyllabus.jsp?snum=273918&code=11396">查詢</A><BR>
+  <TD>管理博和工管博合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>

@@ -74,7 +74,7 @@
   <TD>ก@<TD>ก@<TD>ก@<TD>5 6 <TD>ก@<TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=264">คgค์5F_2</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>11</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -97,7 +97,7 @@
   <TD>ก@<TD>6 7 8 <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=382">คgค์201</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>16</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -120,7 +120,7 @@
   <TD>ก@<TD>2 3 4 <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=382">คgค์201</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>7</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -143,7 +143,7 @@
   <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>2 3 4 <TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=263">คgค์5F_1</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>8</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -166,7 +166,7 @@
   <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>5 6 7 <TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=260">คgค์2F</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -189,7 +189,7 @@
   <TD>ก@<TD>ก@<TD>ก@<TD>2 3 4 <TD>ก@<TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=382">คgค์201</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>15</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -212,7 +212,7 @@
   <TD>ก@<TD>ก@<TD>6 7 8 <TD>ก@<TD>ก@<TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=260">คgค์2F</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -235,11 +235,11 @@
   <TD>ก@<TD>ก@<TD>7 8 9 <TD>ก@<TD>ก@<TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=260">คgค์2F</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270461&code=11734">ฌdธ฿</A><BR>
   <TD>ก@</TD>
 <td align=CENTER>ก@</TD>
 <td align=CENTER>ก@</TD>
@@ -258,7 +258,7 @@
   <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>7 8 9 <TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=260">คgค์2F</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>7</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -281,7 +281,7 @@
   <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>2 3 4 <TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=257">คgค์1F_2</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -327,7 +327,7 @@
   <TD>ก@<TD>6 7 8 <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=260">คgค์2F</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -350,7 +350,7 @@
   <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>6 7 8 <TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=260">คgค์2F</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>10</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -373,7 +373,7 @@
   <TD>ก@<TD>6 7 8 <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=261">คgค์3F</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -396,7 +396,7 @@
   <TD>ก@<TD>2 3 4 <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=260">คgค์2F</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -419,7 +419,7 @@
   <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>2 3 4 <TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=257">คgค์1F_2</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -440,7 +440,7 @@
 <td>ก@
   <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>ก@
 <td>ก@
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -462,7 +462,7 @@
 
   <TD>ก@<TD>ก@<TD>A B C <TD>ก@<TD>ก@<TD>ก@<TD>ก@
 <td>ก@
-  <TD align=Center>0</TD>
+  <TD align=Center>12</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -484,7 +484,7 @@
 
   <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>A B C <TD>ก@<TD>ก@
 <td>ก@
-  <TD align=Center>0</TD>
+  <TD align=Center>6</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -506,7 +506,7 @@
 
   <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>A B C <TD>ก@<TD>ก@
 <td>ก@
-  <TD align=Center>0</TD>
+  <TD align=Center>6</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -528,7 +528,7 @@
 
   <TD>ก@<TD>ก@<TD>ก@<TD>2 3 4 <TD>ก@<TD>ก@<TD>ก@
 <td>ก@
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -551,7 +551,7 @@
   <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>6 7 8 <TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=382">คgค์201</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>10</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -574,7 +574,7 @@
   <TD>ก@<TD>ก@<TD>ก@<TD>2 3 4 <TD>ก@<TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=257">คgค์1F_2</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>6</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -597,7 +597,7 @@
   <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>2 3 4 <TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=382">คgค์201</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -620,7 +620,7 @@
   <TD>ก@<TD>ก@<TD>ก@<TD>2 3 4 <TD>ก@<TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=260">คgค์2F</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -643,7 +643,7 @@
   <TD>ก@<TD>ก@<TD>2 3 4 <TD>ก@<TD>ก@<TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=261">คgค์3F</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>7</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -688,7 +688,7 @@
   <TD>ก@<TD>ก@<TD>ก@<TD>7 8 <TD>ก@<TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=264">คgค์5F_2</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>40</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -711,7 +711,7 @@
   <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>7 8 9 <TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=263">คgค์5F_1</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>12</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -734,7 +734,7 @@
   <TD>ก@<TD>ก@<TD>5 6 7 <TD>ก@<TD>ก@<TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=261">คgค์3F</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -756,7 +756,7 @@
 
   <TD>ก@<TD>ก@<TD>ก@<TD>A B C <TD>ก@<TD>ก@<TD>ก@
 <td>ก@
-  <TD align=Center>0</TD>
+  <TD align=Center>6</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -778,7 +778,7 @@
 
   <TD>ก@<TD>A B C <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>ก@
 <td>ก@
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -800,7 +800,7 @@
 
   <TD>ก@<TD>ก@<TD>A B C <TD>ก@<TD>ก@<TD>ก@<TD>ก@
 <td>ก@
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -843,7 +843,7 @@
   <TD>ก@<TD>ก@<TD>ก@<TD>5 6 <TD>ก@<TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=264">คgค์5F_2</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
@@ -865,11 +865,11 @@
 
   <TD>ก@<TD>A B C <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>ก@
 <td>ก@
-  <TD align=Center>0</TD>
+  <TD align=Center>5</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273542&code=11734">ฌdธ฿</A><BR>
   <TD>ก@</TD>
 <td align=CENTER>ฌO</TD>
 <td align=CENTER>ก@</TD>
@@ -891,7 +891,7 @@
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273790&code=10391">ฌdธ฿</A><BR>
   <TD>ก@</TD>
 <td align=CENTER>ฌO</TD>
 <td align=CENTER>ก@</TD>
@@ -910,7 +910,7 @@
   <TD>ก@<TD>ก@<TD>ก@<TD>ก@<TD>6 7 8 <TD>ก@<TD>ก@
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=261">คgค์3F</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>ก@
 <td align=CENTER>ก@

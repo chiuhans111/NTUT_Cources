@@ -74,7 +74,7 @@
 
   <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -97,7 +97,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=530">億光1035</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -181,7 +181,7 @@
 <td>　
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>40</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -204,7 +204,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=544">億光0713</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>41</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -227,7 +227,7 @@
   <TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=545">億光0728</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>41</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -250,7 +250,7 @@
   <TD>　<TD>　<TD>　<TD>6 7 <TD>2 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=530">億光1035</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>41</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -273,7 +273,7 @@
   <TD>　<TD>　<TD>　<TD>8 <TD>　<TD>1 2 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=530">億光1035</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>15</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -296,7 +296,7 @@
   <TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=529">億光0935</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>25</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -319,7 +319,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=528">億光0835</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>9</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -402,8 +402,7 @@
 
 <td>　
   <TD>　<TD>3 4 <TD>5 <TD>　<TD>　<TD>　<TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=56">三教408</A><BR>
-
+<td>　
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -426,7 +425,7 @@
 
   <TD>　<TD>5 <TD>　<TD>　<TD>　<TD>3 4 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>37</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -449,7 +448,7 @@
   <TD>　<TD>　<TD>6 7 <TD>5 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=530">億光1035</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>37</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -472,7 +471,7 @@
   <TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=544">億光0713</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>37</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -495,7 +494,7 @@
   <TD>　<TD>　<TD>　<TD>2 <TD>5 6 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=56">三教408</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>37</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -518,11 +517,11 @@
   <TD>　<TD>　<TD>　<TD>　<TD>7 8 <TD>5 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=56">三教408</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>37</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=269498&code=10402">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -540,7 +539,7 @@
 
   <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>42</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -563,11 +562,11 @@
   <TD>　<TD>5 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=333">三教201</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>40</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270011&code=11837">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -609,7 +608,7 @@
 
   <TD>　<TD>　<TD>9 <TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>42</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -632,7 +631,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=41">三教207</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>42</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -697,7 +696,7 @@
   <TD>　<TD>　<TD>5 6 <TD>5 6 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=35">三教109</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>42</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -718,8 +717,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12147">陳美杏</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=524">億光0712</A><BR>
+
+  <TD align=Center>42</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -742,7 +742,7 @@
   <TD>　<TD>　<TD>　<TD>7 8 <TD>5 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=41">三教207</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>42</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -764,7 +764,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>42</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -787,11 +787,11 @@
   <TD>　<TD>7 8 <TD>　<TD>　<TD>　<TD>7 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=19">二教201</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>42</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270021&code=10402">查詢</A><BR>
   <TD>請排70人大教室,星期五8為輔導課</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -810,11 +810,11 @@
   <TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=41">三教207</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>25</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270022&code=23048">查詢</A><BR>
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -832,7 +832,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>1 2 5 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>27</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -853,8 +853,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11069">陳隆建</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=343">綜三演講廳</A><BR>
+
+  <TD align=Center>38</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -900,7 +901,7 @@
   <TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=545">億光0728</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>25</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -923,7 +924,7 @@
 
   <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>6</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -946,7 +947,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>1 5 6 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -969,7 +970,7 @@
   <TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=528">億光0835</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>5</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -992,7 +993,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=529">億光0935</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1016,7 +1017,7 @@
   <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=528">億光0835</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>7</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -1079,8 +1080,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=22573">劉立雯</A><BR>
 
   <TD>　<TD>B C D <TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=70">四教102</A><BR>
+
+  <TD align=Center>5</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1103,7 +1105,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>1 5 6 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -1119,14 +1121,15 @@
 <td align=CENTER>3.0
 <td align=CENTER>3
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2196">光電三</A><BR>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2075">光電四</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2196">光電三</A><BR>
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11291">林家弘</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=535">億光1115</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>11</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1150,37 +1153,14 @@
   <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=383">共同411</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>8</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273714&code=11897">查詢</A><BR>
   <TD>未來擬抵研究所不列大學畢業學分者,請選研究所課號</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>273716
-<td><A href="Curr.jsp?format=-2&code=6504577">顯示面板含實習</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2075">光電四</A><BR>
-
-<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11291">林家弘</A><BR>
-
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=535">億光1115</A><BR>
-
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center><BR>
-  <TD>限15人,部份週次整天在友達工廠, 已修畢者勿重修</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>是</TD>
 </TR>
 <TR>
 <td>273717
@@ -1195,7 +1175,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1240,7 +1220,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>10</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1262,7 +1242,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>10</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1285,7 +1265,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=530">億光1035</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1308,7 +1288,7 @@
   <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=529">億光0935</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1331,7 +1311,7 @@
   <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=529">億光0935</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -1355,7 +1335,7 @@
   <TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=535">億光1115</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>5</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -1363,28 +1343,6 @@
   <TD>光電所和IEECS合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>273838
-<td><A href="Curr.jsp?format=-2&code=6504584">光機電系統概論與實務製造</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2075">光電四</A><BR>
-
-<td>　
-  <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
-<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=529">億光0935</A><BR>
-
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>　
-<td align=center>　
-  <TD>建議併修光學系統設計,部份週次整天在工廠加工</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>是</TD>
 </TR>
 <TR>
 <td>273839
@@ -1400,7 +1358,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=529">億光0935</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1416,13 +1374,14 @@
 <td align=CENTER>3.0
 <td align=CENTER>3
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2196">光電三</A><BR>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2075">光電四</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2196">光電三</A><BR>
 
 <td>　
   <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=529">億光0935</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>13</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1449,7 +1408,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273845&code=11897">查詢</A><BR>
   <TD>計中電腦教室, PBL ,光電三四、所和IEECS合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1469,7 +1428,7 @@
   <TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=530">億光1035</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>13</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -1510,7 +1469,7 @@
 
   <TD>　<TD>6 7 8 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>20</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　

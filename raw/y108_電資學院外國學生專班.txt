@@ -74,8 +74,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=12079">黃琛傑</A><BR>
 
   <TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=548">科研大樓427</A><BR>
+
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -96,8 +97,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23988">張俊明</A><BR>
 
   <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=548">科研大樓427</A><BR>
+
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -118,8 +120,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11292">馬尚智</A><BR>
 
   <TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=548">科研大樓427</A><BR>
+
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -142,7 +145,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=353">綜科104</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -163,33 +166,13 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11107">劉傳銘</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=548">科研大樓427</A><BR>
+
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
 <td align=center><A href="ShowSyllabus.jsp?snum=269609&code=11107">查詢</A><BR>
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>269610
-<td><A href="Curr.jsp?format=-2&code=3102097">機率</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2404">電資外生二</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>英語
-<td align=center>　
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -206,33 +189,13 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10304">譚巽言</A><BR>
 
   <TD>　<TD>　<TD>　<TD>1 2 3 <TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=548">科研大樓427</A><BR>
+
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
 <td align=center><BR>
-  <TD>　</TD>
-<td align=CENTER>　</TD>
-<td align=CENTER>　</TD>
-</TR>
-<TR>
-<td>269612
-<td><A href="Curr.jsp?format=-2&code=6502105">波動光學</A>
-<td align=CENTER>1
-<td align=CENTER>3.0
-<td align=CENTER>3
-<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
-<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2404">電資外生二</A><BR>
-
-<td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
-  <TD align=Center>0</TD>
-<td>　
-<td align=CENTER>英語
-<td align=center>　
   <TD>　</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -250,7 +213,7 @@
 
   <TD>　<TD>1 2 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -271,8 +234,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11249">楊琇惠</A><BR>
 
   <TD>　<TD>6 7 <TD>　<TD>　<TD>6 7 <TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=422">六教224</A><BR>
+
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -293,8 +257,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11399">吳舜堂</A><BR>
 
   <TD>　<TD>　<TD>　<TD>3 4 <TD>5 <TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=422">六教224</A><BR>
+
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -315,8 +280,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11179">楊恆隆</A><BR>
 
   <TD>　<TD>　<TD>1 2 <TD>　<TD>1 <TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=422">六教224</A><BR>
+
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -337,8 +303,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11179">楊恆隆</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=522">億光0612</A><BR>
+
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -359,8 +326,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11892">蔡明誠</A><BR>
 
   <TD>　<TD>　<TD>8 9 <TD>9 <TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=422">六教224</A><BR>
+
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -381,8 +349,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11324">謝東儒</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=422">六教224</A><BR>
+
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -405,7 +374,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>5</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -428,7 +397,7 @@
 
   <TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>6</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -451,7 +420,7 @@
 
   <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -474,7 +443,7 @@
 
   <TD>　<TD>　<TD>　<TD>1 2 3 <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -498,7 +467,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=353">綜科104</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>11</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -521,7 +490,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>7</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -544,7 +513,7 @@
 
   <TD>　<TD>　<TD>　<TD>7 8 9 <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>14</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -567,7 +536,7 @@
 
   <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>6</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -590,7 +559,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>1 5 6 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -614,7 +583,7 @@
   <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=528">億光0835</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>7</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -637,7 +606,7 @@
   <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=534">億光1113</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -680,7 +649,7 @@
 
   <TD>　<TD>8 9 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -724,7 +693,7 @@
 
   <TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>11</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -747,7 +716,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>7</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -773,7 +742,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=210">綜科422</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>7</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -796,7 +765,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>5</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -819,7 +788,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>15</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -865,7 +834,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>1 5 6 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -888,7 +857,7 @@
 
   <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>9</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -911,7 +880,7 @@
 
   <TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>9</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -934,7 +903,7 @@
   <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=529">億光0935</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -958,7 +927,7 @@
   <TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=535">億光1115</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>5</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -985,7 +954,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273845&code=11897">查詢</A><BR>
   <TD>計中電腦教室, PBL ,光電三四、所和IEECS合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -1002,8 +971,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10383">蕭榮修</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=422">六教224</A><BR>
+
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語

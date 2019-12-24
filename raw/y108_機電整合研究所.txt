@@ -54,7 +54,7 @@
   <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=341">綜一演講廳</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>80</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -77,7 +77,7 @@
   <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=341">綜一演講廳</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>12</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -103,7 +103,7 @@
   <TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=51">三教311</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>13</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -126,7 +126,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>11</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -148,7 +148,7 @@
 
   <TD>　<TD>5 <TD>1 2 <TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>16</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -171,7 +171,7 @@
   <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=383">共同411</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>17</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -195,7 +195,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=51">三教311</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>34</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -218,7 +218,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=186">綜科327</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>24</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -236,18 +236,20 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2446">機電所</A><BR>
 <A href="Subj.jsp?format=-4&year=108&sem=2&code=2472">機械自動化外生專班</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2476">機電博所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2480">機電外國學生專班</A><BR>
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11068">蕭俊祥</A><BR>
 
   <TD>　<TD>1 2 3 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=401">綜科328_1</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>29</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
 <td align=center><A href="ShowSyllabus.jsp?snum=270390&code=11068">查詢</A><BR>
-  <TD>甲/8選2/綜合科館328-1</TD>
+  <TD>甲/8選2/綜合科館328-1/機電所、機電博及外生合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -285,7 +287,7 @@
 
   <TD>　<TD>　<TD>A B <TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>11</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -307,7 +309,7 @@
 
   <TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -330,11 +332,11 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>12</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=272255&code=10430">查詢</A><BR>
   <TD>限24人/職機電所與職製科所合開，四ABC。綜科802</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -353,7 +355,7 @@
   <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=49">三教308</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>39</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -377,7 +379,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=94">綜科110_1</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>20</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -400,7 +402,7 @@
   <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=50">三教309</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>5</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -422,7 +424,7 @@
 
   <TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>8</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -445,7 +447,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>16</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -468,7 +470,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=411">綜科110_2</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>6</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -491,7 +493,7 @@
   <TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=49">三教308</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>20</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -514,7 +516,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=51">三教311</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>11</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -532,17 +534,19 @@
 <td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2446">機電所</A><BR>
 <A href="Subj.jsp?format=-4&year=108&sem=2&code=2472">機械自動化外生專班</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2476">機電博所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2480">機電外國學生專班</A><BR>
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11299">楊哲化</A><BR>
 
   <TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
 <td align=center><BR>
-  <TD>機電所和機械外生合開</TD>
+  <TD>機電所、機械博及外生合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -556,18 +560,20 @@
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2446">機電所</A><BR>
 <A href="Subj.jsp?format=-4&year=108&sem=2&code=2454">製科所</A><BR>
 <A href="Subj.jsp?format=-4&year=108&sem=2&code=2472">機械自動化外生專班</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2476">機電博所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2480">機電外國學生專班</A><BR>
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11767">孫殷同</A><BR>
 
   <TD>　<TD>6 7 8 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=411">綜科110_2</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>25</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
 <td align=center><A href="ShowSyllabus.jsp?snum=273681&code=11767">查詢</A><BR>
-  <TD>限25人/製科所必選課程之一/機電所、製科所、機械自動</TD>
+  <TD>限25人/製科所必選課程之一/機電、製科、機械博及外生</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -581,17 +587,19 @@
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2446">機電所</A><BR>
 <A href="Subj.jsp?format=-4&year=108&sem=2&code=2454">製科所</A><BR>
 <A href="Subj.jsp?format=-4&year=108&sem=2&code=2472">機械自動化外生專班</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2476">機電博所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2480">機電外國學生專班</A><BR>
 
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11087">汪家昌</A><BR>
 
   <TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>13</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
 <td align=center><A href="ShowSyllabus.jsp?snum=273689&code=11087">查詢</A><BR>
-  <TD>限20人/機電、製科及機械外生專班合開/3D列印</TD>
+  <TD>限20人/機電、製科、機電博及機械外生合開/3D列印</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -609,11 +617,11 @@
   <TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=185">綜科328</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>26</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273707&code=23000">查詢</A><BR>
   <TD>乙/8選2，限35人</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -632,7 +640,7 @@
   <TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=94">綜科110_1</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>6</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -655,7 +663,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -678,7 +686,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>15</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -700,7 +708,7 @@
 
   <TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>35</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -723,7 +731,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>40</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -766,7 +774,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>10</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -789,7 +797,7 @@
 
   <TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -812,7 +820,7 @@
 
   <TD>　<TD>　<TD>　<TD>7 8 9 <TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>13</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　

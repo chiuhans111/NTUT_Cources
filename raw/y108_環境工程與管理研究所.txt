@@ -55,7 +55,7 @@
   <TD><TD><TD><TD><TD>5 6 <TD><TD>
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=543">货1343</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>19</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -78,7 +78,7 @@
 
   <TD><TD><TD><TD><TD>7 8 <TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>6</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -123,7 +123,7 @@
 
   <TD><TD><TD><TD><TD>2 3 4 <TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>6</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -145,11 +145,11 @@
 
   <TD><TD><TD>6 7 8 <TD><TD><TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270967&code=11128">琩高</A><BR>
   <TD></TD>
 <td align=CENTER></TD>
 <td align=CENTER></TD>
@@ -167,7 +167,7 @@
 
   <TD><TD><TD><TD>2 3 4 <TD><TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>17</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -190,7 +190,7 @@
 
   <TD><TD><TD><TD><TD><TD>6 7 8 <TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>9</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -213,11 +213,11 @@
   <TD><TD>6 7 8 <TD><TD><TD><TD><TD>
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=543">货1343</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>5</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=270991&code=11021">琩高</A><BR>
   <TD></TD>
 <td align=CENTER></TD>
 <td align=CENTER></TD>
@@ -234,7 +234,7 @@
 <td>
   <TD><TD><TD><TD><TD><TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -262,7 +262,7 @@
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><A href="ShowSyllabus.jsp?snum=272659&code=11725">琩高</A><BR><BR><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=272659&code=11725">琩高</A><BR><A href="ShowSyllabus.jsp?snum=272659&code=11128">琩高</A><BR><A href="ShowSyllabus.jsp?snum=272659&code=11021">琩高</A><BR>
   <TD></TD>
 <td align=CENTER>琌</TD>
 <td align=CENTER></TD>
@@ -302,7 +302,7 @@
 
   <TD><TD><TD><TD><TD><TD>2 3 4 <TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -326,7 +326,7 @@
   <TD><TD><TD>2 3 4 <TD><TD><TD><TD>
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=543">货1343</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>8</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -349,11 +349,11 @@
   <TD><TD><TD><TD>6 7 8 <TD><TD><TD>
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=543">货1343</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>9</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273245&code=11128">琩高</A><BR>
   <TD></TD>
 <td align=CENTER></TD>
 <td align=CENTER></TD>
@@ -371,7 +371,7 @@
 
   <TD><TD>2 3 4 <TD><TD><TD><TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>13</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -421,7 +421,7 @@
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR><BR><BR>
+<td align=center><BR><BR><A href="ShowSyllabus.jsp?snum=273249&code=11021">琩高</A><BR>
   <TD></TD>
 <td align=CENTER></TD>
 <td align=CENTER></TD>
@@ -460,7 +460,7 @@
 
   <TD><TD><TD>A B C <TD><TD><TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
@@ -483,11 +483,11 @@
 
   <TD><TD><TD><TD>A B C <TD><TD><TD>
 <td>
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>
 <td align=CENTER>
-<td align=center><BR><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=273258&code=11021">琩高</A><BR><BR>
   <TD></TD>
 <td align=CENTER>琌</TD>
 <td align=CENTER></TD>

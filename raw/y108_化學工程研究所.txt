@@ -56,7 +56,7 @@
   <TD>　<TD>　<TD>　<TD>7 8 9 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=87">五教303</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>34</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -79,7 +79,7 @@
 
   <TD>　<TD>　<TD>6 7 8 <TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>10</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -102,7 +102,7 @@
   <TD>　<TD>5 6 7 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=64">三教507</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>46</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -124,7 +124,7 @@
 
   <TD>　<TD>　<TD>6 7 8 <TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -147,7 +147,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>6 7 8 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=42">三教208</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -170,11 +170,11 @@
   <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=399">化工101</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>53</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271111&code=11138">查詢</A><BR>
   <TD>化工碩士班；碩博合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -216,7 +216,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=399">化工101</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>8</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -239,7 +239,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=399">化工101</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>55</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -262,7 +262,7 @@
   <TD>　<TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=45">三教302</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -285,7 +285,7 @@
   <TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=26">二教301</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>11</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -308,11 +308,11 @@
   <TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=399">化工101</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>25</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271148&code=11138">查詢</A><BR>
   <TD>限25人(碩班);化工大四和化工所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -398,7 +398,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=87">五教303</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -421,11 +421,11 @@
   <TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=399">化工101</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271716&code=11138">查詢</A><BR>
   <TD>化工博班化工組；與化工碩合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -486,7 +486,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10589">蔡德華</A><BR>
 
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>2 3 4 
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=399">化工101</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -508,8 +509,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=23902">左峻德</A><BR>
 
   <TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=26">二教301</A><BR>
+
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -530,8 +532,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10330">陳生明</A><BR>
 
   <TD>　<TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=399">化工101</A><BR>
+
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -552,8 +555,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10588">陳文章</A><BR>
 
   <TD>　<TD>B C D <TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=399">化工101</A><BR>
+
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -574,7 +578,8 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10955">侯劭毅</A><BR>
 
   <TD>　<TD>　<TD>A B C <TD>　<TD>　<TD>　<TD>　
-<td>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=399">化工101</A><BR>
+
   <TD align=Center>0</TD>
   <TD align=Center>0</TD>
 <td>　
@@ -596,7 +601,7 @@
 <td>　
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -617,8 +622,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10549">蘇文達</A><BR>
 
   <TD>　<TD>A <TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=399">化工101</A><BR>
+
+  <TD align=Center>3</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -639,8 +645,9 @@
 <td><A href="Teach.jsp?format=-3&year=108&sem=2&code=10549">蘇文達</A><BR>
 
   <TD>　<TD>　<TD>　<TD>D <TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=399">化工101</A><BR>
+
+  <TD align=Center>1</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -663,7 +670,7 @@
   <TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=65">三教508</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>4</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
@@ -686,7 +693,7 @@
   <TD>　<TD>　<TD>　<TD>　<TD>　<TD>5 6 7 <TD>　
 <td><A href="Croom.jsp?format=-3&year=108&sem=2&code=66">三教509</A><BR>
 
-  <TD align=Center>0</TD>
+  <TD align=Center>12</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　

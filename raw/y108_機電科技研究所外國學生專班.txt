@@ -41,6 +41,32 @@
       <TH align=Center>實驗<BR>實習</TH>
   </TR>
 <TR>
+<td>270390
+<td><A href="Curr.jsp?format=-2&code=4006004">智慧型控制應用</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2446">機電所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2472">機械自動化外生專班</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2476">機電博所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2480">機電外國學生專班</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11068">蕭俊祥</A><BR>
+
+  <TD>　<TD>1 2 3 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=401">綜科328_1</A><BR>
+
+  <TD align=Center>29</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><A href="ShowSyllabus.jsp?snum=270390&code=11068">查詢</A><BR>
+  <TD>甲/8選2/綜合科館328-1/機電所、機電博及外生合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
 <td>271415
 <td><A href="Curr.jsp?format=-2&code=6607004">專題討論</A>
 <td align=CENTER>2
@@ -54,7 +80,7 @@
 
   <TD>　<TD>　<TD>　<TD>　<TD>3 4 <TD>　<TD>　
 <td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>8</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
@@ -73,15 +99,16 @@
 <td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2476">機電博所</A><BR>
 <A href="Subj.jsp?format=-4&year=108&sem=2&code=2480">機電外國學生專班</A><BR>
 
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=20734">彭暐潔</A><BR>
+
+  <TD>　<TD>　<TD>　<TD>5 6 7 <TD>　<TD>　<TD>　
 <td>　
-  <TD>　<TD>　<TD>　<TD>　<TD>　<TD>　<TD>　
-<td>　
-  <TD align=Center>0</TD>
+  <TD align=Center>2</TD>
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>英語
-<td align=center>　
-  <TD>　</TD>
+<td align=center><BR>
+  <TD>機電博班、外生班和製科所合開</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>
@@ -103,6 +130,84 @@
 <td align=CENTER>英語
 <td align=center>　
   <TD>　</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273472
+<td><A href="Curr.jsp?format=-2&code=4007010">雷射超音波技術</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2446">機電所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2472">機械自動化外生專班</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2476">機電博所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2480">機電外國學生專班</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11299">楊哲化</A><BR>
+
+  <TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>4</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><BR>
+  <TD>機電所、機械博及外生合開</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273681
+<td><A href="Curr.jsp?format=-2&code=5605089">精實製造系統</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2446">機電所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2454">製科所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2472">機械自動化外生專班</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2476">機電博所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2480">機電外國學生專班</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11767">孫殷同</A><BR>
+
+  <TD>　<TD>6 7 8 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td><A href="Croom.jsp?format=-3&year=108&sem=2&code=411">綜科110_2</A><BR>
+
+  <TD align=Center>25</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><A href="ShowSyllabus.jsp?snum=273681&code=11767">查詢</A><BR>
+  <TD>限25人/製科所必選課程之一/機電、製科、機械博及外生</TD>
+<td align=CENTER>　</TD>
+<td align=CENTER>　</TD>
+</TR>
+<TR>
+<td>273689
+<td><A href="Curr.jsp?format=-2&code=5605087">積層製造技術</A>
+<td align=CENTER>1
+<td align=CENTER>3.0
+<td align=CENTER>3
+<td align=CENTER><A href="Cprog.jsp?format=-5">★</A>
+<td><A href="Subj.jsp?format=-4&year=108&sem=2&code=2446">機電所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2454">製科所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2472">機械自動化外生專班</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2476">機電博所</A><BR>
+<A href="Subj.jsp?format=-4&year=108&sem=2&code=2480">機電外國學生專班</A><BR>
+
+<td><A href="Teach.jsp?format=-3&year=108&sem=2&code=11087">汪家昌</A><BR>
+
+  <TD>　<TD>2 3 4 <TD>　<TD>　<TD>　<TD>　<TD>　
+<td>　
+  <TD align=Center>13</TD>
+  <TD align=Center>0</TD>
+<td>　
+<td align=CENTER>英語
+<td align=center><A href="ShowSyllabus.jsp?snum=273689&code=11087">查詢</A><BR>
+  <TD>限20人/機電、製科、機電博及機械外生合開/3D列印</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
 </TR>

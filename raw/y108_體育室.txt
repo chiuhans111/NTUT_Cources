@@ -65,7 +65,7 @@
 <TR>
 <td>271477
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -87,7 +87,7 @@
 <TR>
 <td>271478
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -109,7 +109,7 @@
 <TR>
 <td>271479
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -131,7 +131,7 @@
 <TR>
 <td>271480
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -153,7 +153,7 @@
 <TR>
 <td>271481
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -175,7 +175,7 @@
 <TR>
 <td>271482
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -197,7 +197,7 @@
 <TR>
 <td>271483
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -219,7 +219,7 @@
 <TR>
 <td>271484
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -241,7 +241,7 @@
 <TR>
 <td>271485
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -263,7 +263,7 @@
 <TR>
 <td>271486
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -285,7 +285,7 @@
 <TR>
 <td>271487
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -307,7 +307,7 @@
 <TR>
 <td>271488
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -329,7 +329,7 @@
 <TR>
 <td>271489
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -351,7 +351,7 @@
 <TR>
 <td>271490
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -373,7 +373,7 @@
 <TR>
 <td>271491
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -395,7 +395,7 @@
 <TR>
 <td>271492
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -417,7 +417,7 @@
 <TR>
 <td>271493
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -431,7 +431,7 @@
   <TD align=Center>0</TD>
 <td>　
 <td align=CENTER>　
-<td align=center><BR>
+<td align=center><A href="ShowSyllabus.jsp?snum=271493&code=24093">查詢</A><BR>
   <TD>體適能C</TD>
 <td align=CENTER>　</TD>
 <td align=CENTER>　</TD>
@@ -439,7 +439,7 @@
 <TR>
 <td>271494
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -461,7 +461,7 @@
 <TR>
 <td>271495
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -483,7 +483,7 @@
 <TR>
 <td>271496
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -505,7 +505,7 @@
 <TR>
 <td>271497
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -527,7 +527,7 @@
 <TR>
 <td>271498
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -549,7 +549,7 @@
 <TR>
 <td>271499
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -571,7 +571,7 @@
 <TR>
 <td>271500
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -593,7 +593,7 @@
 <TR>
 <td>271501
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -615,7 +615,7 @@
 <TR>
 <td>271502
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -637,7 +637,7 @@
 <TR>
 <td>271503
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -659,7 +659,7 @@
 <TR>
 <td>271504
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -681,7 +681,7 @@
 <TR>
 <td>271505
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -703,7 +703,7 @@
 <TR>
 <td>271506
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -725,7 +725,7 @@
 <TR>
 <td>271507
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -747,7 +747,7 @@
 <TR>
 <td>271508
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -769,7 +769,7 @@
 <TR>
 <td>271509
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -791,7 +791,7 @@
 <TR>
 <td>271510
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -813,7 +813,7 @@
 <TR>
 <td>271511
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -835,7 +835,7 @@
 <TR>
 <td>271512
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -857,7 +857,7 @@
 <TR>
 <td>271513
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -879,7 +879,7 @@
 <TR>
 <td>271514
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -901,7 +901,7 @@
 <TR>
 <td>271515
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -923,7 +923,7 @@
 <TR>
 <td>271516
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -945,7 +945,7 @@
 <TR>
 <td>271517
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -967,7 +967,7 @@
 <TR>
 <td>271518
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -989,7 +989,7 @@
 <TR>
 <td>271519
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1011,7 +1011,7 @@
 <TR>
 <td>271520
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1033,7 +1033,7 @@
 <TR>
 <td>271521
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1055,7 +1055,7 @@
 <TR>
 <td>271522
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1077,7 +1077,7 @@
 <TR>
 <td>271523
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1099,7 +1099,7 @@
 <TR>
 <td>271524
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1121,7 +1121,7 @@
 <TR>
 <td>271525
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1143,7 +1143,7 @@
 <TR>
 <td>271526
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1165,7 +1165,7 @@
 <TR>
 <td>271527
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1187,7 +1187,7 @@
 <TR>
 <td>271528
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1209,7 +1209,7 @@
 <TR>
 <td>271529
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1231,7 +1231,7 @@
 <TR>
 <td>271530
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1253,7 +1253,7 @@
 <TR>
 <td>271531
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1275,7 +1275,7 @@
 <TR>
 <td>271532
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1297,7 +1297,7 @@
 <TR>
 <td>271533
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1319,7 +1319,7 @@
 <TR>
 <td>271534
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1341,7 +1341,7 @@
 <TR>
 <td>271535
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1363,7 +1363,7 @@
 <TR>
 <td>271536
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1385,7 +1385,7 @@
 <TR>
 <td>271537
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1407,7 +1407,7 @@
 <TR>
 <td>271538
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1429,7 +1429,7 @@
 <TR>
 <td>271539
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1451,7 +1451,7 @@
 <TR>
 <td>271540
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1473,7 +1473,7 @@
 <TR>
 <td>271541
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1495,7 +1495,7 @@
 <TR>
 <td>271542
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1517,7 +1517,7 @@
 <TR>
 <td>271543
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1539,7 +1539,7 @@
 <TR>
 <td>271544
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1561,7 +1561,7 @@
 <TR>
 <td>271545
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>3
+<td align=CENTER>4
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1583,7 +1583,7 @@
 <TR>
 <td>271546
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1605,7 +1605,7 @@
 <TR>
 <td>271547
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1627,7 +1627,7 @@
 <TR>
 <td>271548
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1649,7 +1649,7 @@
 <TR>
 <td>271549
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1671,7 +1671,7 @@
 <TR>
 <td>271550
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1693,7 +1693,7 @@
 <TR>
 <td>271551
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
@@ -1715,7 +1715,7 @@
 <TR>
 <td>271552
 <td><A href="Curr.jsp?format=-2&code=1001001">體育</A>
-<td align=CENTER>5
+<td align=CENTER>6
 <td align=CENTER>0.0
 <td align=CENTER>2
 <td align=CENTER><A href="Cprog.jsp?format=-5">△</A>
