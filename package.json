@@ -13,7 +13,7 @@
     "iconv-lite": "^0.5.0",
     "jsdom": "^15.2.1",
     "vue": "^2.6.10",
-    "vuetify": "^2.1.0"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@mdi/font": "^4.7.95",
